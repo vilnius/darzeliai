@@ -1,5 +1,5 @@
 LABEL;ADDRESS;GIS_X;GIS_Y;DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
-Aitvaras;"Pašilaičių g. 10";6066674;579323;31;Aitvaras;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;33;0
+Aitvaras;"Pašilaičių g. 10";6066674;579323;31;Aitvaras;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;34;0
 Aitvaras;"Pašilaičių g. 10";6066674;579323;31;Aitvaras;6;"Nuo 3 iki 4 metų";1;Lietuvių;26;0
 Aitvaras;"Pašilaičių g. 10";6066674;579323;31;Aitvaras;7;"Nuo 4 iki 5 metų";1;Lietuvių;27;0
 Aitvaras;"Pašilaičių g. 10";6066674;579323;31;Aitvaras;8;"Nuo 5 iki 6 metų";1;Lietuvių;42;0
@@ -25,8 +25,8 @@ Beržynėlis;"Beržyno g. 7A, Vilnius";580943;6061242;34;Beržynėlis;6;"Nuo 3 i
 Beržynėlis;"Beržyno g. 7A, Vilnius";580943;6061242;34;Beržynėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;24;0
 Beržynėlis;"Beržyno g. 7A, Vilnius";580943;6061242;34;Beržynėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;22;0
 Beržynėlis;"Beržyno g. 7A, Vilnius";580943;6061242;34;Beržynėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;20;0
-Bildukas;"Mindaugo g. 7";6061130;582078;35;Bildukas;3;"Nuo 1,5 iki 3 metų";2;Rusų;49;0
-Bildukas;"Mindaugo g. 7";6061130;582078;35;Bildukas;4;"Nuo 3 iki 7 metų";2;Rusų;44;0
+Bildukas;"Mindaugo g. 7";6061130;582078;35;Bildukas;3;"Nuo 1,5 iki 3 metų";2;Rusų;48;1
+Bildukas;"Mindaugo g. 7";6061130;582078;35;Bildukas;4;"Nuo 3 iki 7 metų";2;Rusų;44;2
 Birutės;"Birutės g. 4, Vilnius";580647;6061804;36;Birutės;6;"Nuo 3 iki 4 metų";1;Lietuvių;23;23
 Birutės;"Birutės g. 4, Vilnius";580647;6061804;36;Birutės;7;"Nuo 4 iki 5 metų";1;Lietuvių;23;0
 Birutės;"Birutės g. 4, Vilnius";580647;6061804;36;Birutės;8;"Nuo 5 iki 6 metų";1;Lietuvių;23;0
@@ -72,11 +72,11 @@ Drugelis;"Rinktinės g. 28A, Vilnius";582953;6062908;45;Drugelis;6;"Nuo 3 iki 4 
 Drugelis;"Rinktinės g. 28A, Vilnius";582953;6062908;45;Drugelis;7;"Nuo 4 iki 5 metų";1;Lietuvių;22;0
 Drugelis;"Rinktinės g. 28A, Vilnius";582953;6062908;45;Drugelis;8;"Nuo 5 iki 6 metų";1;Lietuvių;22;0
 Drugelis;"Rinktinės g. 28A, Vilnius";582953;6062908;45;Drugelis;9;"Nuo 6 iki 7 metų";1;Lietuvių;23;0
-"Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";3;"Nuo 1,5 iki 3 metų";1;Lietuvių;30;21
-"Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";6;"Nuo 3 iki 4 metų";1;Lietuvių;20;2
+"Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";3;"Nuo 1,5 iki 3 metų";1;Lietuvių;50;1
+"Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";6;"Nuo 3 iki 4 metų";1;Lietuvių;22;0
 "Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";7;"Nuo 4 iki 5 metų";1;Lietuvių;20;0
-"Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";8;"Nuo 5 iki 6 metų";1;Lietuvių;21;3
-"Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";9;"Nuo 6 iki 7 metų";1;Lietuvių;19;2
+"Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";8;"Nuo 5 iki 6 metų";1;Lietuvių;22;2
+"Du gaideliai";"Pelesos g. 15, Vilnius";582659;6059555;46;"Du gaideliai";9;"Nuo 6 iki 7 metų";1;Lietuvių;21;0
 Eglutė;"Miglos g. 3";6063700;580436;47;Eglutė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;103;0
 Eglutė;"Miglos g. 3";6063700;580436;47;Eglutė;4;"Nuo 3 iki 7 metų";1;Lietuvių;23;0
 Eglutė;"Miglos g. 3";6063700;580436;47;Eglutė;6;"Nuo 3 iki 4 metų";1;Lietuvių;66;0
@@ -93,15 +93,15 @@ Gandriukas;"Fabijoniškių g. 7";6065778;580283;49;Gandriukas;9;"Nuo 6 iki 7 met
 "Geniukų kalvė";"Muitinės g. 30, Vilnius";581387;6060906;50;"Geniukų kalvė";7;"Nuo 4 iki 5 metų";1;Lietuvių;50;0
 "Geniukų kalvė";"Muitinės g. 30, Vilnius";581387;6060906;50;"Geniukų kalvė";8;"Nuo 5 iki 6 metų";1;Lietuvių;68;0
 "Geniukų kalvė";"Muitinės g. 30, Vilnius";581387;6060906;50;"Geniukų kalvė";9;"Nuo 6 iki 7 metų";1;Lietuvių;62;0
-Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;30;0
-Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;3;"Nuo 1,5 iki 3 metų";2;Rusų;29;0
-Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;4;"Nuo 3 iki 7 metų";4;Lenkų;32;0
-Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;29;0
-Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;6;"Nuo 3 iki 4 metų";2;Rusų;26;0
+Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;16;14
+Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;3;"Nuo 1,5 iki 3 metų";2;Rusų;16;13
+Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;4;"Nuo 3 iki 7 metų";4;Lenkų;23;9
+Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;21;8
+Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;6;"Nuo 3 iki 4 metų";2;Rusų;20;6
 Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;22;0
-Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;7;"Nuo 4 iki 5 metų";2;Rusų;23;2
+Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;7;"Nuo 4 iki 5 metų";2;Rusų;22;3
 Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;22;0
-Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;8;"Nuo 5 iki 6 metų";2;Rusų;21;2
+Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;8;"Nuo 5 iki 6 metų";2;Rusų;20;3
 Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;21;0
 Gelvonėlis;"Gelvonų g. 1, Vilnius";581076;6065015;51;Gelvonėlis;11;"Nuo 5 iki 7 metų";2;Rusų;18;7
 Gervelė;"Dzūkų g. 32, Vilnius";582938;6059430;52;Gervelė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;26;0
@@ -110,11 +110,11 @@ Gervelė;"Dzūkų g. 32, Vilnius";582938;6059430;52;Gervelė;6;"Nuo 3 iki 4 met�
 Gervelė;"Dzūkų g. 32, Vilnius";582938;6059430;52;Gervelė;7;"Nuo 4 iki 5 metų";1;Lietuvių;21;0
 Gervelė;"Dzūkų g. 32, Vilnius";582938;6059430;52;Gervelė;8;"Nuo 5 iki 6 metų";1;Lietuvių;17;4
 Gervelė;"Dzūkų g. 32, Vilnius";582938;6059430;52;Gervelė;9;"Nuo 6 iki 7 metų";1;Lietuvių;22;0
-Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;36;36
-Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;6;"Nuo 3 iki 4 metų";1;Lietuvių;43;26
-Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;7;"Nuo 4 iki 5 metų";1;Lietuvių;43;1
-Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;8;"Nuo 5 iki 6 metų";1;Lietuvių;66;0
-Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;9;"Nuo 6 iki 7 metų";1;Lietuvių;89;20
+Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;72;0
+Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;6;"Nuo 3 iki 4 metų";1;Lietuvių;69;0
+Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;7;"Nuo 4 iki 5 metų";1;Lietuvių;44;0
+Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;8;"Nuo 5 iki 6 metų";1;Lietuvių;65;1
+Gilužis;"Vydūno g. 11A, Vilnius";576329;6063915;53;Gilužis;9;"Nuo 6 iki 7 metų";1;Lietuvių;108;1
 Gintarėlis;"Didlaukio g. 35, Vilnius";581859;6066821;54;Gintarėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;52;0
 Gintarėlis;"Didlaukio g. 35, Vilnius";581859;6066821;54;Gintarėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;67;0
 Gintarėlis;"Didlaukio g. 35, Vilnius";581859;6066821;54;Gintarėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;55;0
@@ -122,7 +122,7 @@ Gintarėlis;"Didlaukio g. 35, Vilnius";581859;6066821;54;Gintarėlis;8;"Nuo 5 ik
 Gintarėlis;"Didlaukio g. 35, Vilnius";581859;6066821;54;Gintarėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;62;0
 Gintarėlis;"Didlaukio g. 35, Vilnius";581859;6066821;54;Gintarėlis;14;"Nuo 3 iki 6 metų";1;Lietuvių;28;0
 Giraitė;"Erfurto g. 42";6060492;577795;55;Giraitė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;72;0
-Giraitė;"Erfurto g. 42";6060492;577795;55;Giraitė;6;"Nuo 3 iki 4 metų";1;Lietuvių;64;9
+Giraitė;"Erfurto g. 42";6060492;577795;55;Giraitė;6;"Nuo 3 iki 4 metų";1;Lietuvių;64;8
 Giraitė;"Erfurto g. 42";6060492;577795;55;Giraitė;7;"Nuo 4 iki 5 metų";1;Lietuvių;43;0
 Giraitė;"Erfurto g. 42";6060492;577795;55;Giraitė;8;"Nuo 5 iki 6 metų";1;Lietuvių;62;0
 Giraitė;"Erfurto g. 42";6060492;577795;55;Giraitė;9;"Nuo 6 iki 7 metų";1;Lietuvių;52;2
@@ -153,13 +153,13 @@ Karusėlė;"Gedvydžių 25, Vilnius";579862;6067383;59;Karusėlė;9;"Nuo 6 iki 7
 Karusėlė;"Gedvydžių 25, Vilnius";579862;6067383;59;Karusėlė;9;"Nuo 6 iki 7 metų";2;Rusų;20;0
 Karusėlė;"Gedvydžių 25, Vilnius";579862;6067383;59;Karusėlė;13;"Nuo 4 iki 6 metų";1;Lietuvių;21;0
 Karusėlė;"Gedvydžių 25, Vilnius";579862;6067383;59;Karusėlė;14;"Nuo 3 iki 6 metų";4;Lenkų;21;0
-Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;3;"Nuo 1,5 iki 3 metų";2;Rusų;21;1
-Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;22;14
-Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;10;"Nuo 3 iki 5 metų";1;Lietuvių;19;3
-Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;10;"Nuo 3 iki 5 metų";4;Lenkų;2;6
-Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;11;"Nuo 5 iki 7 metų";1;Lietuvių;23;3
+Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;3;"Nuo 1,5 iki 3 metų";2;Rusų;22;0
+Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;36;0
+Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;10;"Nuo 3 iki 5 metų";1;Lietuvių;22;0
+Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;10;"Nuo 3 iki 5 metų";4;Lenkų;8;0
+Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;11;"Nuo 5 iki 7 metų";1;Lietuvių;25;1
 Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;11;"Nuo 5 iki 7 metų";4;Lenkų;0;1
-Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;14;"Nuo 3 iki 6 metų";2;Rusų;23;2
+Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;14;"Nuo 3 iki 6 metų";2;Rusų;25;0
 Kaštonas;"Antakalnio g. 108";6065166;584743;60;Kaštonas;14;"Nuo 3 iki 6 metų";4;Lenkų;28;0
 Krivūlė;"Lydos g. 5, Vilnius";582618;6060984;61;Krivūlė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;34;0
 Krivūlė;"Lydos g. 5, Vilnius";582618;6060984;61;Krivūlė;6;"Nuo 3 iki 4 metų";1;Lietuvių;61;0
@@ -174,10 +174,10 @@ Kodėlčiukas;"Laisvės pr. 59, Vilnius";579454;6065252;62;Kodėlčiukas;7;"Nuo 
 Kodėlčiukas;"Laisvės pr. 59, Vilnius";579454;6065252;62;Kodėlčiukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;41;0
 Kodėlčiukas;"Laisvės pr. 59, Vilnius";579454;6065252;62;Kodėlčiukas;9;"Nuo 6 iki 7 metų";1;Lietuvių;39;0
 Kodėlčiukas;"Laisvės pr. 59, Vilnius";579454;6065252;62;Kodėlčiukas;11;"Nuo 5 iki 7 metų";1;Lietuvių;20;0
-Klevelis;"Stadiono g. 5, Vilnius";583359;6059967;63;Klevelis;3;"Nuo 1,5 iki 3 metų";2;Rusų;32;0
+Klevelis;"Stadiono g. 5, Vilnius";583359;6059967;63;Klevelis;3;"Nuo 1,5 iki 3 metų";2;Rusų;16;16
 Klevelis;"Stadiono g. 5, Vilnius";583359;6059967;63;Klevelis;4;"Nuo 3 iki 7 metų";1;Lietuvių;22;0
-Klevelis;"Stadiono g. 5, Vilnius";583359;6059967;63;Klevelis;10;"Nuo 3 iki 5 metų";2;Rusų;20;0
-Klevelis;"Stadiono g. 5, Vilnius";583359;6059967;63;Klevelis;11;"Nuo 5 iki 7 metų";2;Rusų;23;0
+Klevelis;"Stadiono g. 5, Vilnius";583359;6059967;63;Klevelis;10;"Nuo 3 iki 5 metų";2;Rusų;18;2
+Klevelis;"Stadiono g. 5, Vilnius";583359;6059967;63;Klevelis;11;"Nuo 5 iki 7 metų";2;Rusų;21;2
 Kurpaitė;"Birželio 23-iosios g. 6A, Vilnius";581350;6060317;64;Kurpaitė;3;"Nuo 1,5 iki 3 metų";2;Rusų;15;13
 Kurpaitė;"Birželio 23-iosios g. 6A, Vilnius";581350;6060317;64;Kurpaitė;6;"Nuo 3 iki 4 metų";2;Rusų;20;6
 Kurpaitė;"Birželio 23-iosios g. 6A, Vilnius";581350;6060317;64;Kurpaitė;7;"Nuo 4 iki 5 metų";2;Rusų;21;1
@@ -197,12 +197,12 @@ Lašelis;"Dzūkų g. 29";6059341;582544;67;Lašelis;6;"Nuo 3 iki 4 metų";2;Rus�
 Lašelis;"Dzūkų g. 29";6059341;582544;67;Lašelis;7;"Nuo 4 iki 5 metų";2;Rusų;19;5
 Lašelis;"Dzūkų g. 29";6059341;582544;67;Lašelis;8;"Nuo 5 iki 6 metų";2;Rusų;20;3
 Lašelis;"Dzūkų g. 29";6059341;582544;67;Lašelis;9;"Nuo 6 iki 7 metų";2;Rusų;15;0
-Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;20;19
-Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;65;17
-Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;25;15
-Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;69;0
-Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;23;5
-Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;3;"Nuo 1,5 iki 3 metų";2;Rusų;51;0
+Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;38;0
+Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;82;0
+Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;38;0
+Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;60;0
+Lazdynėlis;"Lazdynų g. 36";6059832;578474;68;Lazdynėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;26;0
+Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;3;"Nuo 1,5 iki 3 metų";2;Rusų;52;0
 Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;6;"Nuo 3 iki 4 metų";1;Lietuvių;3;20
 Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;6;"Nuo 3 iki 4 metų";2;Rusų;21;0
 Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;7;"Nuo 4 iki 5 metų";2;Rusų;23;0
@@ -210,8 +210,8 @@ Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;10;"Nuo 3 iki 5 metų";2;R
 Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;11;"Nuo 5 iki 7 metų";2;Rusų;21;0
 Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;14;"Nuo 3 iki 6 metų";2;Rusų;19;0
 Liepsnelė;"Kapsų g. 7";6059010;582319;69;Liepsnelė;16;"Nuo 4 iki 7 metų";1;Lietuvių;23;3
-Linelis;"A. Mickevičiaus g. 21, Vilnius";580686;6062243;70;Linelis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;19;15
-Linelis;"A. Mickevičiaus g. 21, Vilnius";580686;6062243;70;Linelis;6;"Nuo 3 iki 4 metų";1;Lietuvių;20;2
+Linelis;"A. Mickevičiaus g. 21, Vilnius";580686;6062243;70;Linelis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;34;0
+Linelis;"A. Mickevičiaus g. 21, Vilnius";580686;6062243;70;Linelis;6;"Nuo 3 iki 4 metų";1;Lietuvių;22;0
 Linelis;"A. Mickevičiaus g. 21, Vilnius";580686;6062243;70;Linelis;7;"Nuo 4 iki 5 metų";1;Lietuvių;22;0
 Linelis;"A. Mickevičiaus g. 21, Vilnius";580686;6062243;70;Linelis;11;"Nuo 5 iki 7 metų";1;Lietuvių;19;1
 "Lokiuko giraitė";"Kovo 11-osios g. 54, Grigiškės, Vilnius";571108;6059688;71;"Lokiuko giraitė";3;"Nuo 1,5 iki 3 metų";1;Lietuvių;86;0
@@ -234,16 +234,16 @@ Medynėlis;"A. P. Kavoliuko 5, Vilnius";578006;6062828;74;Medynėlis;6;"Nuo 3 ik
 Medynėlis;"A. P. Kavoliuko 5, Vilnius";578006;6062828;74;Medynėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;66;0
 Medynėlis;"A. P. Kavoliuko 5, Vilnius";578006;6062828;74;Medynėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;87;0
 Medynėlis;"A. P. Kavoliuko 5, Vilnius";578006;6062828;74;Medynėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;37;0
-Molinukas;"Keramikų g. 34";6066566;588317;75;Molinukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;29;21
+Molinukas;"Keramikų g. 34";6066566;588317;75;Molinukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;50;0
 Molinukas;"Keramikų g. 34";6066566;588317;75;Molinukas;6;"Nuo 3 iki 4 metų";1;Lietuvių;20;0
-Molinukas;"Keramikų g. 34";6066566;588317;75;Molinukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;19;1
+Molinukas;"Keramikų g. 34";6066566;588317;75;Molinukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;20;0
 Molinukas;"Keramikų g. 34";6066566;588317;75;Molinukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;22;0
 Molinukas;"Keramikų g. 34";6066566;588317;75;Molinukas;9;"Nuo 6 iki 7 metų";1;Lietuvių;29;0
 Naminukas;"Smėlio g. 13, Vilnius";584574;6064063;76;Naminukas;6;"Nuo 3 iki 4 metų";1;Lietuvių;32;5
 Naminukas;"Smėlio g. 13, Vilnius";584574;6064063;76;Naminukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;22;0
 Naminukas;"Smėlio g. 13, Vilnius";584574;6064063;76;Naminukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;19;1
 Naminukas;"Smėlio g. 13, Vilnius";584574;6064063;76;Naminukas;9;"Nuo 6 iki 7 metų";1;Lietuvių;19;4
-Nykštukas;"Taikos g. 190, Vilnius";578266;6064340;78;Nykštukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;95;0
+Nykštukas;"Taikos g. 190, Vilnius";578266;6064340;78;Nykštukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;94;1
 Nykštukas;"Taikos g. 190, Vilnius";578266;6064340;78;Nykštukas;6;"Nuo 3 iki 4 metų";1;Lietuvių;65;27
 Nykštukas;"Taikos g. 190, Vilnius";578266;6064340;78;Nykštukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;46;0
 Nykštukas;"Taikos g. 190, Vilnius";578266;6064340;78;Nykštukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;51;0
@@ -270,13 +270,13 @@ Pakalnutė;"Architektų g. 44, Vilnius";578504;6060245;82;Pakalnutė;7;"Nuo 4 ik
 Pakalnutė;"Architektų g. 44, Vilnius";578504;6060245;82;Pakalnutė;8;"Nuo 5 iki 6 metų";1;Lietuvių;35;3
 Pakalnutė;"Architektų g. 44, Vilnius";578504;6060245;82;Pakalnutė;9;"Nuo 6 iki 7 metų";1;Lietuvių;17;2
 Pakalnutė;"Architektų g. 44, Vilnius";578504;6060245;82;Pakalnutė;19;"Nuo 2 iki 5 metų";4;Lenkų;17;9
-Panerių;"Juodšilių g. 10, Vilnius";576151;6055221;83;Panerių;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;17;12
-Panerių;"Juodšilių g. 10, Vilnius";576151;6055221;83;Panerių;10;"Nuo 3 iki 5 metų";1;Lietuvių;22;4
+Panerių;"Juodšilių g. 10, Vilnius";576151;6055221;83;Panerių;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;27;2
+Panerių;"Juodšilių g. 10, Vilnius";576151;6055221;83;Panerių;10;"Nuo 3 iki 5 metų";1;Lietuvių;26;0
 Panerių;"Juodšilių g. 10, Vilnius";576151;6055221;83;Panerių;16;"Nuo 4 iki 7 metų";1;Lietuvių;21;0
-Papartis;"Čiobiškio g. 17, Vilnius";579915;6065285;84;Papartis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;69;0
-Papartis;"Čiobiškio g. 17, Vilnius";579915;6065285;84;Papartis;6;"Nuo 3 iki 4 metų";1;Lietuvių;63;0
+Papartis;"Čiobiškio g. 17, Vilnius";579915;6065285;84;Papartis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;45;24
+Papartis;"Čiobiškio g. 17, Vilnius";579915;6065285;84;Papartis;6;"Nuo 3 iki 4 metų";1;Lietuvių;41;22
 Papartis;"Čiobiškio g. 17, Vilnius";579915;6065285;84;Papartis;7;"Nuo 4 iki 5 metų";1;Lietuvių;44;0
-Papartis;"Čiobiškio g. 17, Vilnius";579915;6065285;84;Papartis;8;"Nuo 5 iki 6 metų";1;Lietuvių;60;0
+Papartis;"Čiobiškio g. 17, Vilnius";579915;6065285;84;Papartis;8;"Nuo 5 iki 6 metų";1;Lietuvių;59;1
 Papartis;"Čiobiškio g. 17, Vilnius";579915;6065285;84;Papartis;9;"Nuo 6 iki 7 metų";1;Lietuvių;43;0
 Pasaka;"Žirmūnų g. 110, Vilnius";583842;6066164;86;Pasaka;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;31;0
 Pasaka;"Žirmūnų g. 110, Vilnius";583842;6066164;86;Pasaka;4;"Nuo 3 iki 7 metų";1;Lietuvių;91;0
@@ -291,24 +291,24 @@ Pasakaitė;"Taikos g. 30, Vilnius";578966;6065571;88;Pasakaitė;3;"Nuo 1,5 iki 3
 Pasakaitė;"Taikos g. 30, Vilnius";578966;6065571;88;Pasakaitė;6;"Nuo 3 iki 4 metų";1;Lietuvių;30;0
 Pasakaitė;"Taikos g. 30, Vilnius";578966;6065571;88;Pasakaitė;7;"Nuo 4 iki 5 metų";1;Lietuvių;22;0
 Pasakaitė;"Taikos g. 30, Vilnius";578966;6065571;88;Pasakaitė;8;"Nuo 5 iki 6 metų";1;Lietuvių;39;0
-Pasakaitė;"Taikos g. 30, Vilnius";578966;6065571;88;Pasakaitė;9;"Nuo 6 iki 7 metų";1;Lietuvių;33;7
-Pasakaitė;"Taikos g. 30, Vilnius";578966;6065571;88;Pasakaitė;14;"Nuo 3 iki 6 metų";1;Lietuvių;62;0
+Pasakaitė;"Taikos g. 30, Vilnius";578966;6065571;88;Pasakaitė;9;"Nuo 6 iki 7 metų";1;Lietuvių;24;7
+Pasakaitė;"Taikos g. 30, Vilnius";578966;6065571;88;Pasakaitė;14;"Nuo 3 iki 6 metų";1;Lietuvių;59;0
 Pelėda;"Musninkų g. 10, Vilnius";579870;6065012;89;Pelėda;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;77;0
 Pelėda;"Musninkų g. 10, Vilnius";579870;6065012;89;Pelėda;6;"Nuo 3 iki 4 metų";1;Lietuvių;52;0
 Pelėda;"Musninkų g. 10, Vilnius";579870;6065012;89;Pelėda;7;"Nuo 4 iki 5 metų";1;Lietuvių;53;4
 Pelėda;"Musninkų g. 10, Vilnius";579870;6065012;89;Pelėda;8;"Nuo 5 iki 6 metų";1;Lietuvių;47;0
 Pelėda;"Musninkų g. 10, Vilnius";579870;6065012;89;Pelėda;9;"Nuo 6 iki 7 metų";1;Lietuvių;50;0
 Pelėda;"Musninkų g. 10, Vilnius";579870;6065012;89;Pelėda;14;"Nuo 3 iki 6 metų";1;Lietuvių;23;0
-Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;42;0
-Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;3;"Nuo 1,5 iki 3 metų";2;Rusų;50;0
-Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;6;"Nuo 3 iki 4 metų";1;Lietuvių;27;7
-Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;6;"Nuo 3 iki 4 metų";2;Rusų;26;1
-Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;7;"Nuo 4 iki 5 metų";1;Lietuvių;25;0
-Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;7;"Nuo 4 iki 5 metų";2;Rusų;23;2
+Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;16;26
+Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;3;"Nuo 1,5 iki 3 metų";2;Rusų;30;30
+Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;6;"Nuo 3 iki 4 metų";1;Lietuvių;18;16
+Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;6;"Nuo 3 iki 4 metų";2;Rusų;21;6
+Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;7;"Nuo 4 iki 5 metų";1;Lietuvių;21;4
+Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;7;"Nuo 4 iki 5 metų";2;Rusų;22;3
 Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;8;"Nuo 5 iki 6 metų";2;Rusų;22;0
-Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;9;"Nuo 6 iki 7 metų";1;Lietuvių;18;2
+Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;9;"Nuo 6 iki 7 metų";1;Lietuvių;17;3
 Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;9;"Nuo 6 iki 7 metų";2;Rusų;18;4
-Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;11;"Nuo 5 iki 7 metų";1;Lietuvių;23;0
+Pelenė;"Justiniškių g. 84, Vilnius";578467;6065929;90;Pelenė;11;"Nuo 5 iki 7 metų";1;Lietuvių;20;3
 Pipiras;"Krokuvos g. 6A, Vilnius";582810;6062992;91;Pipiras;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;52;3
 Pipiras;"Krokuvos g. 6A, Vilnius";582810;6062992;91;Pipiras;6;"Nuo 3 iki 4 metų";1;Lietuvių;54;0
 Pipiras;"Krokuvos g. 6A, Vilnius";582810;6062992;91;Pipiras;7;"Nuo 4 iki 5 metų";1;Lietuvių;44;0
@@ -325,7 +325,7 @@ Pipiras;"Krokuvos g. 6A, Vilnius";582810;6062992;91;Pipiras;9;"Nuo 6 iki 7 metų
 "Prie pasakų parko";"Loretos Asanavičiūtės g. 7";6061370;577417;92;"Prie pasakų parko";11;"Nuo 5 iki 7 metų";2;Rusų;9;4
 "Prie pasakų parko";"Loretos Asanavičiūtės g. 7";6061370;577417;92;"Prie pasakų parko";14;"Nuo 3 iki 6 metų";2;Rusų;15;3
 Pumpurėlis;"Kalvarijų g. 186, Vilnius";582620;6064710;93;Pumpurėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;30;36
-Pumpurėlis;"Kalvarijų g. 186, Vilnius";582620;6064710;93;Pumpurėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;39;14
+Pumpurėlis;"Kalvarijų g. 186, Vilnius";582620;6064710;93;Pumpurėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;39;15
 Pumpurėlis;"Kalvarijų g. 186, Vilnius";582620;6064710;93;Pumpurėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;42;7
 Pumpurėlis;"Kalvarijų g. 186, Vilnius";582620;6064710;93;Pumpurėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;40;1
 Pumpurėlis;"Kalvarijų g. 186, Vilnius";582620;6064710;93;Pumpurėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;41;10
@@ -376,7 +376,7 @@ Riešutėlis;"Erfurto g. 21";6060722;577783;100;Riešutėlis;7;"Nuo 4 iki 5 met�
 Riešutėlis;"Erfurto g. 21";6060722;577783;100;Riešutėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;59;11
 Riešutėlis;"Erfurto g. 21";6060722;577783;100;Riešutėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;45;0
 Rytas;"Architektų g. 162, Vilnius";578425;6061623;101;Rytas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;83;0
-Rytas;"Architektų g. 162, Vilnius";578425;6061623;101;Rytas;6;"Nuo 3 iki 4 metų";1;Lietuvių;61;0
+Rytas;"Architektų g. 162, Vilnius";578425;6061623;101;Rytas;6;"Nuo 3 iki 4 metų";1;Lietuvių;60;1
 Rytas;"Architektų g. 162, Vilnius";578425;6061623;101;Rytas;7;"Nuo 4 iki 5 metų";1;Lietuvių;66;0
 Rytas;"Architektų g. 162, Vilnius";578425;6061623;101;Rytas;8;"Nuo 5 iki 6 metų";1;Lietuvių;76;0
 Rytas;"Architektų g. 162, Vilnius";578425;6061623;101;Rytas;9;"Nuo 6 iki 7 metų";1;Lietuvių;3;4
@@ -390,11 +390,11 @@ Ramunėlė;"Žirmūnų g. 10, Vilnius";583684;6063400;102;Ramunėlė;10;"Nuo 3 i
 Ramunėlė;"Žirmūnų g. 10, Vilnius";583684;6063400;102;Ramunėlė;11;"Nuo 5 iki 7 metų";2;Rusų;25;0
 Ramunėlė;"Žirmūnų g. 10, Vilnius";583684;6063400;102;Ramunėlė;16;"Nuo 4 iki 7 metų";4;Lenkų;24;0
 Ramunėlė;"Žirmūnų g. 10, Vilnius";583684;6063400;102;Ramunėlė;18;"Nuo 2 iki 4 metų";4;Lenkų;20;16
-Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;63;1
-Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;6;"Nuo 3 iki 4 metų";1;Lietuvių;57;1
+Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;64;0
+Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;6;"Nuo 3 iki 4 metų";1;Lietuvių;58;0
 Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;7;"Nuo 4 iki 5 metų";1;Lietuvių;46;0
 Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;8;"Nuo 5 iki 6 metų";1;Lietuvių;42;0
-Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;9;"Nuo 6 iki 7 metų";1;Lietuvių;47;7
+Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;9;"Nuo 6 iki 7 metų";1;Lietuvių;46;7
 Rūta;"Žirmūnų g. 50, Vilnius";583954;6063864;103;Rūta;14;"Nuo 3 iki 6 metų";1;Lietuvių;11;2
 Sadutė;"Z.Sierakausko g. 28, Vilnius";581487;6061537;104;Sadutė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;33;0
 Sadutė;"Z.Sierakausko g. 28, Vilnius";581487;6061537;104;Sadutė;6;"Nuo 3 iki 4 metų";1;Lietuvių;20;0
@@ -411,8 +411,8 @@ Salininkų;"Kalviškių g. 1, Salininkai, Vilnius";581325;6052946;106;Salininkų
 Salininkų;"Kalviškių g. 1, Salininkai, Vilnius";581325;6052946;106;Salininkų;6;"Nuo 3 iki 4 metų";1;Lietuvių;27;0
 Salininkų;"Kalviškių g. 1, Salininkai, Vilnius";581325;6052946;106;Salininkų;7;"Nuo 4 iki 5 metų";1;Lietuvių;23;0
 Salininkų;"Kalviškių g. 1, Salininkai, Vilnius";581325;6052946;106;Salininkų;8;"Nuo 5 iki 6 metų";1;Lietuvių;33;0
-Salvija;"J. Jasinskio g. 17, Vilnius";581258;6062104;107;Salvija;16;"Nuo 4 iki 7 metų";8;Hebrajų;29;0
-Salvija;"J. Jasinskio g. 17, Vilnius";581258;6062104;107;Salvija;18;"Nuo 2 iki 4 metų";8;Hebrajų;26;0
+Salvija;"J. Jasinskio g. 17, Vilnius";581258;6062104;107;Salvija;16;"Nuo 4 iki 7 metų";8;Hebrajų;24;5
+Salvija;"J. Jasinskio g. 17, Vilnius";581258;6062104;107;Salvija;18;"Nuo 2 iki 4 metų";8;Hebrajų;22;4
 Saulėtekis;"Genių g. 12, Vilnius";591681;6062346;108;Saulėtekis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;43;0
 Saulėtekis;"Genių g. 12, Vilnius";591681;6062346;108;Saulėtekis;3;"Nuo 1,5 iki 3 metų";2;Rusų;15;0
 Saulėtekis;"Genių g. 12, Vilnius";591681;6062346;108;Saulėtekis;6;"Nuo 3 iki 4 metų";1;Lietuvių;52;0
@@ -434,7 +434,7 @@ Smalsučiai;"Minties g. 40, Vilnius";583483;6063682;110;Smalsučiai;8;"Nuo 5 iki
 Smalsučiai;"Minties g. 40, Vilnius";583483;6063682;110;Smalsučiai;9;"Nuo 6 iki 7 metų";1;Lietuvių;57;7
 Spindulėlis;"Klinikų g. 5, Vilnius";584673;6064327;111;Spindulėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;30;0
 Spindulėlis;"Klinikų g. 5, Vilnius";584673;6064327;111;Spindulėlis;10;"Nuo 3 iki 5 metų";1;Lietuvių;24;0
-Spindulėlis;"Klinikų g. 5, Vilnius";584673;6064327;111;Spindulėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;21;4
+Spindulėlis;"Klinikų g. 5, Vilnius";584673;6064327;111;Spindulėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;20;5
 Spindulėlis;"Klinikų g. 5, Vilnius";584673;6064327;111;Spindulėlis;13;"Nuo 4 iki 6 metų";1;Lietuvių;24;0
 Spragtukas;"Žirmūnų g. 108, Vilnius";583825;6066278;112;Spragtukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;21;18
 Spragtukas;"Žirmūnų g. 108, Vilnius";583825;6066278;112;Spragtukas;3;"Nuo 1,5 iki 3 metų";2;Rusų;16;18
@@ -459,7 +459,7 @@ Sveikuolis;"Dūkštų g. 14";6064690;580111;114;Sveikuolis;7;"Nuo 4 iki 5 metų"
 Sveikuolis;"Dūkštų g. 14";6064690;580111;114;Sveikuolis;8;"Nuo 5 iki 6 metų";2;Rusų;43;2
 Sveikuolis;"Dūkštų g. 14";6064690;580111;114;Sveikuolis;9;"Nuo 6 iki 7 metų";2;Rusų;47;9
 Sveikuolis;"Dūkštų g. 14";6064690;580111;114;Sveikuolis;13;"Nuo 4 iki 6 metų";2;Rusų;18;0
-Šermukšnėlė;"Didlaukio g. 66, Vilnius";581924;6066405;115;Šermukšnėlė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;32;0
+Šermukšnėlė;"Didlaukio g. 66, Vilnius";581924;6066405;115;Šermukšnėlė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;31;1
 Šermukšnėlė;"Didlaukio g. 66, Vilnius";581924;6066405;115;Šermukšnėlė;3;"Nuo 1,5 iki 3 metų";2;Rusų;30;0
 Šermukšnėlė;"Didlaukio g. 66, Vilnius";581924;6066405;115;Šermukšnėlė;6;"Nuo 3 iki 4 metų";1;Lietuvių;72;0
 Šermukšnėlė;"Didlaukio g. 66, Vilnius";581924;6066405;115;Šermukšnėlė;7;"Nuo 4 iki 5 metų";1;Lietuvių;24;0
@@ -467,15 +467,15 @@ Sveikuolis;"Dūkštų g. 14";6064690;580111;114;Sveikuolis;13;"Nuo 4 iki 6 metų
 Šermukšnėlė;"Didlaukio g. 66, Vilnius";581924;6066405;115;Šermukšnėlė;9;"Nuo 6 iki 7 metų";1;Lietuvių;44;6
 Šermukšnėlė;"Didlaukio g. 66, Vilnius";581924;6066405;115;Šermukšnėlė;10;"Nuo 3 iki 5 metų";2;Rusų;20;0
 Šermukšnėlė;"Didlaukio g. 66, Vilnius";581924;6066405;115;Šermukšnėlė;11;"Nuo 5 iki 7 metų";2;Rusų;22;0
-Šypsena;"P. Višinskio g. 23, Vilnius";584155;6060511;116;Šypsena;3;"Nuo 1,5 iki 3 metų";4;Lenkų;60;0
+Šypsena;"P. Višinskio g. 23, Vilnius";584155;6060511;116;Šypsena;3;"Nuo 1,5 iki 3 metų";4;Lenkų;30;30
 Šypsena;"P. Višinskio g. 23, Vilnius";584155;6060511;116;Šypsena;6;"Nuo 3 iki 4 metų";4;Lenkų;22;0
-Šypsena;"P. Višinskio g. 23, Vilnius";584155;6060511;116;Šypsena;7;"Nuo 4 iki 5 metų";4;Lenkų;20;0
-Šypsena;"P. Višinskio g. 23, Vilnius";584155;6060511;116;Šypsena;8;"Nuo 5 iki 6 metų";4;Lenkų;24;0
+Šypsena;"P. Višinskio g. 23, Vilnius";584155;6060511;116;Šypsena;7;"Nuo 4 iki 5 metų";4;Lenkų;19;1
+Šypsena;"P. Višinskio g. 23, Vilnius";584155;6060511;116;Šypsena;8;"Nuo 5 iki 6 metų";4;Lenkų;22;2
 Šypsena;"P. Višinskio g. 23, Vilnius";584155;6060511;116;Šypsena;9;"Nuo 6 iki 7 metų";4;Lenkų;15;3
-Šnekutis;"Vytenio g. 41";6060541;581507;117;Šnekutis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;58;0
-Šnekutis;"Vytenio g. 41";6060541;581507;117;Šnekutis;6;"Nuo 3 iki 4 metų";1;Lietuvių;36;0
-Šnekutis;"Vytenio g. 41";6060541;581507;117;Šnekutis;7;"Nuo 4 iki 5 metų";1;Lietuvių;24;0
-Šnekutis;"Vytenio g. 41";6060541;581507;117;Šnekutis;8;"Nuo 5 iki 6 metų";1;Lietuvių;40;0
+Šnekutis;"Vytenio g. 41";6060541;581507;117;Šnekutis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;29;29
+Šnekutis;"Vytenio g. 41";6060541;581507;117;Šnekutis;6;"Nuo 3 iki 4 metų";1;Lietuvių;22;14
+Šnekutis;"Vytenio g. 41";6060541;581507;117;Šnekutis;7;"Nuo 4 iki 5 metų";1;Lietuvių;23;1
+Šnekutis;"Vytenio g. 41";6060541;581507;117;Šnekutis;8;"Nuo 5 iki 6 metų";1;Lietuvių;39;1
 Užupiukas;"Filaretų g. 19, Vilnius";584234;6061661;118;Užupiukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;18;16
 Užupiukas;"Filaretų g. 19, Vilnius";584234;6061661;118;Užupiukas;6;"Nuo 3 iki 4 metų";1;Lietuvių;62;44
 Užupiukas;"Filaretų g. 19, Vilnius";584234;6061661;118;Užupiukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;64;0
@@ -522,16 +522,16 @@ Vilnelė;"Pergalės g. 20, Vilnius";591050;6062147;124;Vilnelė;6;"Nuo 3 iki 4 m
 Vilnelė;"Pergalės g. 20, Vilnius";591050;6062147;124;Vilnelė;7;"Nuo 4 iki 5 metų";1;Lietuvių;61;0
 Vilnelė;"Pergalės g. 20, Vilnius";591050;6062147;124;Vilnelė;8;"Nuo 5 iki 6 metų";1;Lietuvių;42;0
 Vilnelė;"Pergalės g. 20, Vilnius";591050;6062147;124;Vilnelė;9;"Nuo 6 iki 7 metų";1;Lietuvių;60;0
-Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;18;0
-Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;3;"Nuo 1,5 iki 3 metų";2;Rusų;35;0
+Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;0;18
+Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;3;"Nuo 1,5 iki 3 metų";2;Rusų;16;19
 Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;20;0
-Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;6;"Nuo 3 iki 4 metų";2;Rusų;27;0
-Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;6;"Nuo 3 iki 4 metų";4;Lenkų;23;0
-Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;21;0
-Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;7;"Nuo 4 iki 5 metų";2;Rusų;23;0
-Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;10;"Nuo 3 iki 5 metų";4;Lenkų;24;0
+Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;6;"Nuo 3 iki 4 metų";2;Rusų;19;8
+Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;6;"Nuo 3 iki 4 metų";4;Lenkų;20;3
+Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;20;1
+Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;7;"Nuo 4 iki 5 metų";2;Rusų;20;3
+Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;10;"Nuo 3 iki 5 metų";4;Lenkų;20;4
 Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;20;0
-Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;11;"Nuo 5 iki 7 metų";2;Rusų;20;2
+Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;11;"Nuo 5 iki 7 metų";2;Rusų;19;3
 Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;11;"Nuo 5 iki 7 metų";4;Lenkų;19;0
 Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;13;"Nuo 4 iki 6 metų";1;Lietuvių;20;0
 Vėrinėlis;"S.Stanevičiaus g. 68, Vilnius";580732;6066291;125;Vėrinėlis;13;"Nuo 4 iki 6 metų";2;Rusų;19;0
@@ -551,13 +551,13 @@ Voveraitė;"Jūratės g. 4A, Vilnius";584798;6063154;127;Voveraitė;11;"Nuo 5 ik
 "Trakų Vokė";"E. Andre g. 6, Trakų Vokė, Vilnius";571717;6055244;128;"Trakų Vokė";7;"Nuo 4 iki 5 metų";1;Lietuvių;21;0
 "Trakų Vokė";"E. Andre g. 6, Trakų Vokė, Vilnius";571717;6055244;128;"Trakų Vokė";8;"Nuo 5 iki 6 metų";1;Lietuvių;28;0
 Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;3;"Nuo 1,5 iki 3 metų";2;Rusų;26;0
-Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;6;"Nuo 3 iki 4 metų";1;Lietuvių;36;0
-Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;6;"Nuo 3 iki 4 metų";2;Rusų;28;0
+Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;6;"Nuo 3 iki 4 metų";1;Lietuvių;36;5
+Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;6;"Nuo 3 iki 4 metų";2;Rusų;28;4
 Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;7;"Nuo 4 iki 5 metų";1;Lietuvių;35;0
 Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;7;"Nuo 4 iki 5 metų";2;Rusų;21;0
 Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;8;"Nuo 5 iki 6 metų";2;Rusų;19;1
 Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;9;"Nuo 6 iki 7 metų";1;Lietuvių;19;0
-Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;13;"Nuo 4 iki 6 metų";1;Lietuvių;20;2
+Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;13;"Nuo 4 iki 6 metų";1;Lietuvių;20;7
 Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;13;"Nuo 4 iki 6 metų";4;Lenkų;19;1
 Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;18;"Nuo 2 iki 4 metų";4;Lenkų;33;0
 Želmenėliai;"Šaltkalvių g. 30, Vilnius";581955;6058911;130;Želmenėliai;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;90;0
@@ -566,11 +566,11 @@ Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;18;"Nuo 2 iki 4 metų";
 Želmenėliai;"Šaltkalvių g. 30, Vilnius";581955;6058911;130;Želmenėliai;8;"Nuo 5 iki 6 metų";1;Lietuvių;41;5
 Želmenėliai;"Šaltkalvių g. 30, Vilnius";581955;6058911;130;Želmenėliai;9;"Nuo 6 iki 7 metų";1;Lietuvių;38;4
 Želmenėliai;"Šaltkalvių g. 30, Vilnius";581955;6058911;130;Želmenėliai;13;"Nuo 4 iki 6 metų";1;Lietuvių;19;0
-Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;70;0
-Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;6;"Nuo 3 iki 4 metų";1;Lietuvių;55;0
-Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;7;"Nuo 4 iki 5 metų";1;Lietuvių;56;0
-Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;8;"Nuo 5 iki 6 metų";1;Lietuvių;73;0
-Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;9;"Nuo 6 iki 7 metų";1;Lietuvių;79;0
+Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;37;33
+Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;6;"Nuo 3 iki 4 metų";1;Lietuvių;45;10
+Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;7;"Nuo 4 iki 5 metų";1;Lietuvių;44;12
+Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;8;"Nuo 5 iki 6 metų";1;Lietuvių;70;3
+Žemyna;"Žemynos g. 13";6066005;579220;131;Žemyna;9;"Nuo 6 iki 7 metų";1;Lietuvių;69;10
 Žemuogėlė;"Architektų g. 108, Vilnius";577330;6060702;132;Žemuogėlė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;58;0
 Žemuogėlė;"Architektų g. 108, Vilnius";577330;6060702;132;Žemuogėlė;3;"Nuo 1,5 iki 3 metų";2;Rusų;30;0
 Žemuogėlė;"Architektų g. 108, Vilnius";577330;6060702;132;Žemuogėlė;6;"Nuo 3 iki 4 metų";1;Lietuvių;24;0
@@ -584,16 +584,16 @@ Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;18;"Nuo 2 iki 4 metų";
 Žibutė;"Architektų g. 62, Vilnius";578099;6060142;133;Žibutė;7;"Nuo 4 iki 5 metų";1;Lietuvių;23;0
 Žibutė;"Architektų g. 62, Vilnius";578099;6060142;133;Žibutė;8;"Nuo 5 iki 6 metų";1;Lietuvių;23;0
 Žibutė;"Architektų g. 62, Vilnius";578099;6060142;133;Žibutė;9;"Nuo 6 iki 7 metų";1;Lietuvių;35;0
-Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;22;13
-Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;3;"Nuo 1,5 iki 3 metų";2;Rusų;19;15
-Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;18;5
-Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;6;"Nuo 3 iki 4 metų";1;Lietuvių;26;17
-Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;7;"Nuo 4 iki 5 metų";1;Lietuvių;47;1
-Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;8;"Nuo 5 iki 6 metų";1;Lietuvių;48;2
+Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;35;0
+Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;3;"Nuo 1,5 iki 3 metų";2;Rusų;34;0
+Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;23;0
+Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;6;"Nuo 3 iki 4 metų";1;Lietuvių;42;1
+Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;7;"Nuo 4 iki 5 metų";1;Lietuvių;48;0
+Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;8;"Nuo 5 iki 6 metų";1;Lietuvių;50;0
 Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;9;"Nuo 6 iki 7 metų";1;Lietuvių;35;0
-Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;10;"Nuo 3 iki 5 metų";2;Rusų;24;1
+Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;10;"Nuo 3 iki 5 metų";2;Rusų;25;0
 Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;11;"Nuo 5 iki 7 metų";2;Rusų;21;0
-Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;14;"Nuo 3 iki 6 metų";4;Lenkų;23;6
+Žiedas;"Žemynos g. 41, Vilnius";579182;6066420;134;Žiedas;14;"Nuo 3 iki 6 metų";4;Lenkų;29;0
 Žilvitis;"Viršuliškių g. 9, Vilnius";579066;6064823;135;Žilvitis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;77;0
 Žilvitis;"Viršuliškių g. 9, Vilnius";579066;6064823;135;Žilvitis;6;"Nuo 3 iki 4 metų";1;Lietuvių;79;0
 Žilvitis;"Viršuliškių g. 9, Vilnius";579066;6064823;135;Žilvitis;7;"Nuo 4 iki 5 metų";1;Lietuvių;45;0
@@ -604,20 +604,20 @@ Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;18;"Nuo 2 iki 4 metų";
 Žilvinėlis;"Taikos g. 130, Vilnius";578345;6065108;136;Žilvinėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;48;0
 Žilvinėlis;"Taikos g. 130, Vilnius";578345;6065108;136;Žilvinėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;48;0
 Žilvinėlis;"Taikos g. 130, Vilnius";578345;6065108;136;Žilvinėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;46;0
-Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;72;0
-Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;4;"Nuo 3 iki 7 metų";4;Lenkų;23;4
-Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;6;"Nuo 3 iki 4 metų";1;Lietuvių;50;0
+Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;41;31
+Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;4;"Nuo 3 iki 7 metų";4;Lenkų;20;7
+Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;6;"Nuo 3 iki 4 metų";1;Lietuvių;44;6
 Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;7;"Nuo 4 iki 5 metų";1;Lietuvių;48;0
 Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;8;"Nuo 5 iki 6 metų";1;Lietuvių;49;0
-Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;9;"Nuo 6 iki 7 metų";1;Lietuvių;51;0
-Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;40;0
-Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;18;0
-Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;0;0
+Žiogelis;"J. Kolaso g. 15, Vilnius";587518;6060127;137;Žiogelis;9;"Nuo 6 iki 7 metų";1;Lietuvių;49;2
+Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;22;18
+Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;17;1
+Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;0;20
 Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;9;"Nuo 6 iki 7 metų";1;Lietuvių;22;1
-Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;10;"Nuo 3 iki 5 metų";1;Lietuvių;30;42
-Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;14;"Nuo 3 iki 6 metų";1;Lietuvių;7;1
+Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;10;"Nuo 3 iki 5 metų";1;Lietuvių;23;49
+Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;14;"Nuo 3 iki 6 metų";1;Lietuvių;6;2
 Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;15;"Nuo 6 iki 8 metų";1;Lietuvių;6;0
-Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;19;"Nuo 2 iki 5 metų";1;Lietuvių;7;0
+Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;19;"Nuo 2 iki 5 metų";1;Lietuvių;6;1
 Žolynėlis;"Žolyno g. 44";6064324;586286;138;Žolynėlis;23;"Nuo 1,5 iki 6 metų";1;Lietuvių;6;1
 Žuvėdra;"Parko g. 8A";6062362;591153;139;Žuvėdra;3;"Nuo 1,5 iki 3 metų";2;Rusų;33;0
 Žuvėdra;"Parko g. 8A";6062362;591153;139;Žuvėdra;3;"Nuo 1,5 iki 3 metų";4;Lenkų;31;0
@@ -626,7 +626,7 @@ Zylutė;"Justiniškių g. 45";6063900;578692;129;Zylutė;18;"Nuo 2 iki 4 metų";
 Žuvėdra;"Parko g. 8A";6062362;591153;139;Žuvėdra;11;"Nuo 5 iki 7 metų";1;Lietuvių;19;3
 Žuvėdra;"Parko g. 8A";6062362;591153;139;Žuvėdra;11;"Nuo 5 iki 7 metų";2;Rusų;23;0
 Žvangutis;"Rinktinės g. 38A";6063137;582826;140;Žvangutis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;30;0
-Žvangutis;"Rinktinės g. 38A";6063137;582826;140;Žvangutis;6;"Nuo 3 iki 4 metų";1;Lietuvių;50;4
+Žvangutis;"Rinktinės g. 38A";6063137;582826;140;Žvangutis;6;"Nuo 3 iki 4 metų";1;Lietuvių;49;5
 Žvangutis;"Rinktinės g. 38A";6063137;582826;140;Žvangutis;7;"Nuo 4 iki 5 metų";1;Lietuvių;25;0
 Žvangutis;"Rinktinės g. 38A";6063137;582826;140;Žvangutis;8;"Nuo 5 iki 6 metų";1;Lietuvių;21;0
 Žvangutis;"Rinktinės g. 38A";6063137;582826;140;Žvangutis;9;"Nuo 6 iki 7 metų";1;Lietuvių;39;0
@@ -653,14 +653,14 @@ Pelėdžiukas;"Lentvario g. 1, Grigiškės, Vilnius";569718;6060359;144;Pelėdž
 Pelėdžiukas;"Lentvario g. 1, Grigiškės, Vilnius";569718;6060359;144;Pelėdžiukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;27;0
 Pelėdžiukas;"Lentvario g. 1, Grigiškės, Vilnius";569718;6060359;144;Pelėdžiukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;23;0
 Pelėdžiukas;"Lentvario g. 1, Grigiškės, Vilnius";569718;6060359;144;Pelėdžiukas;9;"Nuo 6 iki 7 metų";1;Lietuvių;42;0
-Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;3;"Nuo 1,5 iki 3 metų";2;Rusų;21;15
-Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;3;"Nuo 1,5 iki 3 metų";4;Lenkų;15;15
-Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;4;"Nuo 3 iki 7 metų";4;Lenkų;19;1
+Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;3;"Nuo 1,5 iki 3 metų";2;Rusų;36;0
+Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;3;"Nuo 1,5 iki 3 metų";4;Lenkų;30;0
+Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;4;"Nuo 3 iki 7 metų";4;Lenkų;20;0
 Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;6;"Nuo 3 iki 4 metų";2;Rusų;22;0
 Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;7;"Nuo 4 iki 5 metų";2;Rusų;23;0
 Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;8;"Nuo 5 iki 6 metų";2;Rusų;20;0
 Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;9;"Nuo 6 iki 7 metų";2;Rusų;19;0
-Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;10;"Nuo 3 iki 5 metų";4;Lenkų;18;1
+Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;10;"Nuo 3 iki 5 metų";4;Lenkų;19;0
 Saulutė;"Miglos g. 1";6063793;580537;145;Saulutė;11;"Nuo 5 iki 7 metų";2;Rusų;22;0
 Svaja;"Architektų g. 210, Vilnius";578652;6061055;146;Svaja;6;"Nuo 3 iki 4 metų";2;Rusų;22;23
 Svaja;"Architektų g. 210, Vilnius";578652;6061055;146;Svaja;7;"Nuo 4 iki 5 metų";2;Rusų;23;1
@@ -678,10 +678,10 @@ Svaja;"Architektų g. 210, Vilnius";578652;6061055;146;Svaja;9;"Nuo 6 iki 7 met�
 Šilelis;"Sietyno g. 5, Vilnius";577294;6061684;147;Šilelis;11;"Nuo 5 iki 7 metų";1;Lietuvių;24;2
 Šilelis;"Sietyno g. 5, Vilnius";577294;6061684;147;Šilelis;11;"Nuo 5 iki 7 metų";2;Rusų;13;2
 Šilelis;"Sietyno g. 5, Vilnius";577294;6061684;147;Šilelis;14;"Nuo 3 iki 6 metų";4;Lenkų;22;0
-Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;6;"Nuo 3 iki 4 metų";2;Rusų;45;43
-Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;7;"Nuo 4 iki 5 metų";2;Rusų;44;1
+Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;6;"Nuo 3 iki 4 metų";2;Rusų;87;1
+Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;7;"Nuo 4 iki 5 metų";2;Rusų;45;0
 Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;8;"Nuo 5 iki 6 metų";2;Rusų;25;0
-Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;9;"Nuo 6 iki 7 metų";2;Rusų;37;10
+Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;9;"Nuo 6 iki 7 metų";2;Rusų;47;0
 Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;10;"Nuo 3 iki 5 metų";2;Rusų;11;0
 Vaivorykštė;"Tuskulėnų g. 42";6063314;583236;148;Vaivorykštė;11;"Nuo 5 iki 7 metų";2;Rusų;46;0
 Vaduvos;"Vaduvos g. 14A";6056378;577898;149;Vaduvos;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;49;0
@@ -706,7 +706,7 @@ Justinukas;"Taikos g. 99, Vilnius";578141;6065757;152;Justinukas;8;"Nuo 5 iki 6 
 Justinukas;"Taikos g. 99, Vilnius";578141;6065757;152;Justinukas;13;"Nuo 4 iki 6 metų";1;Lietuvių;21;0
 Aidas;"Lakštingalų g. 8";6066829;585334;153;Aidas;4;"Nuo 3 iki 7 metų";1;Lietuvių;17;6
 Aidas;"Lakštingalų g. 8";6066829;585334;153;Aidas;45;"Nuo 8m.";1;Lietuvių;72;0
-Bangelė;"Žemaitės g. 3";6060388;580757;154;Bangelė;3;"Nuo 1,5 iki 3 metų";2;Rusų;32;0
+Bangelė;"Žemaitės g. 3";6060388;580757;154;Bangelė;3;"Nuo 1,5 iki 3 metų";2;Rusų;33;0
 Bangelė;"Žemaitės g. 3";6060388;580757;154;Bangelė;3;"Nuo 1,5 iki 3 metų";4;Lenkų;33;0
 Bangelė;"Žemaitės g. 3";6060388;580757;154;Bangelė;6;"Nuo 3 iki 4 metų";2;Rusų;24;7
 Bangelė;"Žemaitės g. 3";6060388;580757;154;Bangelė;6;"Nuo 3 iki 4 metų";4;Lenkų;28;3
@@ -769,14 +769,14 @@ Saulėgrąža;"Taikos g. 31";6065577;579285;164;Saulėgrąža;6;"Nuo 3 iki 4 met
 Saulėgrąža;"Taikos g. 31";6065577;579285;164;Saulėgrąža;7;"Nuo 4 iki 5 metų";1;Lietuvių;63;3
 Saulėgrąža;"Taikos g. 31";6065577;579285;164;Saulėgrąža;8;"Nuo 5 iki 6 metų";1;Lietuvių;63;5
 Saulėgrąža;"Taikos g. 31";6065577;579285;164;Saulėgrąža;9;"Nuo 6 iki 7 metų";1;Lietuvių;53;6
-Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;66;0
-Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;24;0
-Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;4;"Nuo 3 iki 7 metų";2;Rusų;25;0
+Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;36;30
+Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;19;5
+Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;4;"Nuo 3 iki 7 metų";2;Rusų;22;3
 Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;4;"Nuo 3 iki 7 metų";4;Lenkų;20;0
-Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;6;"Nuo 3 iki 4 metų";1;Lietuvių;44;0
-Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;46;0
+Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;6;"Nuo 3 iki 4 metų";1;Lietuvių;40;4
+Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;43;3
 Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;45;0
-Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;9;"Nuo 6 iki 7 metų";1;Lietuvių;49;0
+Pilaitukas;"I. Kanto al. 7A, Vilnius";576320;6063638;165;Pilaitukas;9;"Nuo 6 iki 7 metų";1;Lietuvių;48;1
 Vilija;"Taikos g. 15, Vilnius";579249;6065426;166;Vilija;3;"Nuo 1,5 iki 3 metų";4;Lenkų;63;0
 Vilija;"Taikos g. 15, Vilnius";579249;6065426;166;Vilija;6;"Nuo 3 iki 4 metų";4;Lenkų;63;0
 Vilija;"Taikos g. 15, Vilnius";579249;6065426;166;Vilija;7;"Nuo 4 iki 5 metų";4;Lenkų;48;0
@@ -831,8 +831,8 @@ Santariškių;"Santariškių g. 27";6070076;582528;273;Santariškių;9;"Nuo 6 ik
 "„Atžalyno” mokykla-darželis";"Genių g. 25";591840;6062220;283;"„Atžalyno” mokykla-darželis";7;"Nuo 4 iki 5 metų";1;Lietuvių;3;0
 "„Atžalyno” mokykla-darželis";"Genių g. 25";591840;6062220;283;"„Atžalyno” mokykla-darželis";9;"Nuo 6 iki 7 metų";1;Lietuvių;30;0
 "„Atžalyno” mokykla-darželis";"Genių g. 25";591840;6062220;283;"„Atžalyno” mokykla-darželis";14;"Nuo 3 iki 6 metų";1;Lietuvių;24;0
-"Vilniaus Naujininkų mokykla";"Šaltkalvių g. 32";6058943;581862;311;"Vilniaus Naujininkų mokykla";9;"Nuo 6 iki 7 metų";1;Lietuvių;27;7
-"Vilniaus Naujininkų mokykla";"Šaltkalvių g. 32";6058943;581862;311;"Vilniaus Naujininkų mokykla";14;"Nuo 3 iki 6 metų";1;Lietuvių;26;0
+"Vilniaus Naujininkų mokykla";"Šaltkalvių g. 32";6058943;581862;311;"Vilniaus Naujininkų mokykla";9;"Nuo 6 iki 7 metų";1;Lietuvių;26;8
+"Vilniaus Naujininkų mokykla";"Šaltkalvių g. 32";6058943;581862;311;"Vilniaus Naujininkų mokykla";14;"Nuo 3 iki 6 metų";1;Lietuvių;25;1
 "Vilniaus Emilijos Pliaterytės progimnazija";"Žirmūnų g. 119";584012;6066489;312;"Vilniaus Emilijos Pliaterytės progimnazija";9;"Nuo 6 iki 7 metų";1;Lietuvių;62;20
 "Vilniaus Taikos progimnazija";"Taikos g. 157";6064995;578173;313;"Vilniaus Taikos progimnazija";9;"Nuo 6 iki 7 metų";1;Lietuvių;111;5
 "Vilniaus Karaliaus Mindaugo pagrindinė mokykla";"Mindaugo g. 9";6060990;582092;314;"Vilniaus Karaliaus Mindaugo pagrindinė mokykla";9;"Nuo 6 iki 7 metų";1;Lietuvių;50;25
@@ -852,8 +852,8 @@ Santariškių;"Santariškių g. 27";6070076;582528;273;Santariškių;9;"Nuo 6 ik
 "Vilniaus „Spindulio“ progimnazija";"Rolando Jankausko g. 17";6062339;577819;338;"Vilniaus „Spindulio“ progimnazija";9;"Nuo 6 iki 7 metų";1;Lietuvių;134;1
 "Vilniaus Vladislavo Sirokomlės gimnazija";"Linkmenų g. 8";6063489;581831;339;"Vilniaus Vladislavo Sirokomlės gimnazija";9;"Nuo 6 iki 7 metų";4;Lenkų;47;15
 "Vilniaus „Pelėdos” pradinė mokykla";"Taikos g. 97";578130;6065682;342;"Vilniaus „Pelėdos” pradinė mokykla";9;"Nuo 6 iki 7 metų";1;Lietuvių;93;0
-"Vilniaus Joachimo Lelevelio inžinerijos mokykla";"Minties g. 3";584432;6063634;369;"Vilniaus Joachimo Lelevelio inžinerijos mokykla";9;"Nuo 6 iki 7 metų";2;Rusų;14;1
-"Vilniaus Joachimo Lelevelio inžinerijos mokykla";"Minties g. 3";584432;6063634;369;"Vilniaus Joachimo Lelevelio inžinerijos mokykla";9;"Nuo 6 iki 7 metų";4;Lenkų;10;5
+"Vilniaus Joachimo Lelevelio inžinerijos mokykla";"Minties g. 3";584432;6063634;369;"Vilniaus Joachimo Lelevelio inžinerijos mokykla";9;"Nuo 6 iki 7 metų";2;Rusų;0;15
+"Vilniaus Joachimo Lelevelio inžinerijos mokykla";"Minties g. 3";584432;6063634;369;"Vilniaus Joachimo Lelevelio inžinerijos mokykla";9;"Nuo 6 iki 7 metų";4;Lenkų;0;15
 "Vilniaus Joachimo Lelevelio inžinerijos mokykla";"Minties g. 3";584432;6063634;369;"Vilniaus Joachimo Lelevelio inžinerijos mokykla";11;"Nuo 5 iki 7 metų";2;Rusų;14;0
 "Vilniaus Joachimo Lelevelio inžinerijos mokykla";"Minties g. 3";584432;6063634;369;"Vilniaus Joachimo Lelevelio inžinerijos mokykla";11;"Nuo 5 iki 7 metų";4;Lenkų;26;0
 "Vilniaus Juzefo Ignacijaus Kraševskio gimnazija";"Rugiagėlių g. 15";6063483;591579;370;"Vilniaus Juzefo Ignacijaus Kraševskio gimnazija";8;"Nuo 5 iki 6 metų";4;Lenkų;3;18
@@ -864,10 +864,10 @@ Santariškių;"Santariškių g. 27";6070076;582528;273;Santariškių;9;"Nuo 6 ik
 "Vilniaus savivaldybės Grigiškių gimnazija";"Kovo 11-osios g. 21, Grigiškės, Vilniaus m. sav.";570222;6059984;375;"Vilniaus savivaldybės Grigiškių gimnazija";9;"Nuo 6 iki 7 metų";2;Rusų;48;21
 "Vilniaus savivaldybės Grigiškių gimnazija";"Kovo 11-osios g. 21, Grigiškės, Vilniaus m. sav.";570222;6059984;375;"Vilniaus savivaldybės Grigiškių gimnazija";11;"Nuo 5 iki 7 metų";4;Lenkų;9;21
 "Vilniaus Viršuliškių mokykla";"Viršuliškių g. 7";6064745;579010;376;"Vilniaus Viršuliškių mokykla";9;"Nuo 6 iki 7 metų";1;Lietuvių;83;23
-Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;49;8
-Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;6;"Nuo 3 iki 4 metų";1;Lietuvių;61;6
-Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;7;"Nuo 4 iki 5 metų";1;Lietuvių;39;10
-Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;11;"Nuo 5 iki 7 metų";1;Lietuvių;20;13
+Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;57;0
+Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;6;"Nuo 3 iki 4 metų";1;Lietuvių;67;0
+Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;7;"Nuo 4 iki 5 metų";1;Lietuvių;45;4
+Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;11;"Nuo 5 iki 7 metų";1;Lietuvių;28;5
 "Vilniaus Aleksandro Puškino mokykla";"Gabijos g. 8";578722;6066745;378;"Vilniaus Aleksandro Puškino mokykla";9;"Nuo 6 iki 7 metų";2;Rusų;72;15
 "Vilniaus Ateities mokykla";"S.Stanevičiaus g. 98";580657;6066603;380;"Vilniaus Ateities mokykla";9;"Nuo 6 iki 7 metų";2;Rusų;41;14
 "Vilniaus Simono Stanevičiaus progimnazija";"S. Stanevičiaus g. 25";580945;6065960;381;"Vilniaus Simono Stanevičiaus progimnazija";9;"Nuo 6 iki 7 metų";1;Lietuvių;75;3
@@ -878,4 +878,4 @@ Gluosnis;"Justiniškių g. 65";6064191;578425;377;Gluosnis;11;"Nuo 5 iki 7 metų
 Žolynas;"Žolyno g. 45A";6064325;586025;388;Žolynas;6;"Nuo 3 iki 4 metų";1;Lietuvių;22;0
 Žolynas;"Žolyno g. 45A";6064325;586025;388;Žolynas;10;"Nuo 3 iki 5 metų";1;Lietuvių;44;0
 Žolynas;"Žolyno g. 45A";6064325;586025;388;Žolynas;11;"Nuo 5 iki 7 metų";1;Lietuvių;42;0
-"Vilniaus „Genio“ progimnazija";"Miglos g. 1";6063793;580537;389;"Vilniaus „Genio“ progimnazija";9;"Nuo 6 iki 7 metų";1;Lietuvių;43;0
+"Vilniaus „Genio“ progimnazija";"Miglos g. 1";6063793;580537;389;"Vilniaus „Genio“ progimnazija";9;"Nuo 6 iki 7 metų";1;Lietuvių;20;23
