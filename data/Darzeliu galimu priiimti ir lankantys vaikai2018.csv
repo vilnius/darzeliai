@@ -10,7 +10,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 31;Aitvaras;25;"Nuo 1,5 iki 7 metų";1;Lietuvių;0;20
 32;Atžalėlės;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;102;1
 32;Atžalėlės;4;"Nuo 3 iki 7 metų";1;Lietuvių;23;0
-32;Atžalėlės;6;"Nuo 3 iki 4 metų";1;Lietuvių;49;4
+32;Atžalėlės;6;"Nuo 3 iki 4 metų";1;Lietuvių;50;3
 32;Atžalėlės;7;"Nuo 4 iki 5 metų";1;Lietuvių;27;0
 32;Atžalėlės;8;"Nuo 5 iki 6 metų";1;Lietuvių;25;0
 32;Atžalėlės;9;"Nuo 6 iki 7 metų";1;Lietuvių;3;2
@@ -49,10 +49,10 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 37;Bitutė;11;"Nuo 5 iki 7 metų";1;Lietuvių;59;0
 37;Bitutė;18;"Nuo 2 iki 4 metų";1;Lietuvių;78;0
 37;Bitutė;28;"Nuo 1 iki 7 metų";1;Lietuvių;0;1
-39;Coliukė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;19;0
+39;Coliukė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;18;0
 39;Coliukė;4;"Nuo 3 iki 7 metų";1;Lietuvių;22;0
-39;Coliukė;17;"Nuo 1 iki 2 metų";1;Lietuvių;12;12
-39;Coliukė;18;"Nuo 2 iki 4 metų";1;Lietuvių;0;13
+39;Coliukė;17;"Nuo 1 iki 2 metų";1;Lietuvių;24;0
+39;Coliukė;18;"Nuo 2 iki 4 metų";1;Lietuvių;13;0
 40;Čiauškutis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;13;6
 40;Čiauškutis;6;"Nuo 3 iki 4 metų";1;Lietuvių;10;0
 40;Čiauškutis;7;"Nuo 4 iki 5 metų";1;Lietuvių;28;0
@@ -82,10 +82,10 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 46;"Du gaideliai";11;"Nuo 5 iki 7 metų";1;Lietuvių;21;0
 46;"Du gaideliai";12;"Nuo 2 iki 3 metų";1;Lietuvių;0;1
 46;"Du gaideliai";28;"Nuo 1 iki 7 metų";1;Lietuvių;0;1
-47;Eglutė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;105;0
-47;Eglutė;7;"Nuo 4 iki 5 metų";1;Lietuvių;43;1
-47;Eglutė;8;"Nuo 5 iki 6 metų";1;Lietuvių;45;4
-47;Eglutė;11;"Nuo 5 iki 7 metų";1;Lietuvių;52;0
+47;Eglutė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;104;0
+47;Eglutė;7;"Nuo 4 iki 5 metų";1;Lietuvių;44;0
+47;Eglutė;8;"Nuo 5 iki 6 metų";1;Lietuvių;44;0
+47;Eglutė;11;"Nuo 5 iki 7 metų";1;Lietuvių;54;3
 47;Eglutė;18;"Nuo 2 iki 4 metų";1;Lietuvių;76;0
 49;Gandriukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;89;0
 49;Gandriukas;6;"Nuo 3 iki 4 metų";1;Lietuvių;62;0
@@ -100,9 +100,10 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 50;"Geniukų kalvė";11;"Nuo 5 iki 7 metų";1;Lietuvių;45;0
 50;"Geniukų kalvė";18;"Nuo 2 iki 4 metų";1;Lietuvių;45;0
 51;Gelvonėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;50;0
-51;Gelvonėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;25;3
+51;Gelvonėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;19;0
 51;Gelvonėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;20;0
 51;Gelvonėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;20;0
+51;Gelvonėlis;16;"Nuo 4 iki 7 metų";1;Lietuvių;8;1
 51;Gelvonėlis;18;"Nuo 2 iki 4 metų";1;Lietuvių;18;0
 52;"Gervelė (Dzūkų g. 32)";3;"Nuo 1,5 iki 3 metų";1;Lietuvių;24;0
 52;"Gervelė (Dzūkų g. 32)";6;"Nuo 3 iki 4 metų";1;Lietuvių;7;1
@@ -148,12 +149,13 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 57;Jovarėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;23;0
 57;Jovarėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;89;0
 58;Jurginėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;91;0
-58;Jurginėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;18;7
-58;Jurginėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;71;1
+58;Jurginėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;16;0
+58;Jurginėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;67;1
 58;Jurginėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;24;0
 58;Jurginėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;58;0
 58;Jurginėlis;12;"Nuo 2 iki 3 metų";1;Lietuvių;14;0
-58;Jurginėlis;18;"Nuo 2 iki 4 metų";1;Lietuvių;24;0
+58;Jurginėlis;18;"Nuo 2 iki 4 metų";1;Lietuvių;33;0
+58;Jurginėlis;19;"Nuo 2 iki 5 metų";1;Lietuvių;4;0
 59;Karusėlė;4;"Nuo 3 iki 7 metų";1;Lietuvių;22;0
 59;Karusėlė;6;"Nuo 3 iki 4 metų";1;Lietuvių;28;4
 59;Karusėlė;8;"Nuo 5 iki 6 metų";1;Lietuvių;22;0
@@ -171,16 +173,15 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 62;Kodėlčiukas;6;"Nuo 3 iki 4 metų";1;Lietuvių;48;0
 62;Kodėlčiukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;77;0
 62;Kodėlčiukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;62;0
-62;Kodėlčiukas;10;"Nuo 3 iki 5 metų";1;Lietuvių;3;2
 62;Kodėlčiukas;11;"Nuo 5 iki 7 metų";1;Lietuvių;47;0
-62;Kodėlčiukas;18;"Nuo 2 iki 4 metų";1;Lietuvių;56;0
+62;Kodėlčiukas;18;"Nuo 2 iki 4 metų";1;Lietuvių;61;0
 62;Kodėlčiukas;28;"Nuo 1 iki 7 metų";1;Lietuvių;1;0
-66;Lakštingala;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;73;0
+66;Lakštingala;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;75;0
 66;Lakštingala;6;"Nuo 3 iki 4 metų";1;Lietuvių;36;6
 66;Lakštingala;7;"Nuo 4 iki 5 metų";1;Lietuvių;66;5
 66;Lakštingala;8;"Nuo 5 iki 6 metų";1;Lietuvių;40;0
-66;Lakštingala;11;"Nuo 5 iki 7 metų";1;Lietuvių;47;0
-66;Lakštingala;18;"Nuo 2 iki 4 metų";1;Lietuvių;66;0
+66;Lakštingala;11;"Nuo 5 iki 7 metų";1;Lietuvių;49;0
+66;Lakštingala;18;"Nuo 2 iki 4 metų";1;Lietuvių;71;0
 68;Lazdynėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;41;0
 68;Lazdynėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;85;0
 68;Lazdynėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;24;0
@@ -200,8 +201,8 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 72;Markučiai;6;"Nuo 3 iki 4 metų";1;Lietuvių;11;0
 72;Markučiai;7;"Nuo 4 iki 5 metų";1;Lietuvių;42;0
 72;Markučiai;8;"Nuo 5 iki 6 metų";1;Lietuvių;50;0
-72;Markučiai;9;"Nuo 6 iki 7 metų";1;Lietuvių;1;4
 72;Markučiai;11;"Nuo 5 iki 7 metų";1;Lietuvių;38;0
+72;Markučiai;16;"Nuo 4 iki 7 metų";1;Lietuvių;2;3
 72;Markučiai;18;"Nuo 2 iki 4 metų";1;Lietuvių;20;0
 73;Mažylis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;49;0
 73;Mažylis;6;"Nuo 3 iki 4 metų";1;Lietuvių;10;0
@@ -210,7 +211,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 73;Mažylis;11;"Nuo 5 iki 7 metų";1;Lietuvių;23;0
 73;Mažylis;18;"Nuo 2 iki 4 metų";1;Lietuvių;23;0
 74;Medynėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;139;0
-74;Medynėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;70;14
+74;Medynėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;72;12
 74;Medynėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;46;0
 74;Medynėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;44;0
 74;Medynėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;41;0
@@ -233,13 +234,13 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 78;Nykštukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;46;0
 78;Nykštukas;18;"Nuo 2 iki 4 metų";1;Lietuvių;32;0
 79;Ozas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;87;0
-79;Ozas;6;"Nuo 3 iki 4 metų";1;Lietuvių;6;4
+79;Ozas;6;"Nuo 3 iki 4 metų";1;Lietuvių;4;0
 79;Ozas;7;"Nuo 4 iki 5 metų";1;Lietuvių;48;0
 79;Ozas;8;"Nuo 5 iki 6 metų";1;Lietuvių;68;0
 79;Ozas;11;"Nuo 5 iki 7 metų";1;Lietuvių;61;0
-79;Ozas;18;"Nuo 2 iki 4 metų";1;Lietuvių;45;0
+79;Ozas;18;"Nuo 2 iki 4 metų";1;Lietuvių;51;0
 80;Pabiručiai;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;83;0
-80;Pabiručiai;6;"Nuo 3 iki 4 metų";1;Lietuvių;23;0
+80;Pabiručiai;6;"Nuo 3 iki 4 metų";1;Lietuvių;22;1
 80;Pabiručiai;7;"Nuo 4 iki 5 metų";1;Lietuvių;44;0
 80;Pabiručiai;8;"Nuo 5 iki 6 metų";1;Lietuvių;38;2
 80;Pabiručiai;9;"Nuo 6 iki 7 metų";1;Lietuvių;0;6
@@ -270,12 +271,12 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 84;Papartis;8;"Nuo 5 iki 6 metų";1;Lietuvių;46;0
 84;Papartis;11;"Nuo 5 iki 7 metų";1;Lietuvių;44;0
 84;Papartis;18;"Nuo 2 iki 4 metų";1;Lietuvių;109;0
-86;Pasaka;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;18;11
-86;Pasaka;4;"Nuo 3 iki 7 metų";1;Lietuvių;72;8
-86;Pasaka;6;"Nuo 3 iki 4 metų";1;Lietuvių;0;18
+86;Pasaka;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;29;0
+86;Pasaka;4;"Nuo 3 iki 7 metų";1;Lietuvių;80;0
+86;Pasaka;6;"Nuo 3 iki 4 metų";1;Lietuvių;18;0
 86;Pasaka;7;"Nuo 4 iki 5 metų";1;Lietuvių;44;0
-86;Pasaka;8;"Nuo 5 iki 6 metų";1;Lietuvių;19;14
-86;Pasaka;11;"Nuo 5 iki 7 metų";1;Lietuvių;44;4
+86;Pasaka;8;"Nuo 5 iki 6 metų";1;Lietuvių;33;0
+86;Pasaka;11;"Nuo 5 iki 7 metų";1;Lietuvių;48;0
 86;Pasaka;18;"Nuo 2 iki 4 metų";1;Lietuvių;44;0
 88;Pasakaitė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;110;0
 88;Pasakaitė;6;"Nuo 3 iki 4 metų";1;Lietuvių;28;0
@@ -289,7 +290,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 89;Pelėda;11;"Nuo 5 iki 7 metų";1;Lietuvių;26;0
 89;Pelėda;12;"Nuo 2 iki 3 metų";1;Lietuvių;18;0
 89;Pelėda;14;"Nuo 3 iki 6 metų";1;Lietuvių;23;0
-89;Pelėda;16;"Nuo 4 iki 7 metų";1;Lietuvių;8;2
+89;Pelėda;16;"Nuo 4 iki 7 metų";1;Lietuvių;9;1
 89;Pelėda;18;"Nuo 2 iki 4 metų";1;Lietuvių;64;0
 89;Pelėda;19;"Nuo 2 iki 5 metų";1;Lietuvių;7;0
 90;Pelenė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;49;0
@@ -301,15 +302,17 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 91;Pipiras;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;68;0
 91;Pipiras;6;"Nuo 3 iki 4 metų";1;Lietuvių;8;0
 91;Pipiras;7;"Nuo 4 iki 5 metų";1;Lietuvių;37;0
-91;Pipiras;8;"Nuo 5 iki 6 metų";1;Lietuvių;42;3
+91;Pipiras;8;"Nuo 5 iki 6 metų";1;Lietuvių;41;0
 91;Pipiras;11;"Nuo 5 iki 7 metų";1;Lietuvių;78;0
 91;Pipiras;12;"Nuo 2 iki 3 metų";1;Lietuvių;15;0
+91;Pipiras;14;"Nuo 3 iki 6 metų";1;Lietuvių;2;2
 91;Pipiras;18;"Nuo 2 iki 4 metų";1;Lietuvių;42;0
 93;Pumpurėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;73;0
 93;Pumpurėlis;4;"Nuo 3 iki 7 metų";1;Lietuvių;22;0
-93;Pumpurėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;71;1
+93;Pumpurėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;50;0
 93;Pumpurėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;46;0
 93;Pumpurėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;43;0
+93;Pumpurėlis;10;"Nuo 3 iki 5 metų";1;Lietuvių;22;0
 93;Pumpurėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;58;0
 94;Puriena;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;69;0
 94;Puriena;7;"Nuo 4 iki 5 metų";1;Lietuvių;49;0
@@ -367,26 +370,26 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 102;Ramunėlė;11;"Nuo 5 iki 7 metų";1;Lietuvių;45;0
 102;Ramunėlė;18;"Nuo 2 iki 4 metų";1;Lietuvių;44;22
 103;Rūta;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;52;0
-103;Rūta;6;"Nuo 3 iki 4 metų";1;Lietuvių;30;6
+103;Rūta;6;"Nuo 3 iki 4 metų";1;Lietuvių;23;0
 103;Rūta;7;"Nuo 4 iki 5 metų";1;Lietuvių;42;0
 103;Rūta;8;"Nuo 5 iki 6 metų";1;Lietuvių;42;0
 103;Rūta;10;"Nuo 3 iki 5 metų";1;Lietuvių;1;0
 103;Rūta;11;"Nuo 5 iki 7 metų";1;Lietuvių;48;0
 103;Rūta;12;"Nuo 2 iki 3 metų";1;Lietuvių;10;0
-103;Rūta;14;"Nuo 3 iki 6 metų";1;Lietuvių;8;5
-103;Rūta;18;"Nuo 2 iki 4 metų";1;Lietuvių;20;0
+103;Rūta;14;"Nuo 3 iki 6 metų";1;Lietuvių;9;4
+103;Rūta;18;"Nuo 2 iki 4 metų";1;Lietuvių;33;0
 104;Sadutė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;54;0
 104;Sadutė;6;"Nuo 3 iki 4 metų";1;Lietuvių;26;0
 104;Sadutė;7;"Nuo 4 iki 5 metų";1;Lietuvių;23;0
 104;Sadutė;8;"Nuo 5 iki 6 metų";1;Lietuvių;24;0
 104;Sadutė;9;"Nuo 6 iki 7 metų";1;Lietuvių;1;0
 104;Sadutė;11;"Nuo 5 iki 7 metų";1;Lietuvių;44;0
-105;Sakalėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;53;0
-105;Sakalėlis;4;"Nuo 3 iki 7 metų";1;Lietuvių;49;0
-105;Sakalėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;51;1
-105;Sakalėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;47;0
+105;Sakalėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;35;18
+105;Sakalėlis;4;"Nuo 3 iki 7 metų";1;Lietuvių;45;4
+105;Sakalėlis;7;"Nuo 4 iki 5 metų";1;Lietuvių;45;7
+105;Sakalėlis;8;"Nuo 5 iki 6 metų";1;Lietuvių;46;1
 105;Sakalėlis;11;"Nuo 5 iki 7 metų";1;Lietuvių;23;0
-105;Sakalėlis;18;"Nuo 2 iki 4 metų";1;Lietuvių;51;0
+105;Sakalėlis;18;"Nuo 2 iki 4 metų";1;Lietuvių;45;6
 106;Salininkų;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;76;0
 106;Salininkų;6;"Nuo 3 iki 4 metų";1;Lietuvių;23;0
 106;Salininkų;7;"Nuo 4 iki 5 metų";1;Lietuvių;23;0
@@ -397,7 +400,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 108;Saulėtekis;11;"Nuo 5 iki 7 metų";1;Lietuvių;43;0
 108;Saulėtekis;18;"Nuo 2 iki 4 metų";1;Lietuvių;72;0
 109;Skroblinukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;115;0
-109;Skroblinukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;41;1
+109;Skroblinukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;42;0
 109;Skroblinukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;39;3
 109;Skroblinukas;9;"Nuo 6 iki 7 metų";1;Lietuvių;3;0
 109;Skroblinukas;11;"Nuo 5 iki 7 metų";1;Lietuvių;45;0
@@ -434,15 +437,16 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 117;Šnekutis;18;"Nuo 2 iki 4 metų";1;Lietuvių;20;0
 118;Užupiukas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;35;0
 118;Užupiukas;7;"Nuo 4 iki 5 metų";1;Lietuvių;65;0
-118;Užupiukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;76;1
-118;Užupiukas;11;"Nuo 5 iki 7 metų";1;Lietuvių;42;0
+118;Užupiukas;8;"Nuo 5 iki 6 metų";1;Lietuvių;69;0
+118;Užupiukas;11;"Nuo 5 iki 7 metų";1;Lietuvių;50;0
 118;Užupiukas;18;"Nuo 2 iki 4 metų";1;Lietuvių;95;0
 119;Vaidilutė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;71;0
 119;Vaidilutė;6;"Nuo 3 iki 4 metų";1;Lietuvių;31;0
 119;Vaidilutė;7;"Nuo 4 iki 5 metų";1;Lietuvių;64;0
-119;Vaidilutė;8;"Nuo 5 iki 6 metų";1;Lietuvių;45;3
+119;Vaidilutė;8;"Nuo 5 iki 6 metų";1;Lietuvių;44;0
 119;Vaidilutė;9;"Nuo 6 iki 7 metų";1;Lietuvių;1;0
 119;Vaidilutė;11;"Nuo 5 iki 7 metų";1;Lietuvių;46;0
+119;Vaidilutė;13;"Nuo 4 iki 6 metų";1;Lietuvių;4;0
 119;Vaidilutė;18;"Nuo 2 iki 4 metų";1;Lietuvių;42;0
 120;Vandenis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;137;0
 120;Vandenis;6;"Nuo 3 iki 4 metų";1;Lietuvių;66;0
@@ -451,11 +455,10 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 120;Vandenis;10;"Nuo 3 iki 5 metų";1;Lietuvių;23;0
 120;Vandenis;11;"Nuo 5 iki 7 metų";1;Lietuvių;46;0
 121;Varpelis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;81;0
-121;Varpelis;4;"Nuo 3 iki 7 metų";1;Lietuvių;23;0
+121;Varpelis;4;"Nuo 3 iki 7 metų";1;Lietuvių;27;3
 121;Varpelis;6;"Nuo 3 iki 4 metų";1;Lietuvių;1;0
 121;Varpelis;7;"Nuo 4 iki 5 metų";1;Lietuvių;50;0
 121;Varpelis;8;"Nuo 5 iki 6 metų";1;Lietuvių;47;0
-121;Varpelis;9;"Nuo 6 iki 7 metų";1;Lietuvių;1;6
 121;Varpelis;11;"Nuo 5 iki 7 metų";1;Lietuvių;45;0
 121;Varpelis;14;"Nuo 3 iki 6 metų";1;Lietuvių;7;0
 121;Varpelis;18;"Nuo 2 iki 4 metų";1;Lietuvių;45;0
@@ -469,8 +472,9 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 123;Vėtrungė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;53;0
 123;Vėtrungė;6;"Nuo 3 iki 4 metų";1;Lietuvių;22;0
 123;Vėtrungė;7;"Nuo 4 iki 5 metų";1;Lietuvių;41;0
-123;Vėtrungė;8;"Nuo 5 iki 6 metų";1;Lietuvių;40;4
+123;Vėtrungė;8;"Nuo 5 iki 6 metų";1;Lietuvių;40;0
 123;Vėtrungė;11;"Nuo 5 iki 7 metų";1;Lietuvių;41;0
+123;Vėtrungė;16;"Nuo 4 iki 7 metų";1;Lietuvių;3;1
 123;Vėtrungė;18;"Nuo 2 iki 4 metų";1;Lietuvių;22;0
 124;Vilnelė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;71;0
 124;Vilnelė;7;"Nuo 4 iki 5 metų";1;Lietuvių;43;0
@@ -483,33 +487,33 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 125;Vėrinėlis;13;"Nuo 4 iki 6 metų";1;Lietuvių;24;0
 126;Viltenė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;100;0
 126;Viltenė;7;"Nuo 4 iki 5 metų";1;Lietuvių;38;0
-126;Viltenė;8;"Nuo 5 iki 6 metų";1;Lietuvių;41;3
+126;Viltenė;8;"Nuo 5 iki 6 metų";1;Lietuvių;41;0
 126;Viltenė;11;"Nuo 5 iki 7 metų";1;Lietuvių;49;0
+126;Viltenė;13;"Nuo 4 iki 6 metų";1;Lietuvių;1;2
 126;Viltenė;18;"Nuo 2 iki 4 metų";1;Lietuvių;44;0
-127;Voveraitė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;74;6
+127;Voveraitė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;76;4
 127;Voveraitė;6;"Nuo 3 iki 4 metų";1;Lietuvių;4;4
 127;Voveraitė;7;"Nuo 4 iki 5 metų";1;Lietuvių;45;0
 127;Voveraitė;8;"Nuo 5 iki 6 metų";1;Lietuvių;61;0
-127;Voveraitė;10;"Nuo 3 iki 5 metų";1;Lietuvių;2;1
+127;Voveraitė;10;"Nuo 3 iki 5 metų";1;Lietuvių;3;0
 127;Voveraitė;11;"Nuo 5 iki 7 metų";1;Lietuvių;39;0
 127;Voveraitė;16;"Nuo 4 iki 7 metų";1;Lietuvių;2;0
-127;Voveraitė;18;"Nuo 2 iki 4 metų";1;Lietuvių;59;9
+127;Voveraitė;18;"Nuo 2 iki 4 metų";1;Lietuvių;60;8
 128;"Trakų Vokė";3;"Nuo 1,5 iki 3 metų";1;Lietuvių;37;0
 128;"Trakų Vokė";6;"Nuo 3 iki 4 metų";1;Lietuvių;23;0
 128;"Trakų Vokė";7;"Nuo 4 iki 5 metų";1;Lietuvių;25;0
 128;"Trakų Vokė";8;"Nuo 5 iki 6 metų";1;Lietuvių;26;0
 129;Zylutė;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;19;0
-129;Zylutė;6;"Nuo 3 iki 4 metų";1;Lietuvių;2;4
 129;Zylutė;8;"Nuo 5 iki 6 metų";1;Lietuvių;41;0
 129;Zylutė;9;"Nuo 6 iki 7 metų";1;Lietuvių;0;5
 129;Zylutė;10;"Nuo 3 iki 5 metų";1;Lietuvių;20;0
-129;Zylutė;18;"Nuo 2 iki 4 metų";1;Lietuvių;16;0
-130;Želmenėliai;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;52;31
+129;Zylutė;18;"Nuo 2 iki 4 metų";1;Lietuvių;22;0
+130;Želmenėliai;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;83;0
 130;Želmenėliai;7;"Nuo 4 iki 5 metų";1;Lietuvių;36;0
-130;Želmenėliai;8;"Nuo 5 iki 6 metų";1;Lietuvių;39;1
+130;Želmenėliai;8;"Nuo 5 iki 6 metų";1;Lietuvių;40;0
 130;Želmenėliai;11;"Nuo 5 iki 7 metų";1;Lietuvių;41;0
-130;Želmenėliai;13;"Nuo 4 iki 6 metų";1;Lietuvių;20;1
-130;Želmenėliai;18;"Nuo 2 iki 4 metų";1;Lietuvių;44;8
+130;Želmenėliai;13;"Nuo 4 iki 6 metų";1;Lietuvių;21;0
+130;Želmenėliai;18;"Nuo 2 iki 4 metų";1;Lietuvių;52;0
 131;Žemyna;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;38;42
 131;Žemyna;4;"Nuo 3 iki 7 metų";1;Lietuvių;0;26
 131;Žemyna;6;"Nuo 3 iki 4 metų";1;Lietuvių;46;12
@@ -529,17 +533,17 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 133;Žibutė;10;"Nuo 3 iki 5 metų";1;Lietuvių;45;0
 133;Žibutė;11;"Nuo 5 iki 7 metų";1;Lietuvių;23;0
 133;Žibutė;13;"Nuo 4 iki 6 metų";1;Lietuvių;23;1
-134;Žiedas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;20;13
-134;Žiedas;6;"Nuo 3 iki 4 metų";1;Lietuvių;23;20
+134;Žiedas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;33;0
+134;Žiedas;6;"Nuo 3 iki 4 metų";1;Lietuvių;23;0
 134;Žiedas;7;"Nuo 4 iki 5 metų";1;Lietuvių;51;0
 134;Žiedas;8;"Nuo 5 iki 6 metų";1;Lietuvių;46;0
 134;Žiedas;11;"Nuo 5 iki 7 metų";1;Lietuvių;48;0
+134;Žiedas;16;"Nuo 4 iki 7 metų";1;Lietuvių;16;4
 135;Žilvitis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;77;0
 135;Žilvitis;6;"Nuo 3 iki 4 metų";1;Lietuvių;54;0
 135;Žilvitis;7;"Nuo 4 iki 5 metų";1;Lietuvių;68;0
 135;Žilvitis;8;"Nuo 5 iki 6 metų";1;Lietuvių;44;0
-135;Žilvitis;9;"Nuo 6 iki 7 metų";1;Lietuvių;1;3
-135;Žilvitis;11;"Nuo 5 iki 7 metų";1;Lietuvių;41;0
+135;Žilvitis;11;"Nuo 5 iki 7 metų";1;Lietuvių;43;2
 135;Žilvitis;18;"Nuo 2 iki 4 metų";1;Lietuvių;21;0
 136;Žilvinėlis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;93;0
 136;Žilvinėlis;6;"Nuo 3 iki 4 metų";1;Lietuvių;23;0
@@ -558,7 +562,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 138;Žolynėlis;18;"Nuo 2 iki 4 metų";1;Lietuvių;24;19
 138;Žolynėlis;19;"Nuo 2 iki 5 metų";1;Lietuvių;5;1
 138;Žolynėlis;23;"Nuo 1,5 iki 6 metų";1;Lietuvių;0;12
-139;Žuvėdra;10;"Nuo 3 iki 5 metų";1;Lietuvių;22;4
+139;Žuvėdra;10;"Nuo 3 iki 5 metų";1;Lietuvių;24;2
 139;Žuvėdra;11;"Nuo 5 iki 7 metų";1;Lietuvių;21;0
 140;Žvangutis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;36;0
 140;Žvangutis;7;"Nuo 4 iki 5 metų";1;Lietuvių;23;0
@@ -649,18 +653,19 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 157;Spygliukas;12;"Nuo 2 iki 3 metų";1;Lietuvių;8;0
 157;Spygliukas;18;"Nuo 2 iki 4 metų";1;Lietuvių;39;0
 158;Vieversys;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;79;0
-158;Vieversys;6;"Nuo 3 iki 4 metų";1;Lietuvių;11;9
+158;Vieversys;6;"Nuo 3 iki 4 metų";1;Lietuvių;7;0
 158;Vieversys;7;"Nuo 4 iki 5 metų";1;Lietuvių;42;0
 158;Vieversys;8;"Nuo 5 iki 6 metų";1;Lietuvių;44;0
 158;Vieversys;11;"Nuo 5 iki 7 metų";1;Lietuvių;69;0
 158;Vieversys;12;"Nuo 2 iki 3 metų";1;Lietuvių;16;0
-158;Vieversys;18;"Nuo 2 iki 4 metų";1;Lietuvių;41;0
+158;Vieversys;18;"Nuo 2 iki 4 metų";1;Lietuvių;54;0
 159;Žirmūnėliai;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;86;0
 159;Žirmūnėliai;7;"Nuo 4 iki 5 metų";1;Lietuvių;42;0
-159;Žirmūnėliai;8;"Nuo 5 iki 6 metų";1;Lietuvių;25;1
+159;Žirmūnėliai;8;"Nuo 5 iki 6 metų";1;Lietuvių;22;0
 159;Žirmūnėliai;9;"Nuo 6 iki 7 metų";1;Lietuvių;1;0
 159;Žirmūnėliai;10;"Nuo 3 iki 5 metų";1;Lietuvių;58;0
 159;Žirmūnėliai;11;"Nuo 5 iki 7 metų";1;Lietuvių;65;0
+159;Žirmūnėliai;13;"Nuo 4 iki 6 metų";1;Lietuvių;4;0
 159;Žirmūnėliai;18;"Nuo 2 iki 4 metų";1;Lietuvių;42;0
 160;Dainorėliai;6;"Nuo 3 iki 4 metų";1;Lietuvių;43;0
 160;Dainorėliai;7;"Nuo 4 iki 5 metų";1;Lietuvių;22;0
@@ -713,7 +718,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 186;Giliukas;12;"Nuo 2 iki 3 metų";1;Lietuvių;2;0
 186;Giliukas;13;"Nuo 4 iki 6 metų";1;Lietuvių;22;0
 186;Giliukas;18;"Nuo 2 iki 4 metų";1;Lietuvių;2;0
-186;Giliukas;20;"Nuo 2 iki 6 metų";1;Lietuvių;39;5
+186;Giliukas;20;"Nuo 2 iki 6 metų";1;Lietuvių;40;4
 188;"Lazdynų mokykla";20;"Nuo 2 iki 6 metų";1;Lietuvių;21;0
 189;"VĮ Mažasis Trinapolis mok. 160 Eur";6;"Nuo 3 iki 4 metų";1;Lietuvių;16;0
 189;"VĮ Mažasis Trinapolis mok. 160 Eur";7;"Nuo 4 iki 5 metų";1;Lietuvių;16;0
@@ -734,12 +739,12 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 283;"„Atžalyno” mokykla-darželis";7;"Nuo 4 iki 5 metų";1;Lietuvių;19;0
 283;"„Atžalyno” mokykla-darželis";9;"Nuo 6 iki 7 metų";1;Lietuvių;5;0
 283;"„Atžalyno” mokykla-darželis";11;"Nuo 5 iki 7 metų";1;Lietuvių;45;0
-283;"„Atžalyno” mokykla-darželis";12;"Nuo 2 iki 3 metų";1;Lietuvių;36;0
+283;"„Atžalyno” mokykla-darželis";12;"Nuo 2 iki 3 metų";1;Lietuvių;37;0
 283;"„Atžalyno” mokykla-darželis";18;"Nuo 2 iki 4 metų";1;Lietuvių;22;0
 311;"Vilniaus Naujininkų mokykla";11;"Nuo 5 iki 7 metų";1;Lietuvių;8;7
 311;"Vilniaus Naujininkų mokykla";14;"Nuo 3 iki 6 metų";1;Lietuvių;17;7
 311;"Vilniaus Naujininkų mokykla";16;"Nuo 4 iki 7 metų";1;Lietuvių;21;0
-313;"Vilniaus Taikos progimnazija";11;"Nuo 5 iki 7 metų";1;Lietuvių;135;5
+313;"Vilniaus Taikos progimnazija";11;"Nuo 5 iki 7 metų";1;Lietuvių;137;3
 314;"Vilniaus Karaliaus Mindaugo pagrindinė mokykla";11;"Nuo 5 iki 7 metų";1;Lietuvių;35;25
 314;"Vilniaus Karaliaus Mindaugo pagrindinė mokykla";16;"Nuo 4 iki 7 metų";1;Lietuvių;42;0
 327;Ąžuolas;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;38;0
@@ -749,11 +754,11 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 327;Ąžuolas;11;"Nuo 5 iki 7 metų";1;Lietuvių;24;0
 327;Ąžuolas;28;"Nuo 1 iki 7 metų";1;Lietuvių;0;1
 335;"Vilniaus Trakų Vokės gimnazija";11;"Nuo 5 iki 7 metų";1;Lietuvių;22;0
-335;"Vilniaus Trakų Vokės gimnazija";16;"Nuo 4 iki 7 metų";1;Lietuvių;23;34
+335;"Vilniaus Trakų Vokės gimnazija";16;"Nuo 4 iki 7 metų";1;Lietuvių;52;5
 337;"Vilniaus Salininkų gimnazija";11;"Nuo 5 iki 7 metų";1;Lietuvių;84;7
 338;"Vilniaus „Spindulio“ progimnazija";11;"Nuo 5 iki 7 metų";1;Lietuvių;83;0
 338;"Vilniaus „Spindulio“ progimnazija";16;"Nuo 4 iki 7 metų";1;Lietuvių;21;0
-342;"Vilniaus „Pelėdos” pradinė mokykla";11;"Nuo 5 iki 7 metų";1;Lietuvių;89;3
+342;"Vilniaus „Pelėdos” pradinė mokykla";11;"Nuo 5 iki 7 metų";1;Lietuvių;90;2
 373;"Vilniaus Verkių mokykla-daugiafunkcis centras";4;"Nuo 3 iki 7 metų";1;Lietuvių;7;0
 373;"Vilniaus Verkių mokykla-daugiafunkcis centras";9;"Nuo 6 iki 7 metų";1;Lietuvių;0;7
 373;"Vilniaus Verkių mokykla-daugiafunkcis centras";14;"Nuo 3 iki 6 metų";1;Lietuvių;1;6
@@ -761,11 +766,11 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 376;"Vilniaus Viršuliškių mokykla";16;"Nuo 4 iki 7 metų";1;Lietuvių;28;17
 377;Gluosnis;3;"Nuo 1,5 iki 3 metų";1;Lietuvių;32;0
 377;Gluosnis;6;"Nuo 3 iki 4 metų";1;Lietuvių;50;0
-377;Gluosnis;8;"Nuo 5 iki 6 metų";1;Lietuvių;20;2
-377;Gluosnis;9;"Nuo 6 iki 7 metų";1;Lietuvių;1;3
+377;Gluosnis;8;"Nuo 5 iki 6 metų";1;Lietuvių;20;0
 377;Gluosnis;10;"Nuo 3 iki 5 metų";1;Lietuvių;67;0
 377;Gluosnis;11;"Nuo 5 iki 7 metų";1;Lietuvių;22;0
-377;Gluosnis;13;"Nuo 4 iki 6 metų";1;Lietuvių;21;0
+377;Gluosnis;13;"Nuo 4 iki 6 metų";1;Lietuvių;23;0
+377;Gluosnis;16;"Nuo 4 iki 7 metų";1;Lietuvių;4;0
 381;"Vilniaus Simono Stanevičiaus progimnazija";11;"Nuo 5 iki 7 metų";1;Lietuvių;65;19
 384;"Vilniaus Maironio progimnazija";11;"Nuo 5 iki 7 metų";1;Lietuvių;34;28
 384;"Vilniaus Maironio progimnazija";16;"Nuo 4 iki 7 metų";1;Lietuvių;23;0
@@ -787,7 +792,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 668;"Naminukas (Klinikų g. 5)";11;"Nuo 5 iki 7 metų";1;Lietuvių;24;0
 668;"Naminukas (Klinikų g. 5)";18;"Nuo 2 iki 4 metų";1;Lietuvių;23;0
 669;"Gervelė (Stadiono g. 5)";4;"Nuo 3 iki 7 metų";1;Lietuvių;24;0
-39;Coliukė;4;"Nuo 3 iki 7 metų";2;Rusų;42;8
+39;Coliukė;4;"Nuo 3 iki 7 metų";2;Rusų;49;1
 41;Daigelis;3;"Nuo 1,5 iki 3 metų";2;Rusų;64;1
 41;Daigelis;4;"Nuo 3 iki 7 metų";2;Rusų;22;0
 41;Daigelis;6;"Nuo 3 iki 4 metų";2;Rusų;2;7
@@ -797,21 +802,22 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 41;Daigelis;18;"Nuo 2 iki 4 metų";2;Rusų;41;0
 51;Gelvonėlis;3;"Nuo 1,5 iki 3 metų";2;Rusų;31;0
 51;Gelvonėlis;7;"Nuo 4 iki 5 metų";2;Rusų;19;0
-51;Gelvonėlis;8;"Nuo 5 iki 6 metų";2;Rusų;19;4
+51;Gelvonėlis;8;"Nuo 5 iki 6 metų";2;Rusų;18;0
 51;Gelvonėlis;11;"Nuo 5 iki 7 metų";2;Rusų;20;0
+51;Gelvonėlis;16;"Nuo 4 iki 7 metų";2;Rusų;4;1
 51;Gelvonėlis;18;"Nuo 2 iki 4 metų";2;Rusų;22;0
-52;"Gervelė (Dzūkų g. 32)";4;"Nuo 3 iki 7 metų";2;Rusų;26;8
+52;"Gervelė (Dzūkų g. 32)";4;"Nuo 3 iki 7 metų";2;Rusų;27;7
 59;Karusėlė;3;"Nuo 1,5 iki 3 metų";2;Rusų;58;0
 59;Karusėlė;6;"Nuo 3 iki 4 metų";2;Rusų;32;0
 59;Karusėlė;7;"Nuo 4 iki 5 metų";2;Rusų;23;0
 59;Karusėlė;8;"Nuo 5 iki 6 metų";2;Rusų;22;0
 59;Karusėlė;11;"Nuo 5 iki 7 metų";2;Rusų;22;0
 60;Kaštonas;14;"Nuo 3 iki 6 metų";2;Rusų;26;0
-64;Kurpaitė;3;"Nuo 1,5 iki 3 metų";2;Rusų;27;3
-64;Kurpaitė;7;"Nuo 4 iki 5 metų";2;Rusų;1;0
+64;Kurpaitė;3;"Nuo 1,5 iki 3 metų";2;Rusų;15;15
+64;Kurpaitė;7;"Nuo 4 iki 5 metų";2;Rusų;0;1
 64;Kurpaitė;11;"Nuo 5 iki 7 metų";2;Rusų;23;3
-64;Kurpaitė;13;"Nuo 4 iki 6 metų";2;Rusų;24;0
-64;Kurpaitė;18;"Nuo 2 iki 4 metų";2;Rusų;22;0
+64;Kurpaitė;13;"Nuo 4 iki 6 metų";2;Rusų;22;2
+64;Kurpaitė;18;"Nuo 2 iki 4 metų";2;Rusų;20;2
 65;"Kūlverstukas (Suvalkų g. 6)";3;"Nuo 1,5 iki 3 metų";2;Rusų;31;0
 65;"Kūlverstukas (Suvalkų g. 6)";7;"Nuo 4 iki 5 metų";2;Rusų;22;0
 65;"Kūlverstukas (Suvalkų g. 6)";11;"Nuo 5 iki 7 metų";2;Rusų;22;0
@@ -821,7 +827,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 67;Lašelis;7;"Nuo 4 iki 5 metų";2;Rusų;16;0
 67;Lašelis;8;"Nuo 5 iki 6 metų";2;Rusų;16;0
 67;Lašelis;12;"Nuo 2 iki 3 metų";2;Rusų;21;8
-67;Lašelis;18;"Nuo 2 iki 4 metų";2;Rusų;18;0
+67;Lašelis;18;"Nuo 2 iki 4 metų";2;Rusų;19;0
 69;Liepsnelė;3;"Nuo 1,5 iki 3 metų";2;Rusų;47;11
 69;Liepsnelė;7;"Nuo 4 iki 5 metų";2;Rusų;1;5
 69;Liepsnelė;8;"Nuo 5 iki 6 metų";2;Rusų;21;3
@@ -864,8 +870,9 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 114;Sveikuolis;3;"Nuo 1,5 iki 3 metų";2;Rusų;88;13
 114;Sveikuolis;6;"Nuo 3 iki 4 metų";2;Rusų;3;0
 114;Sveikuolis;7;"Nuo 4 iki 5 metų";2;Rusų;37;0
-114;Sveikuolis;8;"Nuo 5 iki 6 metų";2;Rusų;43;2
+114;Sveikuolis;8;"Nuo 5 iki 6 metų";2;Rusų;42;0
 114;Sveikuolis;11;"Nuo 5 iki 7 metų";2;Rusų;57;0
+114;Sveikuolis;13;"Nuo 4 iki 6 metų";2;Rusų;3;0
 114;Sveikuolis;18;"Nuo 2 iki 4 metų";2;Rusų;41;0
 115;Šermukšnėlė;3;"Nuo 1,5 iki 3 metų";2;Rusų;28;0
 115;Šermukšnėlė;10;"Nuo 3 iki 5 metų";2;Rusų;21;0
@@ -887,7 +894,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 132;Žemuogėlė;3;"Nuo 1,5 iki 3 metų";2;Rusų;28;0
 132;Žemuogėlė;10;"Nuo 3 iki 5 metų";2;Rusų;22;0
 132;Žemuogėlė;11;"Nuo 5 iki 7 metų";2;Rusų;20;0
-134;Žiedas;3;"Nuo 1,5 iki 3 metų";2;Rusų;18;14
+134;Žiedas;3;"Nuo 1,5 iki 3 metų";2;Rusų;32;0
 134;Žiedas;6;"Nuo 3 iki 4 metų";2;Rusų;25;0
 134;Žiedas;13;"Nuo 4 iki 6 metų";2;Rusų;25;0
 139;Žuvėdra;3;"Nuo 1,5 iki 3 metų";2;Rusų;30;0
@@ -917,16 +924,17 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 147;Šilelis;8;"Nuo 5 iki 6 metų";2;Rusų;21;0
 147;Šilelis;9;"Nuo 6 iki 7 metų";2;Rusų;1;7
 147;Šilelis;18;"Nuo 2 iki 4 metų";2;Rusų;24;0
-148;Vaivorykštė;6;"Nuo 3 iki 4 metų";2;Rusų;73;0
-148;Vaivorykštė;7;"Nuo 4 iki 5 metų";2;Rusų;52;0
+148;Vaivorykštė;6;"Nuo 3 iki 4 metų";2;Rusų;51;22
+148;Vaivorykštė;7;"Nuo 4 iki 5 metų";2;Rusų;51;1
 148;Vaivorykštė;8;"Nuo 5 iki 6 metų";2;Rusų;48;0
-148;Vaivorykštė;11;"Nuo 5 iki 7 metų";2;Rusų;77;4
-154;Bangelė;3;"Nuo 1,5 iki 3 metų";2;Rusų;30;33
+148;Vaivorykštė;11;"Nuo 5 iki 7 metų";2;Rusų;66;0
+148;Vaivorykštė;16;"Nuo 4 iki 7 metų";2;Rusų;0;17
+154;Bangelė;3;"Nuo 1,5 iki 3 metų";2;Rusų;46;17
 154;Bangelė;6;"Nuo 3 iki 4 metų";2;Rusų;0;5
 154;Bangelė;7;"Nuo 4 iki 5 metų";2;Rusų;22;0
 154;Bangelė;8;"Nuo 5 iki 6 metų";2;Rusų;23;6
 154;Bangelė;10;"Nuo 3 iki 5 metų";2;Rusų;22;0
-154;Bangelė;11;"Nuo 5 iki 7 metų";2;Rusų;22;3
+154;Bangelė;11;"Nuo 5 iki 7 metų";2;Rusų;24;1
 161;Lokiukas;3;"Nuo 1,5 iki 3 metų";2;Rusų;31;0
 161;Lokiukas;6;"Nuo 3 iki 4 metų";2;Rusų;6;0
 161;Lokiukas;7;"Nuo 4 iki 5 metų";2;Rusų;24;0
@@ -948,8 +956,8 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 380;"Vilniaus Ateities mokykla";11;"Nuo 5 iki 7 metų";2;Rusų;38;16
 380;"Vilniaus Ateities mokykla";16;"Nuo 4 iki 7 metų";2;Rusų;17;0
 383;"Vilniaus Saulėtekio mokykla-daugiafunkcinis centras";8;"Nuo 5 iki 6 metų";2;Rusų;23;0
-383;"Vilniaus Saulėtekio mokykla-daugiafunkcinis centras";11;"Nuo 5 iki 7 metų";2;Rusų;67;0
-597;"Gintarėlis (Popieriaus g. 46A)";13;"Nuo 4 iki 6 metų";2;Rusų;0;3
+383;"Vilniaus Saulėtekio mokykla-daugiafunkcinis centras";11;"Nuo 5 iki 7 metų";2;Rusų;68;0
+597;"Gintarėlis (Popieriaus g. 46A)";4;"Nuo 3 iki 7 metų";2;Rusų;2;1
 597;"Gintarėlis (Popieriaus g. 46A)";16;"Nuo 4 iki 7 metų";2;Rusų;16;0
 597;"Gintarėlis (Popieriaus g. 46A)";18;"Nuo 2 iki 4 metų";2;Rusų;19;0
 669;"Gervelė (Stadiono g. 5)";3;"Nuo 1,5 iki 3 metų";2;Rusų;24;2
@@ -962,9 +970,9 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 670;"Kūlverstukas (Mindaugo g. 7)";18;"Nuo 2 iki 4 metų";2;Rusų;2;1
 670;"Kūlverstukas (Mindaugo g. 7)";20;"Nuo 2 iki 6 metų";2;Rusų;1;2
 39;Coliukė;4;"Nuo 3 iki 7 metų";4;Lenkų;21;0
-39;Coliukė;20;"Nuo 2 iki 6 metų";4;Lenkų;0;10
+39;Coliukė;20;"Nuo 2 iki 6 metų";4;Lenkų;9;1
 51;Gelvonėlis;4;"Nuo 3 iki 7 metų";4;Lenkų;19;2
-54;"Gintarėlis (Didlaukio g. 35)";3;"Nuo 1,5 iki 3 metų";4;Lenkų;13;4
+54;"Gintarėlis (Didlaukio g. 35)";3;"Nuo 1,5 iki 3 metų";4;Lenkų;14;3
 59;Karusėlė;14;"Nuo 3 iki 6 metų";4;Lenkų;26;1
 60;Kaštonas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;25;0
 60;Kaštonas;10;"Nuo 3 iki 5 metų";4;Lenkų;23;0
@@ -1001,7 +1009,7 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 125;Vėrinėlis;18;"Nuo 2 iki 4 metų";4;Lenkų;21;0
 129;Zylutė;16;"Nuo 4 iki 7 metų";4;Lenkų;23;0
 129;Zylutė;18;"Nuo 2 iki 4 metų";4;Lenkų;21;6
-134;Žiedas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;19;4
+134;Žiedas;3;"Nuo 1,5 iki 3 metų";4;Lenkų;23;0
 134;Žiedas;14;"Nuo 3 iki 6 metų";4;Lenkų;23;0
 137;Žiogelis;4;"Nuo 3 iki 7 metų";4;Lenkų;28;5
 139;Žuvėdra;3;"Nuo 1,5 iki 3 metų";4;Lenkų;32;0
@@ -1011,11 +1019,11 @@ DARZ_ID;SCHOOL_NAME;TYPE_ID;TYPE_LABEL;LAN_ID;LAN_LABEL;CHILDS_COUNT;FREE_SPACE
 145;Saulutė;4;"Nuo 3 iki 7 metų";4;Lenkų;20;0
 145;Saulutė;18;"Nuo 2 iki 4 metų";4;Lenkų;19;0
 147;Šilelis;14;"Nuo 3 iki 6 metų";4;Lenkų;20;0
-154;Bangelė;3;"Nuo 1,5 iki 3 metų";4;Lenkų;19;15
-154;Bangelė;6;"Nuo 3 iki 4 metų";4;Lenkų;23;5
-154;Bangelė;7;"Nuo 4 iki 5 metų";4;Lenkų;0;2
+154;Bangelė;3;"Nuo 1,5 iki 3 metų";4;Lenkų;34;0
+154;Bangelė;6;"Nuo 3 iki 4 metų";4;Lenkų;25;3
+154;Bangelė;7;"Nuo 4 iki 5 metų";4;Lenkų;1;1
 154;Bangelė;10;"Nuo 3 iki 5 metų";4;Lenkų;23;0
-154;Bangelė;11;"Nuo 5 iki 7 metų";4;Lenkų;0;2
+154;Bangelė;11;"Nuo 5 iki 7 metų";4;Lenkų;2;0
 154;Bangelė;16;"Nuo 4 iki 7 metų";4;Lenkų;22;0
 162;Šaltinėlis;3;"Nuo 1,5 iki 3 metų";4;Lenkų;18;0
 162;Šaltinėlis;6;"Nuo 3 iki 4 metų";4;Lenkų;32;1
