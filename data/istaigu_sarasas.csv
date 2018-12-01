@@ -60,8 +60,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 627;"VšĮ „VIMS – International Meridian School“";"M. Daukšos g. 7";300556174;;2;2017-12-01;;1111;6060539;583360
 645;"VšĮ „Vilniaus humanistinė mokykla“";"Konstitucijos pr. 11";303655900;;2;2017-12-01;;1111;6062999;582205
 619;"VšĮ „Vaikų ateitis“";"Purienų g. 8";124865437;;2;2017-12-01;;1111;6066433;590867
-552;"VšĮ „Trys bambliai“ (Taškius Senamiestyje)";"Pilies g. 22";2147483647;;2;2017-07-27;;1111;6061476;583139
-570;"VšĮ „Trys bambliai“ (Taškius Bernardinuose)";"Maironio g. 11";303375930;www.taskius.lt;2;2017-07-31;;1111;6061430;583357
+552;"VšĮ „Trys bambliai“ (Taškius Senamiestyje)";"Pilies g. 22";303375930;;2;2017-07-27;;1111;6061476;583139
 650;"VšĮ „Šeimų darželis“";"Žirmūnų g. 84";304285165;;2;2017-12-01;;1111;6066204;583945
 602;"VšĮ „Šaltinėlio“ privati mokykla";"J. Jasinskio g. 16G";191715392;http://www.privatimokykla.lt;2;2017-12-01;;1111;6061961;581311
 625;"VšĮ „Saulės gojus“";"Karių Kapų g. 20";300038662;;2;2017-12-01;;1111;6063385;584854
@@ -77,7 +76,6 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 634;"VšĮ „Katino dienelės“";"Pranciškaus Smuglevičiaus g. 12";304214225;;2;2017-12-01;;1111;6067470;582202
 666;"VšĮ „Garso servisas“";"Aušros al. 15 A, Vilnius";166920363;;2;2017-12-01;;1111;0;0
 544;"VšĮ „Du bambliai“ (Taškius Bajoruose; Smėlio g. 18, Bajorų km.)";"Smėlio g. 18";302890977;http://www.taskius.lt/;2;2017-07-27;;1111;6064094;584670
-685;"VšĮ „Bamblys“ (Taškius Filaretuose)";"Dailidžių g. 22A";2147483647;www.taskius.lt;2;2017-06-01;;0;6062019;584865
 684;"VšĮ „Bamblys“ (Taškius Centre)";"Konstitucijos pr. 25";302303223;www.taskius.lt;2;1970-01-01;;1111;6063232;581703
 564;"VšĮ ""Žemuogėlių pieva""";"Laisvės pr. 77C";303032344;;2;2017-07-31;;1111;6065804;579526
 515;"VšĮ ""Žemės aidas""";"Gailestingųjų Seserų g. 7";303123908;;2;2017-07-27;;1111;6063136;584922
@@ -341,7 +339,8 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 317;"Dienos centras šviesa";"Baltasis Skersgatvis 3, Vilnius 01207";190997946;www.dcsviesa.lt;4;1992-06-24;;16;6061388;584087
 368;"Dienos centras „Šviesa“";"Baltasis skg. 3A";190997946;;4;2015-01-01;;0;6061407;584122
 42;Delfinukas;"Vido Maciulevičiaus g. 32";190027037;;1;1973-11-16;;10;0;0
-160;Dainorėliai;"Ankštoji g. 11/Goštauto g. 4(be kiemo)";190012291;"Goštauto g. DEBESELIŲ gr., PUMPURĖLIŲ gr.";1;1996-01-02;;17;0;0
+688;"Dainorėliai (Goštauto g. 4)";"Goštauto g. 4";190014291;"Goštauto g. DEBESELIŲ gr., PUMPURĖLIŲ gr.";1;1986-10-26;;17;0;0
+160;"Dainorėliai (Ankštoji g. 11)";"Ankštoji g. 11/Goštauto g. 4(be kiemo)";190012291;"Goštauto g. DEBESELIŲ gr., PUMPURĖLIŲ gr.";1;1996-01-02;;17;0;0
 41;Daigelis;"Dariaus ir Girėno g. 14";191727213;dir.mob.860191176;1;1996-01-13;;19;6059212;582247
 40;Čiauškutis;"Sausio 13-osios g. 6";190027941;;3;1973-12-10;;1111;6062138;578557
 39;Coliukė;"A. Kojelavičiaus g. 298";190015444;;1;1991-11-15;;14;6063279;592006
