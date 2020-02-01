@@ -42,7 +42,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 675;"VŠĮ Mūsų abėcėlė";"Gurių g. 127A, Vilnius";304836405;;2;1986-10-26;;14;0;0
 662;"VŠĮ Mokymosi namai „Patirčių slėnis“";"Birutės g. 16, Trakai";304552294;;2;2017-12-01;;1111;0;0
 10195;"VŠĮ Mokymo centras „Neozebra“";"Žvejų g. 14A";304536596;;2;2019-06-03;;3;0;0
-10203;"VšĮ Mįsliaus Dirbtuvės";"Kazimiero Jelskio g. 53";305237472;www.misliausdirbtuves.lt;2;2019-08-27;;0;6061326;579069
+10203;"VšĮ Mįsliaus Dirbtuvės";"Kazimiero Jelskio g. 53";305237472;www.misliausdirbtuves.lt;2;2019-08-27;;1111;6061326;579069
 660;"VŠĮ Melkio mokykla";"A.Giedraičio g. 124, Melkio k.,Vilniaus r.";303359698;;2;2017-12-01;;1111;0;0
 673;"VŠĮ Mažoji karalystė";"Kęstučio g. 1-6, Vilnius";304746121;;2;1986-10-26;;6;0;0
 642;"VŠĮ Mažyliai";"Kolektyvo g. 24";304292081;;2;2017-12-01;;1111;6065874;582210
@@ -139,7 +139,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 313;"Vilniaus Taikos progimnazija";"Taikos g. 157";195007889;;1;1960-01-01;;8;6064995;578173
 681;"Vilniaus Šilo mokykla";"Šilo g. 15";191722433;;1;1986-10-26;;1111;6063814;584925
 381;"Vilniaus Simono Stanevičiaus progimnazija";"S. Stanevičiaus g. 25";290008970;;1;2015-12-16;;4;6065963;580949
-334;"Vilniaus Simono Konarskio mokykla";"Statybininkų g. 5";190005140;;1;1960-01-01;;17;6060422;581103
+334;"Vilniaus Simono Konarskio gimnazija";"Statybininkų g. 5";190005140;;1;1960-01-01;;17;6060422;581103
 372;"Vilniaus Senamiesčio vidurinė mokykla";"M. Daukšos g. 7";190006819;;6;1997-10-01;;16;6060539;583360
 144;"Vilniaus savivaldybės Grigiškių lopšelis-darželis „Pelėdžiukas“";"Lentvario g. 1";190648396;;1;1992-01-06;;21;6060250;569710
 375;"Vilniaus savivaldybės Grigiškių gimnazija";"Kovo 11-osios g. 21";190661333;;6;1952-08-18;;21;6059984;570222
@@ -206,8 +206,8 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 542;"UAB Vaikystės sodas (L. Sapiegos sodas)";"Antakalnio g. 28";302602019;http://vaikystes-sodas.lt;2;2017-07-27;;1111;6063340;584340
 612;"UAB Vaikystės sodas (Konstitucijos sodas)";"Konstitucijos pr. 21C";2147483647;;2;2017-12-01;;1111;6063204;581940
 678;"UAB Vaikystės sodas (Karalienės Mortos sodelis)";"Gervėčių g. 4, Vilnius";2147483647;;2;2018-07-01;;0;0;0
+606;"UAB Vaikystės sodas (Karalienės Mortos sodas)";"J. Basanavičiaus g. 24";2147483647;;2;2017-12-01;;1111;6061313;581849
 617;"UAB Vaikystės sodas (Karaliaus Mindaugo sodas)";"Bebrų g. 3";2147483647;;2;2017-12-01;;1111;6062918;580660
-606;"UAB Vaikystės sodas (J.Basanavičiaus sodas)";"J. Basanavičiaus g. 24";2147483647;;2;2017-12-01;;1111;6061313;581849
 609;"UAB Vaikystės sodas (Gedimino sodas)";"Gedimino pr. 34";2147483647;;2;2017-12-01;;1111;6061984;582131
 608;"UAB Vaikystės sodas (Draugystės sodas)";"Žolyno g. 47";2147483647;;2;2017-12-01;;1111;6064294;586168
 616;"UAB Vaikystės sodas (Antano Miškinio sodas)";"Naujakurių g. 37";2147483647;;2;2017-12-01;;1111;6065502;585511
@@ -320,7 +320,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 69;Liepsnelė;"Kapsų g. 7";290018740;;1;1111-11-11;;19;6059010;582319
 188;"Lazdynų mokykla (Žėručio g. 4)";"Žėručio g. 4";190005489;"dir. 8 671 36758,  Dir.pav.PU Regina Ablom, mob. 8 674 20 634";1;1968-06-01;;11;6060587;578209
 676;"Lazdynų mokykla (Liudvinavo g.128)";"Liudvinavo g. 128";190005489;"dir. 8 671 36758,  Dir.pav.PU Regina Ablom, mob. 8 674 20 634";1;1986-10-26;;20;6055957;572917
-68;Lazdynėlis;"Šiltnamių g. 36";190018173;http://www.lazdynelis.lt/;1;1963-01-21;;11;0;0
+68;Lazdynėlis;"Šiltnamių g. 38";190018173;http://www.lazdynelis.lt/;1;1963-01-21;;11;6059743;578491
 67;Lašelis;"Dzūkų g. 29";190017452;;1;1996-01-07;;19;6059341;582544
 66;Lakštingala;"Lakštingalų g. 10";190023010;;1;1961-01-01;;13;6066921;585208
 64;Kurpaitė;"Birželio 23-iosios g. 6";190017114;;1;1995-09-01;;17;6060317;581350
@@ -328,7 +328,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 670;"Kūlverstukas (Mindaugo g. 7)";"Mindaugo g. 7";190013436;"dir.mob. 860629629";1;2018-01-01;;17;6061130;582078
 720;"Krivūlė (Vokiečių g. 1)";"Vokiečių g. 1";190015782;;1;1986-10-26;;16;6060985;582957
 61;"Krivūlė (Lydos g. 5)";"Lydos g. 5";190015782;;1;1992-01-21;;16;6060976;582608
-10204;"Kodėlčiukas (Pavilnionių g. 29)";"Pavilnionių g. 29";190031450;;1;1987-12-12;;7;6067356;578544
+10204;"Kodėlčiukas (Pavilnionių g. 29)";"Pavilnionių g. 29";190031459;;1;1987-12-12;;7;6067356;578544
 62;"Kodėlčiukas (Laisvės pr. 59)";"Laisvės pr. 59";190031459;;1;1987-12-12;;5;6065259;579457
 63;Klevelis;"Stadiono g. 5";190015063;;1;1996-01-13;;0;0;0
 60;Kaštonas;"Antakalnio g. 108";190019841;;1;1961-01-01;;13;6065166;584743
@@ -343,6 +343,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 597;"Gintarėlis (Popieriaus g. 46A)";"Popieriaus g. 46A";190029383;;1;1960-11-27;;1;6070424;586127
 54;"Gintarėlis (Didlaukio g. 35)";"Didlaukio g. 35";190029383;;1;2012-09-12;;1;6066821;581859
 53;"Gilužis (Vydūno g. 11A)";"Vydūno g. 11A";190028324;;1;1992-01-21;;12;6063915;576329
+10207;"Gilužis (Pajautos g. 5)";"Pajautos g. 5";190028324;;1;2020-01-01;;12;6064266;575895
 722;"Gilužis (Įsruties g. 30)";"Įsruties g. 30";190028324;;1;1986-10-26;;12;6064481;576209
 186;Giliukas;"Minties g. 1";302716948;;1;2012-03-01;;2;6064063;583894
 669;"Gervelė (Stadiono g. 5)";"Stadiono g. 5";190013589;;1;2018-01-01;;15;6059967;583359
@@ -387,3 +388,4 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 10192;",,Mėnulio pasaka&quot;";"Stalupėnų g. 12";2147483647;https://www.menuliopasaka.lt/;2;2015-09-01;;0;6064348;576766
 10;"_VMSA test";"Testinis darželis - adresas";190017790;;1;2013-05-10;;0;0;0
 10189;"_Pirmumo teisei be eiles";"Nera g. 92";0;;1;2017-12-11;;0;0;0
+10206;"_nauja istaiga 2020";"Konstitucijos pr. 3";188710061;;2;2020-01-01;;0;6062868;582468
