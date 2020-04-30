@@ -37,6 +37,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 567;"VŠĮ Sarmatika";"Antakalnio g. 22B";303162505;http://www.baltusalele.lt;2;2017-07-31;;1111;6063157;584332
 560;"VšĮ Pupų pėdelis";"Vydūno g. 17-28, Vilnius.";303053648;http://www.pupu.lt;2;2017-07-31;;1111;0;0
 566;"VšĮ privatus darželis ""Jorė""";"Garvežių g. 15";303168248;http://www.darzelisjore.lt;2;2017-07-31;;1111;6059249;581628
+10209;"VŠĮ Pasakų namukas plius";"A.P.Kavoliuko g. 2A-87, Vilnius";305438849;;2;2020-04-01;;10;0;0
 624;"VšĮ Pal. J. Matulaičio šeimos pagalbos centras";"Šeškinės g. 65";126366917;;2;2017-12-01;;1111;6065090;580035
 659;"VšĮ Naujųjų vaikų gojus";"Gervių g. 17";304353488;;2;2017-12-01;;1111;6063320;580303
 675;"VŠĮ Mūsų abėcėlė";"Gurių g. 127A, Vilnius";304836405;;2;1986-10-26;;14;0;0
@@ -128,7 +129,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 315;"VMSA testuojamas darželis";test;1;;1;2009-10-09;;3;0;0
 632;"VKEC darželis „Vikutis“";"Palydovo g. 29";304083929;;2;2017-12-01;;1111;6063584;591020
 640;"Vytauto Didžiojo universiteto Švietimo akademijos vaikų darželis Mažųjų akademija";"Studentų g. 45";111950396;;2;2017-12-01;;1111;6062902;581161
-126;Viltenė;"Gerosios Vilties g. 7A";190014538;;1;1996-01-06;;18;6059971;580171
+126;Viltenė;"Gerosios Vilties g. 7A";190014538;;1;1996-01-06;;18;6059971;580170
 280;"Vilnios pagrindinė mokykla";"Palydovo g. 29A";190978974;;1;1961-04-01;;14;6063647;591077
 386;"Vilniaus Žemynos progimnazija";"Žemynos g. 14";295472120;;7;2002-04-10;;0;0;0
 339;"Vilniaus Vladislavo Sirokomlės gimnazija";"Linkmenų g. 8";190001462;;1;1960-01-01;;3;6063489;581831
@@ -137,7 +138,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 335;"Vilniaus Trakų Vokės gimnazija";"Trampolio g. 5";191317260;;1;1960-01-01;;20;6055129;571743
 623;"Vilniaus tarptautinis prancūzų licėjus";"Šilo g. 13";111967520;;2;2017-12-01;;1111;6063840;584870
 313;"Vilniaus Taikos progimnazija";"Taikos g. 157";195007889;;1;1960-01-01;;8;6064995;578173
-681;"Vilniaus Šilo mokykla";"Šilo g. 15";191722433;;1;1986-10-26;;1111;6063814;584925
+681;"Vilniaus Šilo mokykla";"Lakštingalų g. 8";191722433;;1;1986-10-26;;1111;6066865;585309
 381;"Vilniaus Simono Stanevičiaus progimnazija";"S. Stanevičiaus g. 25";290008970;;1;2015-12-16;;4;6065963;580949
 334;"Vilniaus Simono Konarskio gimnazija";"Statybininkų g. 5";190005140;;1;1960-01-01;;17;6060422;581103
 372;"Vilniaus Senamiesčio vidurinė mokykla";"M. Daukšos g. 7";190006819;;6;1997-10-01;;16;6060539;583360
@@ -166,7 +167,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 382;"Vilniaus Centro mokykla";uždaryta;4454;;1;2015-12-09;;0;0;0
 324;"Vilniaus Baltupių progimnazija";"Didlaukio g. 23";190000894;;1;1979-12-16;;0;0;0
 380;"Vilniaus Ateities mokykla";"S. Stanevičiaus g. 98";190003666;;7;1987-12-12;;4;6066603;580657
-10208;"Vilniaus Antakalnio progimnazija";"Antakalnio g. 33 (29)";302818006;;7;2020-03-01;;13;0;0
+10208;"Vilniaus Antakalnio pradinė mokykla";"Šilo g. 15";304865385;;7;2020-03-01;;13;6063811;584926
 378;"Vilniaus Aleksandro Puškino mokykla";"Gabijos g. 8";190003470;;7;1989-12-12;;7;6066745;578722
 167;"Vilniaus „Vilties“ specialioji mokykla-daugiafunkcinis centras";"Igno Šimulionio g. 6";190034188;;3;1960-01-01;;1111;6062722;578819
 338;"Vilniaus „Spindulio“ progimnazija";"Rolando Jankausko g. 17";190006242;;1;1960-01-01;;10;6062339;577819
@@ -238,7 +239,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 117;Šnekutis;"Vytenio g. 41";190017267;;1;1199-01-13;;17;6060541;581507
 116;Šypsena;"Povilo Višinskio g. 23";190011766;;1;2012-09-12;;16;6060511;584155
 147;Šilelis;"Sietyno g. 5";290026840;;1;1992-01-21;;10;6061683;577294
-115;Šermukšnėlė;"Didlaukio g. 66";290029950;;1;1961-01-01;;1;6066405;581924
+115;Šermukšnėlė;"Didlaukio g. 66";290029950;;1;1961-01-01;;1;6066404;581891
 162;Šaltinėlis;"Šaltkalvių g. 13";190021689;;1;1992-01-13;;19;6059207;581916
 114;Sveikuolis;"Dūkštų g. 14";190030161;;1;1985-12-13;;5;6064690;580111
 146;Svaja;"Architektų g. 210";190026654;;1;2000-02-12;;11;6061055;578652
@@ -325,7 +326,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 67;Lašelis;"Dzūkų g. 29";190017452;;1;1996-01-07;;19;6059341;582544
 66;Lakštingala;"Lakštingalų g. 10";190023010;;1;1961-01-01;;13;6066921;585208
 64;Kurpaitė;"Birželio 23-iosios g. 6";190017114;;1;1995-09-01;;17;6060317;581350
-65;"Kūlverstukas (Suvalkų g. 6)";"Suvalkų g. 6";190013436;;1;1995-09-01;;17;6061494;581645
+65;"Kūlverstukas (Suvalkų g. 6)";"Suvalkų g. 6";190013436;;1;1995-09-01;;17;6061495;581644
 670;"Kūlverstukas (Mindaugo g. 7)";"Mindaugo g. 7";190013436;"dir.mob. 860629629";1;2018-01-01;;17;6061130;582078
 720;"Krivūlė (Vokiečių g. 1)";"Vokiečių g. 1";190015782;;1;1986-10-26;;16;6060985;582957
 61;"Krivūlė (Lydos g. 5)";"Lydos g. 5";190015782;;1;1992-01-21;;16;6060976;582608
@@ -361,13 +362,13 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 43;Dobilėlis;"Savanorių pr. 55";190014495;;3;1990-09-17;;0;0;0
 317;"Dienos centras šviesa";"Baltasis Skersgatvis 3, Vilnius 01207";190997946;www.dcsviesa.lt;4;1992-06-24;;16;6061388;584087
 368;"Dienos centras „Šviesa“";"Baltasis skg. 3A";190997946;;4;2015-01-01;;0;6061407;584122
-42;Delfinukas;"Vido Maciulevičiaus g. 32";190027037;;1;1973-11-16;;10;0;0
+42;Delfinukas;"Sietyno g. 9";190027037;;1;1973-11-16;;10;6062088;577517
 536;"Darželis „Šilagėlė“ (VŠĮ „SG8“)";"Liepyno g. 4";191743947;http://www.silagelesdarzeliai.lt/;2;2017-07-27;;1111;6063057;580905
 688;"Dainorėliai (Goštauto g. 4)";"Goštauto g. 4";190012291;"Goštauto g. DEBESELIŲ gr., PUMPURĖLIŲ gr.";1;1986-10-26;;17;0;0
 160;"Dainorėliai (Ankštoji g. 11)";"Ankštoji g. 11";190012291;"Goštauto g. DEBESELIŲ gr., PUMPURĖLIŲ gr.";1;1996-01-02;;17;6062282;581589
 41;Daigelis;"Dariaus ir Girėno g. 14";191727213;dir.mob.860191176;1;1996-01-13;;19;6059212;582247
 40;Čiauškutis;"Sausio 13-osios g. 6";190027941;;3;1973-12-10;;1111;6062138;578557
-39;Coliukė;"A.Kojelavičiaus g. 298 , A.Kojelavičiaus g. 304 , Karklėnų g. 15";190015444;;1;1991-11-15;;14;0;0
+39;Coliukė;"A.Kojelavičiaus g. 298";190015444;"padaliniai- A.Kojelavičiaus g. 304 , Karklėnų g. 15";1;1991-11-15;;14;0;0
 170;Boružėlė;"Latvių g. 40";190021721;;1;1111-11-11;;6;6062729;580386
 37;Bitutė;"Paberžės g. 20";190031797;;1;1996-01-14;;5;6065254;580866
 36;Birutės;"Birutės g. 4";190016927;;1;1974-12-13;;6;6061804;580647
@@ -385,7 +386,7 @@ ID;LABEL;"LEFT(ADDRESS, 256)";SCHOOLNO;WWW;SCHOOL_TYPE;BUILDDATE;REGION_TYPE;ELD
 526;"Antano Mockaus Asociacija";"Architektų g. 49";301520035;http://www.mockus.eu;2;2017-07-27;;1111;6060551;577431
 31;Aitvaras;"Pašilaičių g. 10";190032931;;1;1987-12-12;;7;6066674;579323
 153;Aidas;"Lakštingalų g. 8";190017790;;3;1998-11-14;;1111;6066829;585334
-283;"„Atžalyno” mokykla-darželis";"Genių g. 25";191665861;;1;2014-09-01;;14;6062220;591840
+283;"„Atžalyno” mokykla-darželis";"Genių g. 25";191665861;;1;2014-09-01;;14;6062221;591842
 10192;",,Mėnulio pasaka&quot;";"Stalupėnų g. 12";2147483647;https://www.menuliopasaka.lt/;2;2015-09-01;;0;6064348;576766
 10;"_VMSA test";"Testinis darželis - adresas";190017790;;1;2013-05-10;;0;0;0
 10189;"_Pirmumo teisei be eiles";"Nera g. 92";0;;1;2017-12-11;;0;0;0
