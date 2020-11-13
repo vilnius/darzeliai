@@ -806,6 +806,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 333,"Pranciškaus Skorinos gimnazija","Sietyno g. 21",6062539,577833,Karoliniškių,333,"Pranciškaus Skorinos gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,2,Rusų,,0,4,SPEC.VAIKAI,Taip,0,0,Rus
 335,"Trakų Vokės gimnazija","Trampolio g. 5",6055129,571743,Panerių,335,"Trakų Vokės gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,1,Lietuvių,,0,10,SPEC.VAIKAI,Taip,0,0,Lie
 370,"Juzefo Ignacijaus Kraševskio gimnazija","Rugiagėlių g. 15",6063483,591579,"Naujosios Vilnios",370,"Juzefo Ignacijaus Kraševskio gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,4,Lenkų,,0,7,SPEC.VAIKAI,Taip,0,0,Len
+375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,2,Rusų,,0,9,SPEC.VAIKAI,Taip,0,0,Rus
+375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,4,Lenkų,,0,10,SPEC.VAIKAI,Taip,0,0,Len
 377,Gluosnis,"Justiniškių g. 65",6064191,578425,Viršuliškių,377,Gluosnis,7,"Nuo 4 iki 5 metų",4.00,5.00,1,Lietuvių,3,19,15,PELĖDŽIUKAI,,19,0,Lie
 377,Gluosnis,"Justiniškių g. 65",6064191,578425,Viršuliškių,377,Gluosnis,16,"Nuo 4 iki 7 metų",4.00,7.00,1,Lietuvių,3,20,13,BORUŽĖLĖS,,20,0,Lie
 388,Žolynas,"Žolyno g. 45A",6064325,586025,Antakalnio,388,Žolynas,7,"Nuo 4 iki 5 metų",4.00,5.00,1,Lietuvių,,40,18,Dobiliukai,,40,0,Lie
@@ -843,10 +845,6 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 67,Lašelis,"Dzūkų g. 29",6059341,582544,Naujininkų,67,Lašelis,7,"Nuo 4 iki 5 metų",4.00,5.00,2,Rusų,,40,2,ŠYPSENA,,36,4,Rus
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,13,"Nuo 4 iki 6 metų",4.00,6.00,1,Lietuvių,,20,9,Drugeliai,,16,4,Lie
 138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,7,"Nuo 4 iki 5 metų",4.00,5.00,1,Lietuvių,,42,20,Dobiliukai,,37,5,Lie
-375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,2,Rusų,,51,1,"Priešmokyklinio ugdymo (rusų kalba)",,46,5,Rus
-375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,2,Rusų,,0,9,SPEC.VAIKAI,Taip,0,0,Rus
-375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,4,Lenkų,,23,2,"Priešmokyklinio ugdymo (lenkų kalba)",,18,5,Len
-375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",16,"Nuo 4 iki 7 metų",4.00,7.00,4,Lenkų,,0,10,SPEC.VAIKAI,Taip,0,0,Len
 33,Aušrelė,"Gerosios Vilties g. 28",6060144,580536,Vilkpėdės,33,Aušrelė,7,"Nuo 4 iki 5 metų",4.00,5.00,1,Lietuvių,,58,3,SMALSUČIAI,,50,8,Lie
 188,"Lazdynų mokykla (Žėručio g. 4)","Žėručio g. 4",6060587,578209,Lazdynų,188,"Lazdynų mokykla (Žėručio g. 4)",16,"Nuo 4 iki 7 metų",4.00,7.00,2,Rusų,,36,14,RUPG-1,,27,9,Rus
 188,"Lazdynų mokykla (Žėručio g. 4)","Žėručio g. 4",6060587,578209,Lazdynų,188,"Lazdynų mokykla (Žėručio g. 4)",16,"Nuo 4 iki 7 metų",4.00,7.00,2,Rusų,,0,16,SPEC.VAIKAI,Taip,0,0,Rus
@@ -1074,7 +1072,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 371,"Jono Pauliaus II progimnazija","Rygos g. 10",6065110,578729,Viršuliškių,371,"Jono Pauliaus II progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,1,60,6,Žiniukai,,60,0,Len
 371,"Jono Pauliaus II progimnazija","Rygos g. 10",6065110,578729,Viršuliškių,371,"Jono Pauliaus II progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,1,0,14,SPEC.VAIKAI,Taip,0,0,Len
 374,"Sausio 13-osios progimnazija","Architektų g. 166",6061530,578374,Lazdynų,374,"Sausio 13-osios progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,2,43,2,GUDRUČIAI,,43,0,Lie
-375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,19,7,"PRIEŠMOKYKLINIO UGDYMO (RUSŲ KALBA) II GRUPĖ",,19,0,Rus
+375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,30,14,Žiniukai,,30,0,Rus
+375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,,8,15,Pelėdžiukai,,8,0,Len
 377,Gluosnis,"Justiniškių g. 65",6064191,578425,Viršuliškių,377,Gluosnis,8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,22,18,BITUTĖS,,22,0,Lie
 381,"Simono Stanevičiaus progimnazija","S. Stanevičiaus g. 25",6065963,580949,Fabijoniškių,381,"Simono Stanevičiaus progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,3,38,2,BITUTĖS,,38,0,Lie
 381,"Simono Stanevičiaus progimnazija","S. Stanevičiaus g. 25",6065963,580949,Fabijoniškių,381,"Simono Stanevičiaus progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,3,0,6,SPEC.VAIKAI,Taip,0,0,Lie
@@ -1191,10 +1190,10 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,9,"Nuo 6 iki 7 metų",6.00,7.00,1,Lietuvių,,40,2,ŠIAUDINUKAI,,36,4,Lie
 141,Žirniukas,"Verkių g. 17",6064149,582987,Žirmūnų,141,Žirniukas,9,"Nuo 6 iki 7 metų",6.00,7.00,1,Lietuvių,,20,4,Boružiukų,,16,4,Lie
 156,Obelėlė,"Architektų g. 204",6061258,578692,Lazdynų,156,Obelėlė,9,"Nuo 6 iki 7 metų",6.00,7.00,1,Lietuvių,,20,7,Svajokliai,,16,4,Lie
+373,"Verkių mokykla-daugiafunkcis centras","Verkių g. 62",6066027,583291,Žirmūnų,373,"Verkių mokykla-daugiafunkcis centras",45,"Nuo 8m.",8.00,99.99,1,Lietuvių,,89,16,"SĮUP I m.m., SĮUP II m.m. klasė",Taip,90,-1,Lie
 681,"Šilo mokykla","Lakštingalų g. 8",6066865,585309,"Visos seniūnijos",681,"Šilo mokykla",45,"Nuo 8m.",8.00,99.99,1,Lietuvių,,143,3,"1 spec.",Taip,144,-1,Lie
 114,Sveikuolis,"Dūkštų g. 14",6064720,580125,Šeškinės,114,Sveikuolis,45,"Nuo 8m.",8.00,99.99,4,Lenkų,,0,24,"VASARAI PERKELIAMI VAIKAI",,0,0,Len
-373,"Verkių mokykla-daugiafunkcis centras","Verkių g. 62",6066027,583291,Žirmūnų,373,"Verkių mokykla-daugiafunkcis centras",45,"Nuo 8m.",8.00,99.99,1,Lietuvių,,89,16,"SĮUP I m.m., SĮUP II m.m. klasė",Taip,89,0,Lie
 373,"Verkių mokykla-daugiafunkcis centras","Verkių g. 62",6066027,583291,Žirmūnų,373,"Verkių mokykla-daugiafunkcis centras",45,"Nuo 8m.",8.00,99.99,2,Rusų,,18,44,"7, 8, 9, 10 L (rusų k.)",Taip,18,0,Rus
-373,"Verkių mokykla-daugiafunkcis centras","Verkių g. 62",6066027,583291,Žirmūnų,373,"Verkių mokykla-daugiafunkcis centras",45,"Nuo 8m.",8.00,99.99,4,Lenkų,,6,41,"4, 6, 8 SL (lenkų k.)",Taip,6,0,Len
+373,"Verkių mokykla-daugiafunkcis centras","Verkių g. 62",6066027,583291,Žirmūnų,373,"Verkių mokykla-daugiafunkcis centras",45,"Nuo 8m.",8.00,99.99,4,Lenkų,,8,41,"4, 6, 8 SL (lenkų k.)",Taip,8,0,Len
 681,"Šilo mokykla","Lakštingalų g. 8",6066865,585309,"Visos seniūnijos",681,"Šilo mokykla",45,"Nuo 8m.",8.00,99.99,2,Rusų,,15,48,"5-7 spec. ",Taip,15,0,Rus
 10217,"Šaltinio pagrindinė mokykla","Nemenčinės pl. 16",6066500,585337,-,10217,"Šaltinio pagrindinė mokykla",45,"Nuo 8m.",8.00,99.99,1,Lietuvių,,110,3,6a,,110,0,Lie
