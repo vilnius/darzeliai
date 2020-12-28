@@ -260,7 +260,6 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 669,"Gervelė (Stadiono g. 5)","Stadiono g. 5",6059968,583357,Rasų,669,"Gervelė (Stadiono g. 5)",3,"Nuo 1,5 iki 3 metų",1.06,3.00,2,Rusų,,15,1,BORUŽĖLĖS,,11,4,Rus
 76,"Naminukas (Smėlio g. 13)","Smėlio g. 13",6064063,584574,Antakalnio,76,"Naminukas (Smėlio g. 13)",18,"Nuo 2 iki 4 metų",2.00,4.00,1,Lietuvių,5,19,1,Drugeliai,,19,0,Lie
 90,Pelenė,"Justiniškių g. 84",6065928,578486,Justiniškių,90,Pelenė,18,"Nuo 2 iki 4 metų",2.00,4.00,1,Lietuvių,7,19,14,Žirniukai,,20,-1,Lie
-100,Riešutėlis,"Erfurto g. 21",6060722,577783,Lazdynų,100,Riešutėlis,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,4,29,1,Viščiukų,,29,0,Lie
 670,"Kūlverstukas (Mindaugo g. 7)","Mindaugo g. 7",6061130,582078,Naujamiesčio,670,"Kūlverstukas (Mindaugo g. 7)",18,"Nuo 2 iki 4 metų",2.00,4.00,2,Rusų,,20,2,ZAIČIATA,,21,-1,Rus
 31,Aitvaras,"Pašilaičių g. 10",6066674,579323,Pašilaičių,31,Aitvaras,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,34,19,23,"AITVARIUKAI (ALERG.)",Taip,19,0,Lie
 31,Aitvaras,"Pašilaičių g. 10",6066674,579323,Pašilaičių,31,Aitvaras,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,34,18,33,PABIRUČIAI,,18,0,Lie
@@ -328,6 +327,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,4,15,31,Boružėlės,,15,0,Lie
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,19,"Nuo 2 iki 5 metų",2.00,5.00,2,Rusų,1,16,3,Nykštukai,,16,0,Rus
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,20,"Nuo 2 iki 6 metų",2.00,6.00,4,Lenkų,3,16,11,Bitutės,,16,0,Len
+100,Riešutėlis,"Erfurto g. 21",6060722,577783,Lazdynų,100,Riešutėlis,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,4,29,1,Viščiukų,,29,0,Lie
 101,Rytas,"Architektų g. 162",6061623,578425,Lazdynų,101,Rytas,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,8,32,5,Boružėlių,,32,0,Lie
 101,Rytas,"Architektų g. 162",6061623,578425,Lazdynų,101,Rytas,18,"Nuo 2 iki 4 metų",2.00,4.00,1,Lietuvių,8,19,13,Žirniukų,,19,0,Lie
 102,Ramunėlė,"Žirmūnų g. 10",6063409,583687,Žirmūnų,102,Ramunėlė,18,"Nuo 2 iki 4 metų",2.00,4.00,4,Lenkų,1,16,10,NEUŽMIRŠTUOLĖS,,16,0,Len
@@ -421,11 +421,11 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 65,"Kūlverstukas (Suvalkų g. 6)","Suvalkų g. 6",6061495,581644,Naujamiesčio,65,"Kūlverstukas (Suvalkų g. 6)",18,"Nuo 2 iki 4 metų",2.00,4.00,2,Rusų,,20,5,Gelytės,,19,1,Rus
 108,Saulėtekis,"Genių g. 12",6062344,591681,"Naujosios Vilnios",108,Saulėtekis,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,14,17,11,PASAKAITĖ,,16,1,Lie
 112,Spragtukas,"Žirmūnų g. 108",6066278,583825,Žirmūnų,112,Spragtukas,18,"Nuo 2 iki 4 metų",2.00,4.00,2,Rusų,,16,1,NYKŠTUKAI,,15,1,Rus
-129,Zylutė,"Justiniškių g. 45",6063900,578692,Viršuliškių,129,Zylutė,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,,16,1,Katerok,,14,2,Lie
 129,Zylutė,"Justiniškių g. 45",6063900,578692,Viršuliškių,129,Zylutė,18,"Nuo 2 iki 4 metų",2.00,4.00,2,Rusų,,20,15,Raduga,,19,1,Rus
 134,Žiedas,"Žemynos g. 41",6066420,579182,Pašilaičių,134,Žiedas,18,"Nuo 2 iki 4 metų",2.00,4.00,4,Lenkų,,20,2,Varpeliai,,19,1,Len
 162,Šaltinėlis,"Šaltkalvių g. 13",6059207,581916,Naujininkų,162,Šaltinėlis,12,"Nuo 2 iki 3 metų",2.00,3.00,4,Lenkų,,17,9,Nykštukai,,16,1,Len
 92,"Prie pasakų parko","Loretos Asanavičiūtės g. 7",6061370,577417,"Visos seniūnijos",92,"Prie pasakų parko",18,"Nuo 2 iki 4 metų",2.00,4.00,2,Rusų,,20,2,PAUKŠČIUKŲ,,18,2,Rus
+129,Zylutė,"Justiniškių g. 45",6063900,578692,Viršuliškių,129,Zylutė,12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,,16,1,Katerok,,14,2,Lie
 129,Zylutė,"Justiniškių g. 45",6063900,578692,Viršuliškių,129,Zylutė,18,"Nuo 2 iki 4 metų",2.00,4.00,4,Lenkų,,17,17,"Miki Maus",,15,2,Len
 280,"Vilnios pagrindinė mokykla","Palydovo g. 29A",6063647,591077,"Naujosios Vilnios",280,"Vilnios pagrindinė mokykla",12,"Nuo 2 iki 3 metų",2.00,3.00,1,Lietuvių,,11,6,DRUGELIAI,,9,2,Lie
 82,Pakalnutė,"Architektų g. 44",6060245,578504,Lazdynų,82,Pakalnutė,18,"Nuo 2 iki 4 metų",2.00,4.00,4,Lenkų,,15,9,Meškiukų,,12,3,Len
