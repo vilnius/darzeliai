@@ -161,7 +161,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 165,"Pilaitukas (I. Kanto al. 7A)","I. Kanto al. 7A",6063638,576320,Pilaitės,165,"Pilaitukas (I. Kanto al. 7A)",28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,1,0,40,SPEC.VAIKAI,Taip,0,0,Lie
 165,"Pilaitukas (I. Kanto al. 7A)","I. Kanto al. 7A",6063638,576320,Pilaitės,165,"Pilaitukas (I. Kanto al. 7A)",28,"Nuo 1 iki 7 metų",1.00,7.00,2,Rusų,1,0,41,SPEC.VAIKAI,Taip,0,0,Rus
 165,"Pilaitukas (I. Kanto al. 7A)","I. Kanto al. 7A",6063638,576320,Pilaitės,165,"Pilaitukas (I. Kanto al. 7A)",28,"Nuo 1 iki 7 metų",1.00,7.00,4,Lenkų,1,0,42,SPEC.VAIKAI,Taip,0,0,Len
-166,Vilija,"Taikos g. 15",6065426,579249,Justiniškių,166,Vilija,28,"Nuo 1 iki 7 metų",1.00,7.00,4,Lenkų,1,0,53,SPEC.VAIKAI,Taip,0,0,Len
+166,Vilija,"Taikos g. 15",6065426,579249,Justiniškių,166,Vilija,28,"Nuo 1 iki 7 metų",1.00,7.00,4,Lenkų,,1,53,SPEC.VAIKAI,Taip,1,0,Len
 169,Švelnukas,"Žalgirio g. 115",6063870,582480,Šnipiškių,169,Švelnukas,28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,20,SPEC.VAIKAI,Taip,0,0,Lie
 170,Boružėlė,"Latvių g. 40",6062729,580386,Žvėryno,170,Boružėlė,28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,1,0,30,SPEC.VAIKAI,Taip,0,0,Lie
 171,Žaliakalnio,"Pergalės g. 22",6062066,591084,"Naujosios Vilnios",171,Žaliakalnio,28,"Nuo 1 iki 7 metų",1.00,7.00,4,Lenkų,,0,23,SPEC.VAIKAI,Taip,0,0,Len
@@ -1252,8 +1252,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 342,"Pelėdos pradinė mokykla","Taikos g. 97",6065682,578130,Justiniškių,342,"Pelėdos pradinė mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,75,0,19,SPEC.VAIKAI,Taip,0,0,Lie
 339,"Vladislavo Sirokomlės gimnazija","Linkmenų g. 8",6063489,581831,Šnipiškių,339,"Vladislavo Sirokomlės gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,67,105,1,Nykštukai,,55,50,Len
 339,"Vladislavo Sirokomlės gimnazija","Linkmenų g. 8",6063489,581831,Šnipiškių,339,"Vladislavo Sirokomlės gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,67,0,7,SPEC.VAIKAI,Taip,0,0,Len
-371,"Jono Pauliaus II progimnazija","Rygos g. 10",6065110,578729,Viršuliškių,371,"Jono Pauliaus II progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,93,120,6,Žiniukai,,63,57,Len
-371,"Jono Pauliaus II progimnazija","Rygos g. 10",6065110,578729,Viršuliškių,371,"Jono Pauliaus II progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,93,0,14,SPEC.VAIKAI,Taip,0,0,Len
+371,"Jono Pauliaus II progimnazija","Rygos g. 10",6065110,578729,Viršuliškių,371,"Jono Pauliaus II progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,92,120,6,Žiniukai,,63,57,Len
+371,"Jono Pauliaus II progimnazija","Rygos g. 10",6065110,578729,Viršuliškių,371,"Jono Pauliaus II progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,92,0,14,SPEC.VAIKAI,Taip,0,0,Len
 383,"Saulėtekio mokykla-daugiafunkcinis centras","Kaminkelio g. 10",6058856,582305,Naujininkų,383,"Saulėtekio mokykla-daugiafunkcinis centras",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,33,98,2,"PRIEŠMOKYKLINĖ 2",,38,60,Rus
 383,"Saulėtekio mokykla-daugiafunkcinis centras","Kaminkelio g. 10",6058856,582305,Naujininkų,383,"Saulėtekio mokykla-daugiafunkcinis centras",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,33,0,8,SPEC.VAIKAI,Taip,0,0,Rus
 313,"Taikos progimnazija","Taikos g. 157",6064995,578173,Justiniškių,313,"Taikos progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,95,135,3,ŽINIUKŲ,,74,61,Lie
@@ -1311,7 +1311,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 388,Žolynas,"Žolyno g. 45A",6064325,586025,Antakalnio,388,Žolynas,9,"Nuo 6 iki 7 metų",6.00,7.00,1,Lietuvių,6,21,25,Čiobreliai,,21,0,Lie
 146,Svaja,"Architektų g. 210",6061055,578652,Lazdynų,146,Svaja,9,"Nuo 6 iki 7 metų",6.00,7.00,2,Rusų,22,4,40,"AUKSINĖ ŽUVELĖ 2021",,0,4,Rus
 161,Lokiukas,"Igno Šimulionio g. 8",6062788,578971,Karoliniškių,161,Lokiukas,9,"Nuo 6 iki 7 metų",6.00,7.00,2,Rusų,20,36,13,KODĖLČIUKAI,,25,11,Rus
-166,Vilija,"Taikos g. 15",6065426,579249,Justiniškių,166,Vilija,9,"Nuo 6 iki 7 metų",6.00,7.00,4,Lenkų,21,37,11,SAULUTĖS,,23,14,Len
+166,Vilija,"Taikos g. 15",6065426,579249,Justiniškių,166,Vilija,9,"Nuo 6 iki 7 metų",6.00,7.00,4,Lenkų,21,35,11,SAULUTĖS,,23,12,Len
 31,Aitvaras,"Pašilaičių g. 10",6066674,579323,Pašilaičių,31,Aitvaras,45,"Nuo 8m.",8.00,99.99,1,Lietuvių,,0,36,testas,,0,0,Lie
 681,"Šilo mokykla","Lakštingalų g. 8",6066865,585309,"Visos seniūnijos",681,"Šilo mokykla",45,"Nuo 8m.",8.00,99.99,1,Lietuvių,,144,3,"1 spec.",Taip,144,0,Lie
 681,"Šilo mokykla","Lakštingalų g. 8",6066865,585309,"Visos seniūnijos",681,"Šilo mokykla",45,"Nuo 8m.",8.00,99.99,2,Rusų,,15,48,"5-7 spec. ",Taip,15,0,Rus
