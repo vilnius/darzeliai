@@ -1,5 +1,7 @@
 SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AGE_FROM,AGE_TO,LAN_ID,LAN_LABEL,WAITS,CAPACITY,GID,GLABEL,SUITABLE_FOR_DISABLED,CHILD_COUNT,FREE_SPACE,LANG
 669,"Gervelė (Stadiono g. 5)","Stadiono g. 5",6059968,583357,Rasų,669,"Gervelė (Stadiono g. 5)",28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,12,SPEC.VAIKAI,Taip,2,-2,Lie
+93,"Pumpurėlis (Kalvarijų g. 186)","Kalvarijų g. 186",6064711,582594,Šnipiškių,93,"Pumpurėlis (Kalvarijų g. 186)",28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,42,"LAPIUKAI (SPEC.POREIK. VAIKAS)",Taip,0,0,Lie
+93,"Pumpurėlis (Kalvarijų g. 186)","Kalvarijų g. 186",6064711,582594,Šnipiškių,93,"Pumpurėlis (Kalvarijų g. 186)",28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,53," Prioritetui:broliai/seserys lankantys padalinius",,1,-1,Lie
 720,"Krivūlė (Vokiečių g. 1)","Vokiečių g. 1",6060985,582957,Senamiesčio,720,"Krivūlė (Vokiečių g. 1)",28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,1,0,4,SPEC.VAIKAI,Taip,1,-1,Lie
 31,Aitvaras,"Pašilaičių g. 10",6066674,579323,Pašilaičių,31,Aitvaras,28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,45,SPEC.VAIKAI,Taip,0,0,Lie
 32,Atžalėlės,"Antakalnio g. 74",6064544,584612,Antakalnio,32,Atžalėlės,28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,20,"SPEC VAIKAI",Taip,0,0,Lie
@@ -67,7 +69,6 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 91,Pipiras,"Krokuvos g. 6A",6062986,582842,Šnipiškių,91,Pipiras,28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,37,SPEC.VAIKAI,Taip,0,0,Lie
 92,"Prie pasakų parko","Loretos Asanavičiūtės g. 7",6061370,577417,"Visos seniūnijos",92,"Prie pasakų parko",28,"Nuo 1 iki 7 metų",1.00,7.00,2,Rusų,,0,60," SPEC.VAIKAI ",Taip,0,0,Rus
 92,"Prie pasakų parko","Loretos Asanavičiūtės g. 7",6061370,577417,"Visos seniūnijos",92,"Prie pasakų parko",28,"Nuo 1 iki 7 metų",1.00,7.00,4,Lenkų,1,0,61,"SPEC.VAIKAI  ",Taip,0,0,Len
-93,"Pumpurėlis (Kalvarijų g. 186)","Kalvarijų g. 186",6064711,582594,Šnipiškių,93,"Pumpurėlis (Kalvarijų g. 186)",28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,42,"LAPIUKAI (SPEC.POREIK. VAIKAS)",Taip,0,0,Lie
 94,Puriena,"Tujų g. 1",6063771,579356,Viršuliškių,94,Puriena,28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,39,SPEC.VAIKAI,Taip,0,0,Lie
 95,Pušaitė,"Bistryčios g. 3",6064071,584954,Antakalnio,95,Pušaitė,28,"Nuo 1 iki 7 metų",1.00,7.00,1,Lietuvių,,0,33,SPEC.VAIKAI,Taip,0,0,Lie
 97,Raktelis,"A.P. Kavoliuko g. 12",0,0,Karoliniškių,97,Raktelis,28,"Nuo 1 iki 7 metų",1.00,7.00,2,Rusų,,0,34,SPEC.VAIKAI,Taip,0,0,Rus
@@ -1223,6 +1224,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 52,"Gervelė (Dzūkų g. 32)","Dzūkų g. 32",6059432,582984,Naujininkų,52,"Gervelė (Dzūkų g. 32)",8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,22,2,LAŠIUKAI,,18,4,Lie
 67,Lašelis,"Dzūkų g. 29",6059341,582544,Naujininkų,67,Lašelis,8,"Nuo 5 iki 6 metų",5.00,6.00,2,Rusų,,22,5,SAULUTĖ,,18,4,Rus
 129,Zylutė,"Justiniškių g. 45",6063900,578692,Viršuliškių,129,Zylutė,8,"Nuo 5 iki 6 metų",5.00,6.00,2,Rusų,,25,26,"DRUŽNYJE REBIATA",,21,4,Rus
+331,"Levo Karsavino mokykla","Justiniškių g. 43",6063778,578576,Viršuliškių,331,"Levo Karsavino mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,78,9,PELEDŽIUKAI,,74,4,Rus
+331,"Levo Karsavino mokykla","Justiniškių g. 43",6063778,578576,Viršuliškių,331,"Levo Karsavino mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,1,11,SPEC.VAIKAI,Taip,1,0,Rus
 90,Pelenė,"Justiniškių g. 84",6065928,578486,Justiniškių,90,Pelenė,11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,26,17,Nykštukas,,21,5,Rus
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,45,2,Kiškučiai,,40,5,Lie
 112,Spragtukas,"Žirmūnų g. 108",6066278,583825,Žirmūnų,112,Spragtukas,11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,19,5,GINTARĖLIAI,,14,5,Rus
@@ -1231,8 +1234,6 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,46,20,Pipirai,,40,6,Lie
 116,Šypsena,"P. Višinskio g. 23",0,0,Senamiesčio,116,Šypsena,11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,,22,4,Bitutės,,16,6,Len
 130,Želmenėliai,"Šaltkalvių g. 30",6058911,581955,Naujininkų,130,Želmenėliai,8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,69,7,Kačiukų,,63,6,Lie
-331,"Levo Karsavino mokykla","Justiniškių g. 43",6063778,578576,Viršuliškių,331,"Levo Karsavino mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,1,80,9,PELEDŽIUKAI,,74,6,Rus
-331,"Levo Karsavino mokykla","Justiniškių g. 43",6063778,578576,Viršuliškių,331,"Levo Karsavino mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,1,0,11,SPEC.VAIKAI,Taip,0,0,Rus
 333,"Pranciškaus Skorinos gimnazija","Sietyno g. 21",6062539,577833,Karoliniškių,333,"Pranciškaus Skorinos gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,33,3,SAULYTĖ,,27,6,Rus
 370,"Juzefo Ignacijaus Kraševskio gimnazija","Rugiagėlių g. 15",6063483,591579,"Naujosios Vilnios",370,"Juzefo Ignacijaus Kraševskio gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,,33,1,Priešmokyklinė,,27,6,Len
 375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,,18,3,"PRIEŠMOKYKLINIO UGDYMO (LENKŲ KALBA)",,12,6,Len
