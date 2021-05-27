@@ -245,7 +245,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 139,Žuvėdra,"Parko g. 8A",6062362,591153,"Naujosios Vilnios",139,Žuvėdra,3,"Nuo 1,5 iki 3 metų",1.06,3.00,2,Rusų,18,21,12,JANTARIKI,,21,0,Rus
 139,Žuvėdra,"Parko g. 8A",6062362,591153,"Naujosios Vilnios",139,Žuvėdra,3,"Nuo 1,5 iki 3 metų",1.06,3.00,4,Lenkų,11,21,13,"AUKSINĖ ŽUVELĖ",,21,0,Len
 145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,3,"Nuo 1,5 iki 3 metų",1.06,3.00,2,Rusų,9,26,9,Bitutės,,26,0,Rus
-145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,3,"Nuo 1,5 iki 3 metų",1.06,3.00,4,Lenkų,3,27,6,Meškiukai,,27,0,Len
+145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,3,"Nuo 1,5 iki 3 metų",1.06,3.00,4,Lenkų,4,28,6,Meškiukai,,28,0,Len
 147,Šilelis,"Sietyno g. 5",6061683,577294,Karoliniškių,147,Šilelis,3,"Nuo 1,5 iki 3 metų",1.06,3.00,1,Lietuvių,124,18,22,BITUTĖS,,18,0,Lie
 147,Šilelis,"Sietyno g. 5",6061683,577294,Karoliniškių,147,Šilelis,3,"Nuo 1,5 iki 3 metų",1.06,3.00,2,Rusų,8,33,6,EŽIUKAI,,33,0,Rus
 150,Vilkpėdės,"Gerosios Vilties g. 15",6059880,580271,Vilkpėdės,150,Vilkpėdės,3,"Nuo 1,5 iki 3 metų",1.06,3.00,1,Lietuvių,14,15,32,TYRINĖTOJŲ,,15,0,Lie
@@ -1183,6 +1183,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 338,"Spindulio progimnazija","Rolando Jankausko g. 17",6062339,577819,Karoliniškių,338,"Spindulio progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,5,0,6,SPEC.VAIKAI,Taip,0,0,Lie
 339,"Vladislavo Sirokomlės gimnazija","Linkmenų g. 8",6063489,581831,Šnipiškių,339,"Vladislavo Sirokomlės gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,11,105,1,Nykštukai,,105,0,Len
 339,"Vladislavo Sirokomlės gimnazija","Linkmenų g. 8",6063489,581831,Šnipiškių,339,"Vladislavo Sirokomlės gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,11,0,7,SPEC.VAIKAI,Taip,0,0,Len
+342,"Pelėdos pradinė mokykla","Taikos g. 97",6065682,578130,Justiniškių,342,"Pelėdos pradinė mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,90,1,Bitutės,,90,0,Lie
+342,"Pelėdos pradinė mokykla","Taikos g. 97",6065682,578130,Justiniškių,342,"Pelėdos pradinė mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,0,19,SPEC.VAIKAI,Taip,0,0,Lie
 369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija","Minties g. 3",6064005,583687,Antakalnio,369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,4,24,5,0B,,24,0,Rus
 369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija","Minties g. 3",6064005,583687,Antakalnio,369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,4,0,10,SPEC.VAIKAI,Taip,0,0,Rus
 369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija","Minties g. 3",6064005,583687,Antakalnio,369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,4,Lenkų,2,24,6,0A,,24,0,Len
@@ -1216,8 +1218,6 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 141,Žirniukas,"Verkių g. 17",6064149,582987,Žirmūnų,141,Žirniukas,8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,42,10,Nykštukų,,41,1,Lie
 147,Šilelis,"Sietyno g. 5",6061683,577294,Karoliniškių,147,Šilelis,8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,26,7,NYKŠTUKAI,,25,1,Lie
 311,"Naujininkų progimnazija","Šaltkalvių g. 32",6058943,581862,Naujininkų,311,"Naujininkų progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,31,3,SMALSUČIAI,,30,1,Lie
-342,"Pelėdos pradinė mokykla","Taikos g. 97",6065682,578130,Justiniškių,342,"Pelėdos pradinė mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,1,90,1,Bitutės,,89,1,Lie
-342,"Pelėdos pradinė mokykla","Taikos g. 97",6065682,578130,Justiniškių,342,"Pelėdos pradinė mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,1,0,19,SPEC.VAIKAI,Taip,0,0,Lie
 380,"Ateities mokykla","S. Stanevičiaus g. 98",6066603,580657,Fabijoniškių,380,"Ateities mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,49,1,Priešmokyklinė,,48,1,Rus
 380,"Ateities mokykla","S. Stanevičiaus g. 98",6066603,580657,Fabijoniškių,380,"Ateities mokykla",11,"Nuo 5 iki 7 metų",5.00,7.00,2,Rusų,,0,7,SPEC.VAIKAI,Taip,0,0,Rus
 69,Liepsnelė,"Kapsų g. 7",6059010,582319,Naujininkų,69,Liepsnelė,8,"Nuo 5 iki 6 metų",5.00,6.00,2,Rusų,,24,8,Žvirbliukai,,22,2,Rus
