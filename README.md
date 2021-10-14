@@ -1,25 +1,41 @@
 ![Logo](https://svietimas.vilnius.lt/new/subsystems/darzeliai/layout/images/new_style/home_icon.png)
 # About Dataset
 
+Duomenys iš vaikų darželio https://svietmas.vilnius.lt sistemos.
+
 Data for kindergartens and children going to them
 
 ## About Data collection methodology
 
+Periodinės užduotis atrenka duomenis ir patalpina į šią talpiklą tokiu periodiškumu:
+```
+lankomumo_ziniarasciai -  kas menesį
+-darzeliai_grupes.csv - kas savaite
+-lankanciu_vaiku_ataskaita_pagal_grupes.csv - kas savaite
+-laukianciuju_eileje_ataskaita.csv - kas savaite
+```
 Daily data select from svietimias.vilnius.lt DB and push to github.
 
 ### Description of the data
 
-Here you can descibe how the data is organized in this whole dataset. How the data is stored in all the files. You also have to brief about the naming convention of the files in different directories. 
+Duomenų rinkiniai
 
+Data is stored in all the files
 ```
 Root Dir/
   -data/
     -darzeliai_grupes.csv 
-    -istaigu_sarasas.csv
     -lankanciu_vaiku_ataskaita_pagal_grupes.csv
     -laukianciuju_eileje_ataskaita.csv
-  -Sub Dir/
-    -lankomumo_ziniarasciai/
+  -Other_data/ # old archived data
+  darzeliai_grupes2.csv 
+    -group_age.csv
+    -group_age_type.csv
+    -grupes.csv
+    -lankanciu_vaiku_ataskaita_pagal_grupes_2014-09-23.csv
+    -lankanciu_vaiku_ataskaita_pagal_grupes_2014-10-27.csv
+    -visi_prasymai.csv
+  -lankomumo_ziniarasciai/
       -Lankomumo_ziniarasciai_pamenesiui
       
   -README.md
@@ -43,9 +59,8 @@ laukianciuju_eileje_ataskaita.csv - children that are waiting for the kindergart
 
 * **ITG** - *Initial work* - [AtvirasVilnius](https://github.com/vilnius)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+# More Data
+You can find more data set at https://open.vilnius.lt
 
-
-## Acknowledgments
-
+Please contact us via email atviras@vilnius.lt if you require any further information or specific data and/or dataset.
 
