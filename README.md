@@ -1,7 +1,7 @@
 ![Logo](https://svietimas.vilnius.lt/new/subsystems/darzeliai/layout/images/new_style/home_icon.png)
 # About Dataset
 
-Duomenys iš vaikų darželio https://svietmas.vilnius.lt sistemos.
+Duomenys iš vaikų darželio https://svietimas.vilnius.lt sistemos.
 
 Data for kindergartens and children going to them
 
