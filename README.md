@@ -14,7 +14,7 @@ lankomumo_ziniarasciai -  kas menesį
 -lankanciu_vaiku_ataskaita_pagal_grupes.csv - kas savaite
 -laukianciuju_eileje_ataskaita.csv - kas savaite
 ```
-Daily data select from svietimias.vilnius.lt DB and push to github.
+Daily data select from svietimas.vilnius.lt DB and push to github.
 
 ### Description of the data
 
