@@ -527,12 +527,12 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 89,Pelėda,"Musninkų g. 10",6065012,579870,Šeškinės,89,Pelėda,14,"Nuo 3 iki 6 metų",3.00,6.00,1,Lietuvių,,23,9,NYKŠTUKAI,,20,3,Lie
 119,Vaidilutė,"Rinktinės g. 29",6063132,583062,Žirmūnų,119,Vaidilutė,6,"Nuo 3 iki 4 metų",3.00,4.00,1,Lietuvių,,2,37,"DARŽELIS 2022-2023",,0,2,Lie
 133,Žibutė,"Architektų g. 62",6060142,578099,Lazdynų,133,Žibutė,6,"Nuo 3 iki 4 metų",3.00,4.00,1,Lietuvių,,24,11,KAČIUKAI,,22,2,Lie
-146,Svaja,"Architektų g. 210",6061055,578652,Lazdynų,146,Svaja,6,"Nuo 3 iki 4 metų",3.00,4.00,2,Rusų,,46,7,"STEBUKLINGAS ŽIBINTAS",,43,3,Rus
 159,Žirmūnėliai,"Žirmūnų g. 13",6064693,584178,Žirmūnų,159,Žirmūnėliai,6,"Nuo 3 iki 4 metų",3.00,4.00,1,Lietuvių,,26,7,SAULUTĖS,,24,2,Lie
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,6,"Nuo 3 iki 4 metų",3.00,4.00,4,Lenkų,,4,69,"PL_DARŽELIS 2023",,1,3,Len
 97,Raktelis,"A.P. Kavoliuko g. 12",0,0,Karoliniškių,97,Raktelis,10,"Nuo 3 iki 5 metų",3.00,5.00,4,Lenkų,,4,52,"DARŽELIS 2023 PL",,1,3,Len
 112,Spragtukas,"Žirmūnų g. 108",6066278,583825,Žirmūnų,112,Spragtukas,6,"Nuo 3 iki 4 metų",3.00,4.00,2,Rusų,,29,5,GINTARĖLIAI,,26,3,Rus
 127,Voveraitė,"Jūratės g. 4A",6063156,584800,Antakalnio,127,Voveraitė,6,"Nuo 3 iki 4 metų",3.00,4.00,1,Lietuvių,,60,21,NYKŠTUKŲ,,57,3,Lie
+146,Svaja,"Architektų g. 210",6061055,578652,Lazdynų,146,Svaja,6,"Nuo 3 iki 4 metų",3.00,4.00,2,Rusų,,46,7,"STEBUKLINGAS ŽIBINTAS",,43,3,Rus
 157,Spygliukas,"Architektų g. 16",6060560,578449,Lazdynų,157,Spygliukas,6,"Nuo 3 iki 4 metų",3.00,4.00,1,Lietuvių,,46,17,Giliukų,,43,3,Lie
 667,"Pušynėlis (A. Mickevičiaus g. 21)","A. Mickevičiaus g. 21",6062243,580686,Žvėryno,667,"Pušynėlis (A. Mickevičiaus g. 21)",6,"Nuo 3 iki 4 metų",3.00,4.00,1,Lietuvių,,5,22,Darželis_2023,,2,3,Lie
 670,"Kūlverstukas (Mindaugo g. 7)","Mindaugo g. 7",6061130,582078,Naujamiesčio,670,"Kūlverstukas (Mindaugo g. 7)",10,"Nuo 3 iki 5 metų",3.00,5.00,2,Rusų,,28,1,GNOMIKI,,25,3,Rus
@@ -1059,7 +1059,6 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 122,"Vėjelis (Gabijos g. 21)","Gabijos g. 21",6066861,578763,Pašilaičių,122,"Vėjelis (Gabijos g. 21)",8,"Nuo 5 iki 6 metų",5.00,6.00,4,Lenkų,,1,79,"DARŽELIS 2023",,0,1,Len
 125,Vėrinėlis,"S. Stanevičiaus g. 68",6066290,580731,Fabijoniškių,125,Vėrinėlis,8,"Nuo 5 iki 6 metų",5.00,6.00,2,Rusų,,20,1,GAIDELIAI,,19,1,Rus
 129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,8,"Nuo 5 iki 6 metų",5.00,6.00,2,Rusų,,1,98,DARŽELIS_2023,,0,1,Rus
-133,Žibutė,"Architektų g. 62",6060142,578099,Lazdynų,133,Žibutė,11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,47,4,PELĖDŽIUKAI,,45,2,Lie
 155,Gėlynas,"Gėlių g. 9A",6060442,582724,Senamiesčio,155,Gėlynas,11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,7,29,PRIEŠMOKYKLINĖ_2023,,6,1,Lie
 157,Spygliukas,"Architektų g. 16",6060560,578449,Lazdynų,157,Spygliukas,8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,42,3,Boružėlės,,41,1,Lie
 338,"Spindulio progimnazija","Rolando Jankausko g. 17",6062339,577819,Karoliniškių,338,"Spindulio progimnazija",11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,88,2,PM2,,87,1,Lie
@@ -1074,6 +1073,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,3,94,VIEVERSĖLIAI,,1,2,Lie
 129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,8,"Nuo 5 iki 6 metų",5.00,6.00,4,Lenkų,,2,99,DARŽELIS_2023_1,,0,2,Len
 130,Želmenėliai,"Šaltkalvių g. 30",6058911,581955,Naujininkų,130,Želmenėliai,8,"Nuo 5 iki 6 metų",5.00,6.00,1,Lietuvių,,39,4,Bitučių,,37,2,Lie
+133,Žibutė,"Architektų g. 62",6060142,578099,Lazdynų,133,Žibutė,11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,47,4,PELĖDŽIUKAI,,45,2,Lie
 138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,15,23,Čiobreliai,,15,0,Lie
 138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,2,58,"SPEC. PRIEŠMOKYKLINIS 2023",Taip,0,2,Lie
 143,Berželis,"Taikos g. 187",6064814,578102,Justiniškių,143,Berželis,11,"Nuo 5 iki 7 metų",5.00,7.00,1,Lietuvių,,16,26,LAPIUKAI,,14,2,Lie
