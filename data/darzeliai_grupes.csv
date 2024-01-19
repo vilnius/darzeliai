@@ -156,7 +156,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 82,Pakalnutė,"Architektų g. 44",6060245,578504,Lazdynų,82,Pakalnutė,18,"Nuo 2 iki 4 metų",2,4,5,Lenkų,10,12,1848,Meškiukų,,12,0,Len
 82,Pakalnutė,"Architektų g. 44",6060245,578504,Lazdynų,82,Pakalnutė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,72,36,7061,"LOPŠELIS 2022",,18,18,Lie
 82,Pakalnutė,"Architektų g. 44",6060245,578504,Lazdynų,82,Pakalnutė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,77,42,1851,"Drugelių ",,40,2,Lie
-83,Panerių,"Juodšilių g. 10",6055221,576151,Panerių,83,Panerių,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,28,25,1892,Gėlytės,,25,0,Lie
+83,Panerių,"Juodšilių g. 10",6055221,576151,Panerių,83,Panerių,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,51,25,1892,Gėlytės,,25,0,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,82,32,1914,BORUŽĖLĖS,,32,0,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,84,18,1916,NYKŠTUKAI,,18,0,Lie
 86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,87,52,1973,"EŽIUKŲ (Žirmūnų g. 92)",,52,0,Lie
@@ -287,8 +287,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 40,Čiauškutis,"Sausio 13-osios g. 6",6062138,578557,"Visos seniūnijos",40,Čiauškutis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,3,19,7112,"2021 m. gimimo 2024",Taip,9,10,Lie
 40,Čiauškutis,"Sausio 13-osios g. 6",6062138,578557,"Visos seniūnijos",40,Čiauškutis,10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,4,19,308,KIŠKUČIAI,Taip,19,0,Lie
 41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,6,"Nuo 3 iki 4 metų",3,4,2,Rusų,2,19,337,Bitutės,Taip,19,0,Rus
-41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,4,"Nuo 3 iki 7 metų",3,7,2,Rusų,3,16,340,"VIEVERSĖLIAI (SPEC)",Taip,16,0,Rus
-41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,10,"Nuo 3 iki 5 metų",3,5,2,Rusų,2,16,351,"NAUJA DARŽELIS",Taip,16,0,Rus
+41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,4,"Nuo 3 iki 7 metų",3,7,2,Rusų,4,16,340,"VIEVERSĖLIAI (SPEC)",Taip,16,0,Rus
+41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,10,"Nuo 3 iki 5 metų",3,5,2,Rusų,3,16,351,"NAUJA DARŽELIS",Taip,16,0,Rus
 42,Delfinukas,"Sietyno g. 9",6062088,577517,Karoliniškių,42,Delfinukas,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,15,41,403,Saulytės,,41,0,Lie
 42,Delfinukas,"Sietyno g. 9",6062088,577517,Karoliniškių,42,Delfinukas,14,"Nuo 3 iki 6 metų",3,6,3,Lietuvių,7,19,406,Varpelių,,19,0,Lie
 44,Drevinukas,"K. Donelaičio g. 12",6061130,580761,Naujamiesčio,44,Drevinukas,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,14,39,487,"NAUJOKAI_2020 M._2023",,39,0,Lie
@@ -337,10 +337,10 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 80,Pabiručiai,"Brolių g. 18",6059283,581775,Naujininkų,80,Pabiručiai,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,41,1801,"DARŽELIS 2023 3-4 M",,41,0,Lie
 81,"Pagrandukas (Mindaugo g.)","Mindaugo g. 15A",6060779,582121,Naujamiesčio,81,"Pagrandukas (Mindaugo g.)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,14,60,1821,BITUTĖS,,60,0,Lie
 81,"Pagrandukas (Mindaugo g.)","Mindaugo g. 15A",6060779,582121,Naujamiesčio,81,"Pagrandukas (Mindaugo g.)",14,"Nuo 3 iki 6 metų",3,6,3,Lietuvių,16,14,1808,Bitutės,,14,0,Lie
-83,Panerių,"Juodšilių g. 10",6055221,576151,Panerių,83,Panerių,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,1,0,1900,Darželis_2021,,0,0,Lie
+83,Panerių,"Juodšilių g. 10",6055221,576151,Panerių,83,Panerių,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,,1,1900,Darželis_2021,,1,0,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,3,20,1905,ZUIKUČIAI,,20,0,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,18,1911,AITVARELIAI,,18,0,Lie
-86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,42,42,1950,Montesori,,42,0,Lie
+86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,44,42,1950,Montesori,,42,0,Lie
 86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,18,34,1974,"SAULUČIŲ (Žirmūnų g. 92)",,34,0,Lie
 87,Paslaptis,"Darželio g. 7",6062328,591333,"Naujosios Vilnios",87,Paslaptis,10,"Nuo 3 iki 5 metų",3,5,2,Rusų,,29,2010,FRUTIKI,,22,7,Rus
 87,Paslaptis,"Darželio g. 7",6062328,591333,"Naujosios Vilnios",87,Paslaptis,6,"Nuo 3 iki 4 metų",3,4,2,Rusų,,0,2015,"FRUTIKI 2020",,0,0,Rus
@@ -494,9 +494,9 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 36,Birutės,"Birutės g. 4",6061812,580625,Žvėryno,36,Birutės,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,1,22,190,SKRUZDELIUKŲ,,22,0,Lie
 37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,2,22,255,"DARŽELIS 4-5 M.",,22,0,Lie
 40,Čiauškutis,"Sausio 13-osios g. 6",6062138,578557,"Visos seniūnijos",40,Čiauškutis,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,1,40,7113,"2020 m. gimimo 2024",Taip,28,12,Lie
-41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,13,"Nuo 4 iki 6 metų",4,6,2,Rusų,,45,350,Spinduliukai,Taip,45,0,Rus
+41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,13,"Nuo 4 iki 6 metų",4,6,2,Rusų,1,45,350,Spinduliukai,Taip,45,0,Rus
 41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,3,24,7107,"DARŽELIS 2024",Taip,22,2,Lie
-41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,7,"Nuo 4 iki 5 metų",4,5,2,Rusų,,0,394,"DARŽELIS 2023",Taip,0,0,Rus
+41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,7,"Nuo 4 iki 5 metų",4,5,2,Rusų,1,0,394,"DARŽELIS 2023",Taip,0,0,Rus
 42,Delfinukas,"Sietyno g. 9",6062088,577517,Karoliniškių,42,Delfinukas,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,6,40,412,Kiškučiai,,40,0,Lie
 44,Drevinukas,"K. Donelaičio g. 12",6061130,580761,Naujamiesčio,44,Drevinukas,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,2,18,459,BORUŽĖLĖS,,18,0,Lie
 44,Drevinukas,"K. Donelaičio g. 12",6061130,580761,Naujamiesčio,44,Drevinukas,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,1,20,488,"NAUJOKAI_2019 M._2023",,20,0,Lie
@@ -749,7 +749,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 82,Pakalnutė,"Architektų g. 44",6060245,578504,Lazdynų,82,Pakalnutė,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,1,27,7066,"DARŽELIS 2018",,21,6,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,3,53,1942,"DARŽELIS 2023",,53,0,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,4,37,1908,PELĖDŽIUKAI,,37,0,Lie
-86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,4,40,1956,Bitelių,,39,1,Lie
+86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,3,40,1956,Bitelių,,40,0,Lie
 86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,2,39,1967,DRUGELIAI,,39,0,Lie
 87,Paslaptis,"Darželio g. 7",6062328,591333,"Naujosios Vilnios",87,Paslaptis,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,1,34,2011,KALAMBURIKI,,21,13,Rus
 88,Pasakaitė,"Taikos g. 30",6065569,578964,Justiniškių,88,Pasakaitė,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,4,44,7059,"2024 Nauja darželis",Taip,41,3,Lie
