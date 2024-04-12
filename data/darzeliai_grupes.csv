@@ -5,7 +5,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 116,Šypsena,"P. Višinskio g. 23",0,0,Senamiesčio,116,Šypsena,17,"Nuo 1 iki 2 metų",1,2,5,Lenkų,3,9,3282,BORUŽĖLĖS,,9,0,Len
 123,Vėtrungė,"Gardino g. 8",6059622,583920,Rasų,123,Vėtrungė,17,"Nuo 1 iki 2 metų",1,2,3,Lietuvių,23,24,7008,"LOPŠELIS 2024",,24,0,Lie
 154,Bangelė,"Žemaitės g. 3",6060388,580757,Vilkpėdės,154,Bangelė,17,"Nuo 1 iki 2 metų",1,2,5,Lenkų,2,16,7634,LOPŠELIS_24,,16,0,Len
-154,Bangelė,"Žemaitės g. 3",6060388,580757,Vilkpėdės,154,Bangelė,17,"Nuo 1 iki 2 metų",1,2,2,Rusų,2,15,7635,LOPŠELIS_24,,15,0,Rus
+154,Bangelė,"Žemaitės g. 3",6060388,580757,Vilkpėdės,154,Bangelė,17,"Nuo 1 iki 2 metų",1,2,2,Rusų,3,15,7635,LOPŠELIS_24,,15,0,Rus
 162,Šaltinėlis,"Šaltkalvių g. 13",6059207,581916,Naujininkų,162,Šaltinėlis,17,"Nuo 1 iki 2 metų",1,2,5,Lenkų,1,24,7464,"Grupė 1-2    2024",,19,5,Len
 67,Lašelis,"Dzūkų g. 29",6059341,582544,Naujininkų,67,Lašelis,17,"Nuo 1 iki 2 metų",1,2,3,Lietuvių,3,10,7192,"Nauja 2 2024",,7,3,Lie
 64,Kurpaitė,"Birželio 23-iosios g. 6",6060331,581345,Naujamiesčio,64,Kurpaitė,17,"Nuo 1 iki 2 metų",1,2,2,Rusų,4,10,7624,LOPŠELIS(2024),,2,8,Rus
@@ -18,7 +18,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,1,15,708,BITUTĖS,,15,0,Rus
 52,"Gervelė (Dzūkų g. 32)","Dzūkų g. 32",6059432,582984,Naujininkų,52,"Gervelė (Dzūkų g. 32)",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,14,33,766,VIŠČIUKŲ,,32,1,Lie
 55,Giraitė,"Erfurto g. 42",6060492,577795,Lazdynų,55,Giraitė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,40,77,896,Boružėlės,,73,4,Lie
-58,Jurginėlis,"Justiniškių g. 47",6063867,578565,Viršuliškių,58,Jurginėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,22,24,1039,"LOPŠELIS 2022",,23,1,Lie
+58,Jurginėlis,"Justiniškių g. 47",6063867,578565,Viršuliškių,58,Jurginėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,23,24,1039,"LOPŠELIS 2022",,23,1,Lie
 60,Kaštonas,"Antakalnio g. 108",6065178,584748,Antakalnio,60,Kaštonas,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,3,26,1113,BITUTĖS,,20,6,Len
 62,"Kodėlčiukas (Laisvės pr. 59)","Laisvės pr. 59",6065259,579457,Šeškinės,62,"Kodėlčiukas (Laisvės pr. 59)",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,28,35,7175,LOPŠELIS-1-2024,,33,2,Lie
 64,Kurpaitė,"Birželio 23-iosios g. 6",6060331,581345,Naujamiesčio,64,Kurpaitė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,,11,1267,"LOPŠELIS (2023)",,11,0,Rus
@@ -30,18 +30,18 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 71,"Lokiuko giraitė","Kovo 11-osios g. 54",6059688,571108,Grigiškių,71,"Lokiuko giraitė",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,50,46,1462,KIŠKUČIŲ,,44,2,Lie
 72,Markučiai,"Pakraščio g. 15",6060712,585088,Rasų,72,Markučiai,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,28,15,7493,"Lopšelis (nauja) 2024",,15,0,Lie
 75,Molinukas,"Keramikų g. 34",6066566,588317,Antakalnio,75,Molinukas,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,26,24,1634,"LOPŠELIS 2023",,23,1,Lie
-79,Ozas,"Gelvonų g. 24",6064973,580945,Šeškinės,79,Ozas,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,19,90,1719,Ančiukų,,81,9,Lie
+79,Ozas,"Gelvonų g. 24",6064973,580945,Šeškinės,79,Ozas,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,20,90,1719,Ančiukų,,81,9,Lie
 80,Pabiručiai,"Brolių g. 18",6059283,581775,Naujininkų,80,Pabiručiai,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,8,58,1760,"Drugelių ",,58,0,Lie
 82,Pakalnutė,"Architektų g. 44",6060245,578504,Lazdynų,82,Pakalnutė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,28,36,7060,"LOPŠELIS 2022-2023",,34,2,Lie
 83,Panerių,"Juodšilių g. 10",6055221,576151,Panerių,83,Panerių,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,6,39,7219,"2024 BORUŽĖ",,36,3,Lie
-84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,11,60,7685,"BORUŽĖLĖS 2024",,49,11,Lie
-87,Paslaptis,"Darželio g. 7",6062328,591333,"Naujosios Vilnios",87,Paslaptis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,6,0,7717,"MONTIKI 2024",,0,0,Lie
+84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,12,60,7685,"BORUŽĖLĖS 2024",,49,11,Lie
+87,Paslaptis,"Darželio g. 7",6062328,591333,"Naujosios Vilnios",87,Paslaptis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,5,0,7717,"MONTIKI 2024",,0,0,Lie
 87,Paslaptis,"Darželio g. 7",6062328,591333,"Naujosios Vilnios",87,Paslaptis,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,7,35,2009,MONTIKI,,34,1,Rus
 88,Pasakaitė,"Taikos g. 30",6065569,578964,Justiniškių,88,Pasakaitė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,48,64,7057,"2024 Nauja lopšelis",,63,1,Lie
 89,Pelėda,"Musninkų g. 10",6065012,579870,Šeškinės,89,Pelėda,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,10,87,2079,BITUTĖS,,78,9,Lie
 90,Pelenė,"Justiniškių g. 84",6065928,578486,Justiniškių,90,Pelenė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,3,37,2123,Braškytė,,31,6,Rus
 90,Pelenė,"Justiniškių g. 84",6065928,578486,Justiniškių,90,Pelenė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,46,15,2124,Boružėlės,,15,0,Lie
-91,Pipiras,"Krokuvos g. 6A",6062986,582842,Šnipiškių,91,Pipiras,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,65,48,2177,BITUTĖS,,48,0,Lie
+91,Pipiras,"Krokuvos g. 6A",6062986,582842,Šnipiškių,91,Pipiras,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,66,48,2177,BITUTĖS,,48,0,Lie
 92,"Prie pasakų parko","Loretos Asanavičiūtės g. 7",6061370,577417,Karoliniškių,92,"Prie pasakų parko",3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,1,46,2277,KAČIUKAI,,41,5,Rus
 92,"Prie pasakų parko","Loretos Asanavičiūtės g. 7",6061370,577417,Karoliniškių,92,"Prie pasakų parko",3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,4,25,7714,"LOPŠELIS LENKŲ 2024",,17,8,Len
 96,"Pušynėlis (Miglos g. 53)","Miglos g. 53",6063459,580031,Žvėryno,96,"Pušynėlis (Miglos g. 53)",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,34,0,2437,LOPŠELIS_2023,,0,0,Lie
@@ -54,32 +54,32 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 102,Ramunėlė,"Žirmūnų g. 10",6063409,583687,Žirmūnų,102,Ramunėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,10,13,2682,NYKŠTUKAS,,13,0,Rus
 102,Ramunėlė,"Žirmūnų g. 10",6063409,583687,Žirmūnų,102,Ramunėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,21,31,2683,UOGELĖ,,27,4,Lie
 103,Rūta,"Žirmūnų g. 50",6063864,583954,Žirmūnų,103,Rūta,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,21,36,2733,KIŠKUČIŲ,,36,0,Lie
-105,Sakalėlis,"S. Stanevičiaus g. 86",6066416,580734,Fabijoniškių,105,Sakalėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,37,30,7360,"KIŠKUČIŲ 2024",,29,1,Lie
+105,Sakalėlis,"S. Stanevičiaus g. 86",6066416,580734,Fabijoniškių,105,Sakalėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,38,30,7360,"KIŠKUČIŲ 2024",,29,1,Lie
 109,Skroblinukas,"Skroblų g. 13",6060044,580835,Vilkpėdės,109,Skroblinukas,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,14,89,2967,BORUŽĖLIŲ,,90,-1,Lie
 110,Smalsučiai,"Minties g. 40",6063681,583482,Žirmūnų,110,Smalsučiai,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,33,75,7566,"2024 LOPŠELIS (1,5-3)",,67,8,Lie
 112,Spragtukas,"Žirmūnų g. 108",6066278,583825,Žirmūnų,112,Spragtukas,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,2,35,3063,VIŠČIUKAI,,25,10,Rus
 112,Spragtukas,"Žirmūnų g. 108",6066278,583825,Žirmūnų,112,Spragtukas,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,11,48,3064,MEŠKIUKAI,,37,11,Lie
 114,Sveikuolis,"Dūkštų g. 14",6064720,580125,Šeškinės,114,Sveikuolis,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,2,59,7181,"1. LOPŠELIS 2024",,40,19,Rus
 115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,156,16,3233,SKUDURINUKAI,,16,0,Lie
-115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,7,16,3234,PAGRANDUKAI,,16,0,Rus
+115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,6,16,3234,PAGRANDUKAI,,16,0,Rus
 116,Šypsena,"P. Višinskio g. 23",0,0,Senamiesčio,116,Šypsena,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,2,20,3309,"LOPŠELIS 2023",,18,2,Len
 117,Šnekutis,"Vytenio g. 41",6060541,581507,Naujamiesčio,117,Šnekutis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,51,28,7689,"LOPŠELIS 2024",,27,1,Lie
 119,Vaidilutė,"Rinktinės g. 29",6063132,583062,Žirmūnų,119,Vaidilutė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,33,35,3384,"Riešutėlis ",,35,0,Lie
 121,Varpelis,"Ukmergės g. 204",6064729,580302,Šeškinės,121,Varpelis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,12,34,3487,"LOPŠELIS 2023",,31,3,Lie
-125,Vėrinėlis,"S. Stanevičiaus g. 68",6066290,580731,Fabijoniškių,125,Vėrinėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,3,32,7185,"1. Kodėlčiukai 2024",,31,1,Rus
-125,Vėrinėlis,"S. Stanevičiaus g. 68",6066290,580731,Fabijoniškių,125,Vėrinėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,37,15,7189,"5. Nykštukai 2024",,13,2,Lie
+125,Vėrinėlis,"S. Stanevičiaus g. 68",6066290,580731,Fabijoniškių,125,Vėrinėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,4,32,7185,"1. Kodėlčiukai 2024",,31,1,Rus
+125,Vėrinėlis,"S. Stanevičiaus g. 68",6066290,580731,Fabijoniškių,125,Vėrinėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,39,15,7189,"5. Nykštukai 2024",,13,2,Lie
 126,Viltenė,"Gerosios Vilties g. 7A",6059971,580170,Vilkpėdės,126,Viltenė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,10,58,3723,Bitučių,,52,6,Lie
 127,Voveraitė,"Jūratės g. 4A",6063156,584800,Antakalnio,127,Voveraitė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,19,59,3785,EŽIUKŲ,,53,6,Lie
-129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,31,64,7395,"DRUGELIAI 2024",,64,0,Lie
+129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,32,64,7395,"DRUGELIAI 2024",,64,0,Lie
 129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,5,16,3890,Pagrandukas,,16,0,Rus
 129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,1,23,3893,Peliukai,,15,8,Len
 130,Želmenėliai,"Šaltkalvių g. 30",6058911,581955,Naujininkų,130,Želmenėliai,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,10,84,3916,Ančiukų,,80,4,Lie
-132,Žemuogėlė,"Architektų g. 108",6060702,577330,Lazdynų,132,Žemuogėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,39,50,7444,"LIETUVIŲ LOPŠELIS2024",,47,3,Lie
-132,Žemuogėlė,"Architektų g. 108",6060702,577330,Lazdynų,132,Žemuogėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,8,17,3992,KIŠKUČIAI,,17,0,Rus
+132,Žemuogėlė,"Architektų g. 108",6060702,577330,Lazdynų,132,Žemuogėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,40,50,7444,"LIETUVIŲ LOPŠELIS2024",,47,3,Lie
+132,Žemuogėlė,"Architektų g. 108",6060702,577330,Lazdynų,132,Žemuogėlė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,7,17,3992,KIŠKUČIAI,,17,0,Rus
 133,Žibutė,"Architektų g. 62",6060142,578099,Lazdynų,133,Žibutė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,19,0,4040,"LOPŠELIS 2022",,0,0,Lie
 134,Žiedas,"Žemynos g. 41",6066420,579182,Pašilaičių,134,Žiedas,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,5,16,4048,Varpeliai,,16,0,Len
 134,Žiedas,"Žemynos g. 41",6066420,579182,Pašilaičių,134,Žiedas,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,6,18,4064,ŽIBUTĖS,,18,0,Rus
-135,Žilvitis,"Viršuliškių g. 9",6064823,579066,Viršuliškių,135,Žilvitis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,19,33,7673,"2023 NAUJA 2024",,31,2,Lie
+135,Žilvitis,"Viršuliškių g. 9",6064823,579066,Viršuliškių,135,Žilvitis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,20,33,7673,"2023 NAUJA 2024",,31,2,Lie
 136,Žilvinėlio,"Taikos g. 130",6065108,578345,Justiniškių,136,Žilvinėlio,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,29,66,4181,LOPŠELIS_2023,,64,2,Lie
 138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,9,36,4271,"LOPŠELIS 2023",,28,8,Lie
 139,Žuvėdra,"Parko g. 8A",6062362,591153,"Naujosios Vilnios",139,Žuvėdra,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,10,26,4284,JANTARIKI,,26,0,Rus
@@ -105,24 +105,24 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 669,"Gervelė (Stadiono g. 5)","Stadiono g. 5",6059968,583357,Rasų,669,"Gervelė (Stadiono g. 5)",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,12,46,6581,Darželis_1,,31,15,Lie
 670,"Kūlverstukas (Mindaugo g. 7)","Mindaugo g. 7",6061130,582078,Naujamiesčio,670,"Kūlverstukas (Mindaugo g. 7)",3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,3,12,6587,ZAIČIATA,,12,0,Rus
 670,"Kūlverstukas (Mindaugo g. 7)","Mindaugo g. 7",6061130,582078,Naujamiesčio,670,"Kūlverstukas (Mindaugo g. 7)",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,8,13,6601,"DARŽELIS 1 2020",,8,5,Lie
-722,"Gilužis (Įsruties g. 30)","Įsruties g. 30",6064481,576209,Pilaitės,722,"Gilužis (Įsruties g. 30)",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,146,80,6785,AITVARIUKŲ,,77,3,Lie
+722,"Gilužis (Įsruties g. 30)","Įsruties g. 30",6064481,576209,Pilaitės,722,"Gilužis (Įsruties g. 30)",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,147,80,6785,AITVARIUKŲ,,77,3,Lie
 10227,Bajorėlis,"Bajorų kel. 10",6069486,580981,Verkių,10227,Bajorėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,5,8,6916,SAULUTĖS,,8,0,Len
-10227,Bajorėlis,"Bajorų kel. 10",6069486,580981,Verkių,10227,Bajorėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,220,13,6932,Laiveliai,,13,0,Lie
+10227,Bajorėlis,"Bajorų kel. 10",6069486,580981,Verkių,10227,Bajorėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,221,13,6932,Laiveliai,,13,0,Lie
 10228,"Pagrandukas (Beržyno g. 7A )","Beržyno g. 7A",6061239,580945,Naujamiesčio,10228,"Pagrandukas (Beržyno g. 7A )",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,21,48,6943,Lopšelis_2022,,46,2,Lie
-94,Puriena,"Tujų g. 1",6063771,579356,Viršuliškių,94,Puriena,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,14,15,7052,"2022 m . amž. grupė 2024",,15,0,Lie
+94,Puriena,"Tujų g. 1",6063771,579356,Viršuliškių,94,Puriena,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,15,15,7052,"2022 m . amž. grupė 2024",,15,0,Lie
 41,Daigelis,"Dariaus ir Girėno g. 14",6059212,582247,Naujininkų,41,Daigelis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,2,30,7109,"LOPŠELIS 2024",,16,14,Lie
-59,Karuselė,"Gedvydžių g. 25A",6067281,579910,Fabijoniškių,59,Karuselė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,33,15,7200,"LOPŠELIS 2024",,13,2,Lie
-124,Vilnelė,"Pergalės g. 20",6062147,591050,"Naujosios Vilnios",124,Vilnelė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,46,15,7228,Šaltinėlis2024,,15,0,Lie
+59,Karuselė,"Gedvydžių g. 25A",6067281,579910,Fabijoniškių,59,Karuselė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,34,15,7200,"LOPŠELIS 2024",,13,2,Lie
+124,Vilnelė,"Pergalės g. 20",6062147,591050,"Naujosios Vilnios",124,Vilnelė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,47,15,7228,Šaltinėlis2024,,15,0,Lie
 143,Berželis,"Taikos g. 187",6064814,578102,Justiniškių,143,Berželis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,11,14,7277,"PELĖDOS 2024",,14,0,Lie
 143,Berželis,"Taikos g. 187",6064814,578102,Justiniškių,143,Berželis,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,1,5,7279,"UOGELĖS 2024",,2,3,Len
 158,Vieversys,"Žirmūnų g. 89",6065626,584093,Žirmūnų,158,Vieversys,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,10,15,7284,"LOPŠELIS 2024",,15,0,Lie
-51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,12,30,7292,"Ąžuoliukai 2024",,22,8,Lie
+51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,13,30,7292,"Ąžuoliukai 2024",,22,8,Lie
 139,Žuvėdra,"Parko g. 8A",6062362,591153,"Naujosios Vilnios",139,Žuvėdra,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,15,12,7377,"AUKSINĖ ŽUVELĖ  2024",,12,0,Lie
 140,Žvangutis,"Rinktinės g. 38A",6063137,582826,Šnipiškių,140,Žvangutis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,19,12,7579,Meškučių,,11,1,Lie
 33,Aušrelė,"Gerosios Vilties g. 28",6060144,580536,Vilkpėdės,33,Aušrelė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,8,28,7601,"DRUGELIAI 2024",,26,2,Lie
-31,Aitvaras,"Pašilaičių g. 10",6066674,579323,Pašilaičių,31,Aitvaras,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,63,15,7710,"LOPŠELIS 2024",,14,1,Lie
+31,Aitvaras,"Pašilaičių g. 10",6066674,579323,Pašilaičių,31,Aitvaras,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,64,15,7710,"LOPŠELIS 2024",,14,1,Lie
 131,Žemyna,"Žemynos g. 13",6066007,579220,Pašilaičių,131,Žemyna,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,62,15,7711,"LOPŠELIS 2024",,15,0,Lie
-37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,8,15,7712,"LOPŠELIS 2024",,14,1,Lie
+37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,9,15,7712,"LOPŠELIS 2024",,14,1,Lie
 113,Strazdelis,"Igno Šimulionio g. 14",6063215,579213,Karoliniškių,113,Strazdelis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,54,12,7724,LOPŠELIS_2024,,12,0,Lie
 50,"Geniukų kalvė","Muitinės g. 30",6060913,581389,Naujamiesčio,50,"Geniukų kalvė",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,30,12,7725,"LOPŠELIS 2024 A",,12,0,Lie
 86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,23,15,7726,"LOPŠELIS 2024 (ŽIRMŪNŲ G. 92)",,15,0,Lie
@@ -148,16 +148,16 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,5,30,699,ĄŽUOLIUKAI,,30,0,Lie
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,20,"Nuo 2 iki 6 metų",2,6,5,Lenkų,2,14,702,SAULUTĖ,,13,1,Len
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,20,"Nuo 2 iki 6 metų",2,6,3,Lietuvių,7,14,709,RAMUNĖLĖS,,14,0,Lie
-54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,222,43,858,Pabiručiai,,43,0,Lie
-54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,133,65,7366,"2024 grupė",,61,4,Lie
-54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",20,"Nuo 2 iki 6 metų",2,6,5,Lenkų,4,25,7370,"2024 lenkų grupė",,24,1,Len
+54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,220,43,858,Pabiručiai,,43,0,Lie
+54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,132,65,7366,"2024 grupė",,61,4,Lie
+54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",20,"Nuo 2 iki 6 metų",2,6,5,Lenkų,5,25,7370,"2024 lenkų grupė",,24,1,Len
 55,Giraitė,"Erfurto g. 42",6060492,577795,Lazdynų,55,Giraitė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,6,56,894,Uogelės,,56,0,Lie
 56,Gudrutis,"Trakų g. 12",6061176,582562,Senamiesčio,56,Gudrutis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,23,47,935,Boružėlių,,48,-1,Lie
-57,Jovarėlis,"S. Stanevičiaus g. 21",6065903,580841,Fabijoniškių,57,Jovarėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,20,81,973,BORUŽĖLĖS,,80,1,Lie
-58,Jurginėlis,"Justiniškių g. 47",6063867,578565,Viršuliškių,58,Jurginėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,6,51,1013,Drugelių,,51,0,Lie
+57,Jovarėlis,"S. Stanevičiaus g. 21",6065903,580841,Fabijoniškių,57,Jovarėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,21,81,973,BORUŽĖLĖS,,80,1,Lie
+58,Jurginėlis,"Justiniškių g. 47",6063867,578565,Viršuliškių,58,Jurginėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,7,51,1013,Drugelių,,51,0,Lie
 59,Karuselė,"Gedvydžių g. 25A",6067281,579910,Fabijoniškių,59,Karuselė,12,"Nuo 2 iki 3 metų",2,3,2,Rusų,1,29,7199,"LOPŠELIS 2024",,29,0,Rus
 59,Karuselė,"Gedvydžių g. 25A",6067281,579910,Fabijoniškių,59,Karuselė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,15,34,7198,"LOPŠELIS 2024",,31,3,Lie
-60,Kaštonas,"Antakalnio g. 108",6065178,584748,Antakalnio,60,Kaštonas,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,1,25,1101,NYKŠTUKAI,,22,3,Rus
+60,Kaštonas,"Antakalnio g. 108",6065178,584748,Antakalnio,60,Kaštonas,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,2,25,1101,NYKŠTUKAI,,22,3,Rus
 60,Kaštonas,"Antakalnio g. 108",6065178,584748,Antakalnio,60,Kaštonas,18,"Nuo 2 iki 4 metų",2,4,5,Lenkų,2,30,1144,"BITUTĖS 2023",,25,5,Len
 61,"Krivūlė (Lydos g. 5)","Lydos g. 5",6060976,582608,Senamiesčio,61,"Krivūlė (Lydos g. 5)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,35,32,1151,EŽIUKAI,,31,1,Lie
 62,"Kodėlčiukas (Laisvės pr. 59)","Laisvės pr. 59",6065259,579457,Šeškinės,62,"Kodėlčiukas (Laisvės pr. 59)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,8,89,1188,Katinėliai,,76,13,Lie
@@ -167,7 +167,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 69,Liepsnelė,"Kapsų g. 7",6059010,582319,Naujininkų,69,Liepsnelė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,1,20,1410,SAULUTĖ,,20,0,Lie
 71,"Lokiuko giraitė","Kovo 11-osios g. 54",6059688,571108,Grigiškių,71,"Lokiuko giraitė",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,18,50,1463,BORUŽĖLIŲ,,50,0,Lie
 72,Markučiai,"Pakraščio g. 15",6060712,585088,Rasų,72,Markučiai,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,18,65,1505,Drugelių,,60,5,Lie
-73,Mažylis,"A. Vivulskio g. 8A",6060965,581849,Naujamiesčio,73,Mažylis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,30,33,1561,"1 LOPŠELIO GR. ",,33,0,Lie
+73,Mažylis,"A. Vivulskio g. 8A",6060965,581849,Naujamiesčio,73,Mažylis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,31,33,1561,"1 LOPŠELIO GR. ",,33,0,Lie
 74,Medynėlis,"Algimanto Petro Kavoliuko g. 5",6062825,578008,Karoliniškių,74,Medynėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,39,98,1581,ANČIUKAI,,98,0,Lie
 75,Molinukas,"Keramikų g. 34",6066566,588317,Antakalnio,75,Molinukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,15,25,1614,KAČIUKŲ,,25,0,Lie
 76,"Naminukas (Smėlio g. 13)","Smėlio g. 13",6064053,584594,Antakalnio,76,"Naminukas (Smėlio g. 13)",18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,8,15,1639,"NYKŠTUKAI ",,15,0,Lie
@@ -185,10 +185,10 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 89,Pelėda,"Musninkų g. 10",6065012,579870,Šeškinės,89,Pelėda,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,4,59,2076,BORUŽIUKŲ,,59,0,Lie
 90,Pelenė,"Justiniškių g. 84",6065928,578486,Justiniškių,90,Pelenė,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,2,25,7349,DARŽ,,22,3,Rus
 90,Pelenė,"Justiniškių g. 84",6065928,578486,Justiniškių,90,Pelenė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,16,45,7356,DARŽ,,45,0,Lie
-91,Pipiras,"Krokuvos g. 6A",6062986,582842,Šnipiškių,91,Pipiras,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,37,54,7474,"DARZELIS 2024",,54,0,Lie
+91,Pipiras,"Krokuvos g. 6A",6062986,582842,Šnipiškių,91,Pipiras,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,38,54,7474,"DARZELIS 2024",,54,0,Lie
 92,"Prie pasakų parko","Loretos Asanavičiūtės g. 7",6061370,577417,Karoliniškių,92,"Prie pasakų parko",12,"Nuo 2 iki 3 metų",2,3,2,Rusų,,9,2219,"LINKSMOJI ŠEIMYNĖLĖ (SPEC)",Taip,9,0,Rus
 93,"Pumpurėlis (Kalvarijų g. 186)","Kalvarijų g. 186",6064711,582594,Šnipiškių,93,"Pumpurėlis (Kalvarijų g. 186)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,38,71,7161,"LOPŠELIS 2024",,68,3,Lie
-94,Puriena,"Tujų g. 1",6063771,579356,Viršuliškių,94,Puriena,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,1,75,2345,"Boružiukų ",,70,5,Lie
+94,Puriena,"Tujų g. 1",6063771,579356,Viršuliškių,94,Puriena,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,2,75,2345,"Boružiukų ",,70,5,Lie
 95,Pušaitė,"Bistryčios g. 3",6064071,584954,Antakalnio,95,Pušaitė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,20,86,2386,MEŠKUČIAI,,86,0,Lie
 96,"Pušynėlis (Miglos g. 53)","Miglos g. 53",6063459,580031,Žvėryno,96,"Pušynėlis (Miglos g. 53)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,7,32,7038,2024_LOPŠELIS,,29,3,Lie
 97,Raktelis,"A.P. Kavoliuko g. 12",0,0,Karoliniškių,97,Raktelis,18,"Nuo 2 iki 4 metų",2,4,5,Lenkų,3,28,2439,BITUTĖS,,26,2,Len
@@ -216,23 +216,23 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 118,Užupiukas,"Filaretų g. 19",6061661,584236,Senamiesčio,118,Užupiukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,36,65,3337,EŽIUKŲ,,63,2,Lie
 119,Vaidilutė,"Rinktinės g. 29",6063132,583062,Žirmūnų,119,Vaidilutė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,9,20,3377,Žibutė,,20,0,Lie
 119,Vaidilutė,"Rinktinės g. 29",6063132,583062,Žirmūnų,119,Vaidilutė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,8,54,7481,"LOPŠELIS 2024-2025",,50,4,Lie
-120,Vandenis,"P. Žadeikos g. 14A",6067055,579871,Fabijoniškių,120,Vandenis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,49,80,3434," LOPŠELIS-NAUJA 1",,80,0,Lie
+120,Vandenis,"P. Žadeikos g. 14A",6067055,579871,Fabijoniškių,120,Vandenis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,50,80,3434," LOPŠELIS-NAUJA 1",,80,0,Lie
 121,Varpelis,"Ukmergės g. 204",6064729,580302,Šeškinės,121,Varpelis,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,9,29,7659,Nauja-4-2024,,29,0,Lie
 121,Varpelis,"Ukmergės g. 204",6064729,580302,Šeškinės,121,Varpelis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,6,30,3460,LAŠIUKŲ,,30,0,Lie
 123,Vėtrungė,"Gardino g. 8",6059622,583920,Rasų,123,Vėtrungė,20,"Nuo 2 iki 6 metų",2,6,2,Rusų,3,18,7047,"DARŽELIS 2024",,18,0,Rus
 123,Vėtrungė,"Gardino g. 8",6059622,583920,Rasų,123,Vėtrungė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,20,29,3605,"""BORUŽĖLIŲ"" GR. 2023",,29,0,Lie
 124,Vilnelė,"Pergalės g. 20",6062147,591050,"Naujosios Vilnios",124,Vilnelė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,37,48,3630,Pipiras,,47,1,Lie
-125,Vėrinėlis,"S. Stanevičiaus g. 68",6066290,580731,Fabijoniškių,125,Vėrinėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,18,17,3660,GINTARĖLIAI,,17,0,Lie
+125,Vėrinėlis,"S. Stanevičiaus g. 68",6066290,580731,Fabijoniškių,125,Vėrinėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,19,17,3660,GINTARĖLIAI,,17,0,Lie
 125,Vėrinėlis,"S. Stanevičiaus g. 68",6066290,580731,Fabijoniškių,125,Vėrinėlis,18,"Nuo 2 iki 4 metų",2,4,5,Lenkų,1,23,7186,"2. Varpelis 2024",,19,4,Len
 126,Viltenė,"Gerosios Vilties g. 7A",6059971,580170,Vilkpėdės,126,Viltenė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,6,46,3732,Kiškučiai,,46,0,Lie
 127,Voveraitė,"Jūratės g. 4A",6063156,584800,Antakalnio,127,Voveraitė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,13,53,3783,GENIUKŲ,,53,0,Lie
 127,Voveraitė,"Jūratės g. 4A",6063156,584800,Antakalnio,127,Voveraitė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,13,16,3784,LAPIUKŲ,,16,0,Lie
 128,"Trakų Vokės","Eduardo Andrė g. 6",6055241,571717,Panerių,128,"Trakų Vokės",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,26,50,3812,BITUČIŲ,,51,-1,Lie
 131,Žemyna,"Žemynos g. 13",6066007,579220,Pašilaičių,131,Žemyna,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,34,67,3979,LOPŠELIS_2023,,67,0,Lie
-132,Žemuogėlė,"Architektų g. 108",6060702,577330,Lazdynų,132,Žemuogėlė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,8,17,3990,"VIEVERSIUKAI ",,17,0,Lie
+132,Žemuogėlė,"Architektų g. 108",6060702,577330,Lazdynų,132,Žemuogėlė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,9,17,3990,"VIEVERSIUKAI ",,17,0,Lie
 133,Žibutė,"Architektų g. 62",6060142,578099,Lazdynų,133,Žibutė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,9,33,4022,BORUŽĖLĖS,,33,0,Lie
 134,Žiedas,"Žemynos g. 41",6066420,579182,Pašilaičių,134,Žiedas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,29,59,7648,AGUONĖLĖS,,59,0,Lie
-135,Žilvitis,"Viršuliškių g. 9",6064823,579066,Viršuliškių,135,Žilvitis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,6,32,7674,"2022 NAUJA 2024",,31,1,Lie
+135,Žilvitis,"Viršuliškių g. 9",6064823,579066,Viršuliškių,135,Žilvitis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,7,32,7674,"2022 NAUJA 2024",,31,1,Lie
 136,Žilvinėlio,"Taikos g. 130",6065108,578345,Justiniškių,136,Žilvinėlio,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,4,34,4155,ĄŽUOLIUKAI,,34,0,Lie
 137,Žiogelis,"J. Kolaso g. 15",6060159,587527,"Naujosios Vilnios",137,Žiogelis,19,"Nuo 2 iki 5 metų",2,5,5,Lenkų,3,27,7461,"darželis 2-5",,27,0,Len
 137,Žiogelis,"J. Kolaso g. 15",6060159,587527,"Naujosios Vilnios",137,Žiogelis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,47,90,4236,"NAUJA 2023 LOPŠELIS",,87,3,Lie
@@ -240,7 +240,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,20,"Nuo 2 iki 6 metų",2,6,3,Lietuvių,1,6,4243,"SAULUTĖ (spec)",Taip,6,0,Lie
 140,Žvangutis,"Rinktinės g. 38A",6063137,582826,Šnipiškių,140,Žvangutis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,3,10,4319,MEŠKUČIŲ,,10,0,Lie
 140,Žvangutis,"Rinktinės g. 38A",6063137,582826,Šnipiškių,140,Žvangutis,20,"Nuo 2 iki 6 metų",2,6,3,Lietuvių,4,18,4320,KIŠKUČIŲ,,18,0,Lie
-141,Žirniukas,"Verkių g. 17",6064149,582987,Žirmūnų,141,Žirniukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,9,17,4351,ZUIKUČIAI,,17,0,Lie
+141,Žirniukas,"Verkių g. 17",6064149,582987,Žirmūnų,141,Žirniukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,8,17,4351,ZUIKUČIAI,,17,0,Lie
 142,Aušros,"Medeinos g. 5",6066482,578753,Pašilaičių,142,Aušros,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,22,37,4410,Naminukai,,36,1,Lie
 143,Berželis,"Taikos g. 187",6064814,578102,Justiniškių,143,Berželis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,2,33,4497,MEŠKIUKAI,,30,3,Lie
 144,Pelėdžiukas,"Lentvario g. 1A",6060360,569724,Grigiškių,144,Pelėdžiukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,23,15,4524,SKRUZDELIUKAI,,15,0,Lie
@@ -262,24 +262,24 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 164,Saulėgrąža,"Taikos g. 31",6065577,579285,Justiniškių,164,Saulėgrąža,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,3,107,5410,"Boruželės ",,99,8,Lie
 165,"Pilaitukas (I. Kanto al. 7A)","I. Kanto al. 7A",6063636,576352,Pilaitės,165,"Pilaitukas (I. Kanto al. 7A)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,85,19,5453,MENULIUKAI,,19,0,Lie
 166,Vilija,"Taikos g. 15",6065439,579250,Justiniškių,166,Vilija,12,"Nuo 2 iki 3 metų",2,3,5,Lenkų,4,49,5556," Kačiukai (Laisvės pr. 57) ",,49,0,Len
-169,Švelnukas,"Giedraičių g. 60",6063926,582484,Šnipiškių,169,Švelnukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,33,48,5629,"LOPŠELIS - 2023",,47,1,Lie
-170,Boružėlė,"Latvių g. 40",6062729,580386,Žvėryno,170,Boružėlė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,20,21,5643,Ąžuoliukai,,21,0,Lie
-170,Boružėlė,"Latvių g. 40",6062729,580386,Žvėryno,170,Boružėlė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,12,64,7540,2024_1,,61,3,Lie
+169,Švelnukas,"Giedraičių g. 60",6063926,582484,Šnipiškių,169,Švelnukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,35,48,5629,"LOPŠELIS - 2023",,47,1,Lie
+170,Boružėlė,"Latvių g. 40",6062729,580386,Žvėryno,170,Boružėlė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,21,21,5643,Ąžuoliukai,,21,0,Lie
+170,Boružėlė,"Latvių g. 40",6062729,580386,Žvėryno,170,Boružėlė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,13,64,7540,2024_1,,61,3,Lie
 171,Žaliakalnio,"Pergalės g. 22",6062066,591084,"Naujosios Vilnios",171,Žaliakalnio,12,"Nuo 2 iki 3 metų",2,3,5,Lenkų,11,49,7023,"LOPŠELIS 2024",,47,2,Len
 181,Volungės,"Volungės g. 10",6063736,585009,Antakalnio,181,Volungės,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,22,30,5716,Zylutės,,29,1,Lie
 186,Giliukas,"Minties g. 1",6064058,583842,Žirmūnų,186,Giliukas,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,24,17,5766,PABIRUČIAI,,17,0,Lie
 186,Giliukas,"Minties g. 1",6064058,583842,Žirmūnų,186,Giliukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,22,49,7234,LOPŠELIS_2024,,49,0,Lie
-273,Santariškių,"Santariškių g. 27A",6070181,582535,Verkių,273,Santariškių,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,157,51,5841,Agrastukai,,51,0,Lie
+273,Santariškių,"Santariškių g. 27A",6070181,582535,Verkių,273,Santariškių,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,156,51,5841,Agrastukai,,51,0,Lie
 280,"Vilnios pagrindinė mokykla","Palydovo g. 29A",6063647,591077,"Naujosios Vilnios",280,"Vilnios pagrindinė mokykla",18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,8,27,5884,KREGŽDUTĖS,,27,0,Lie
 280,"Vilnios pagrindinė mokykla","Palydovo g. 29A",6063647,591077,"Naujosios Vilnios",280,"Vilnios pagrindinė mokykla",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,8,9,5872,DRUGELIAI,,9,0,Lie
 283,Atžalyno,"Genių g. 25",6062221,591842,"Naujosios Vilnios",283,Atžalyno,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,26,33,7126,"DARŽELIS_V 2024",,33,0,Lie
 327,Ąžuolas,"Žirmūnų g. 32",6063664,583795,Žirmūnų,327,Ąžuolas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,18,79,7486,LOPŠELIS-24,,78,1,Lie
-377,Gluosnis,"Justiniškių g. 65",6064191,578425,Viršuliškių,377,Gluosnis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,8,48,6368,LAPIUKAI,,47,1,Lie
+377,Gluosnis,"Justiniškių g. 65",6064191,578425,Viršuliškių,377,Gluosnis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,9,48,6368,LAPIUKAI,,47,1,Lie
 388,Žolynas,"Žolyno g. 45A",6064325,586025,Antakalnio,388,Žolynas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,13,36,6462,Aguonėles,,35,1,Lie
 597,"Gintarėlis (Popieriaus g. 46A)","Popieriaus g. 46A",6070424,586127,Verkių,597,"Gintarėlis (Popieriaus g. 46A)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,19,15,7375,"2024 grupė",,15,0,Lie
 597,"Gintarėlis (Popieriaus g. 46A)","Popieriaus g. 46A",6070424,586127,Verkių,597,"Gintarėlis (Popieriaus g. 46A)",18,"Nuo 2 iki 4 metų",2,4,5,Lenkų,3,16,6500,Varliukai,,16,0,Len
-667,"Pušynėlis (A. Mickevičiaus g. 21)","A. Mickevičiaus g. 21",6062243,580686,Žvėryno,667,"Pušynėlis (A. Mickevičiaus g. 21)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,7,37,7037,2024_LOPŠELIS,,29,8,Lie
-667,"Pušynėlis (A. Mickevičiaus g. 21)","A. Mickevičiaus g. 21",6062243,580686,Žvėryno,667,"Pušynėlis (A. Mickevičiaus g. 21)",18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,11,20,6519,NYKŠTUKAI,,20,0,Lie
+667,"Pušynėlis (A. Mickevičiaus g. 21)","A. Mickevičiaus g. 21",6062243,580686,Žvėryno,667,"Pušynėlis (A. Mickevičiaus g. 21)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,6,37,7037,2024_LOPŠELIS,,29,8,Lie
+667,"Pušynėlis (A. Mickevičiaus g. 21)","A. Mickevičiaus g. 21",6062243,580686,Žvėryno,667,"Pušynėlis (A. Mickevičiaus g. 21)",18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,10,20,6519,NYKŠTUKAI,,20,0,Lie
 669,"Gervelė (Stadiono g. 5)","Stadiono g. 5",6059968,583357,Rasų,669,"Gervelė (Stadiono g. 5)",18,"Nuo 2 iki 4 metų",2,4,2,Rusų,2,13,6557,BORUŽĖLĖS,,13,0,Rus
 670,"Kūlverstukas (Mindaugo g. 7)","Mindaugo g. 7",6061130,582078,Naujamiesčio,670,"Kūlverstukas (Mindaugo g. 7)",18,"Nuo 2 iki 4 metų",2,4,2,Rusų,4,18,7263,"DARŽELIS 2024",,12,6,Rus
 676,"Lazdynų mokykla (Liudvinavo g.128)","Liudvinavo g. 128",6055957,572917,Panerių,676,"Lazdynų mokykla (Liudvinavo g.128)",20,"Nuo 2 iki 6 metų",2,6,3,Lietuvių,2,38,7216,"Rusų 2024",,19,19,Lie
@@ -288,7 +288,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 687,Malūnėlis,"Popieriaus g. 7",6071178,585719,Verkių,687,Malūnėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,74,17,6716,BORUŽĖLĖS,,17,0,Lie
 721,"Pumpurėlis (Trinapolio g. 11)","Trinapolio g. 11",6066065,583013,Šnipiškių,721,"Pumpurėlis (Trinapolio g. 11)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,16,15,6766,GUDRUČIAI,,15,0,Lie
 10204,"Kodėlčiukas (Pavilnionių g. 29)","Pavilnionių g. 29",6067356,578544,Pašilaičių,10204,"Kodėlčiukas (Pavilnionių g. 29)",18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,70,24,6826,"DARŽELIS _1_2023",,24,0,Lie
-10219,"Pilaitukas (Vydūno g. 2-57A)","Vydūno g. 2 - 57A",0,0,Pilaitės,10219,"Pilaitukas (Vydūno g. 2-57A)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,83,61,6869,Gandriukai,,61,0,Lie
+10219,"Pilaitukas (Vydūno g. 2-57A)","Vydūno g. 2 - 57A",0,0,Pilaitės,10219,"Pilaitukas (Vydūno g. 2-57A)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,82,61,6869,Gandriukai,,61,0,Lie
 10220,"Vėjelis (Medeinos g.8A)","Medeinos g. 8A",6066703,579031,Pašilaičių,10220,"Vėjelis (Medeinos g.8A)",18,"Nuo 2 iki 4 metų",2,4,5,Lenkų,2,23,7131,"Darželis (PL) 2024",,21,2,Len
 10220,"Vėjelis (Medeinos g.8A)","Medeinos g. 8A",6066703,579031,Pašilaičių,10220,"Vėjelis (Medeinos g.8A)",12,"Nuo 2 iki 3 metų",2,3,2,Rusų,2,15,6899,Žvaigždutės,,15,0,Rus
 10220,"Vėjelis (Medeinos g.8A)","Medeinos g. 8A",6066703,579031,Pašilaičių,10220,"Vėjelis (Medeinos g.8A)",12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,29,45,7132,"Darželis (LT) 2024",,41,4,Lie
@@ -302,17 +302,17 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,12,"Nuo 2 iki 3 metų",2,3,2,Rusų,1,5,7290,"Bitutės 2024",,5,0,Rus
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,19,"Nuo 2 iki 5 metų",2,5,5,Lenkų,2,8,7294,"Saulutė 2024",,2,6,Len
 102,Ramunėlė,"Žirmūnų g. 10",6063409,583687,Žirmūnų,102,Ramunėlė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,6,10,7302,Saulėgrąža2024,,3,7,Lie
-115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,112,29,7339,"PAGRANDUKAI 2024",,25,4,Lie
+115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,111,29,7339,"PAGRANDUKAI 2024",,25,4,Lie
 103,Rūta,"Žirmūnų g. 50",6063864,583954,Žirmūnų,103,Rūta,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,5,30,7346,"LOPŠELINUKAI 2024",,26,4,Lie
 103,Rūta,"Žirmūnų g. 50",6063864,583954,Žirmūnų,103,Rūta,19,"Nuo 2 iki 5 metų",2,5,3,Lietuvių,,4,7392,"SPECIALIOJI PABIRUČIAI 2024",Taip,1,3,Lie
-129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,5,2,7399,"NYKŠTUKAI 2024",,2,0,Lie
+129,Zylutė,"Justiniškių g. 45",6063927,578660,Viršuliškių,129,Zylutė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,6,2,7399,"NYKŠTUKAI 2024",,2,0,Lie
 112,Spragtukas,"Žirmūnų g. 108",6066278,583825,Žirmūnų,112,Spragtukas,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,2,18,7407,"GAIDELIAI 2024",,16,2,Lie
 112,Spragtukas,"Žirmūnų g. 108",6066278,583825,Žirmūnų,112,Spragtukas,19,"Nuo 2 iki 5 metų",2,5,5,Lenkų,,5,7414,"BORUŽĖLĖS 2024",,1,4,Len
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,18,"Nuo 2 iki 4 metų",2,4,5,Lenkų,1,6,7419,"LENKŲ GR.",,4,2,Len
 69,Liepsnelė,"Kapsų g. 7",6059010,582319,Naujininkų,69,Liepsnelė,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,4,8,7424,"DARŽELIS 2024",,0,8,Rus
 156,Obelėlė,"Architektų g. 204",6061258,578692,Lazdynų,156,Obelėlė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,6,17,7427,"PAGRANDUKAI 2024",,9,8,Lie
 80,Pabiručiai,"Brolių g. 18",6059283,581775,Naujininkų,80,Pabiručiai,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,,21,7455,"Peliukų 2024",,14,7,Lie
-91,Pipiras,"Krokuvos g. 6A",6062986,582842,Šnipiškių,91,Pipiras,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,33,0,7473,"LOPŠELIS 2024",,0,0,Lie
+91,Pipiras,"Krokuvos g. 6A",6062986,582842,Šnipiškių,91,Pipiras,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,34,0,7473,"LOPŠELIS 2024",,0,0,Lie
 138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,19,"Nuo 2 iki 5 metų",2,5,3,Lietuvių,,7,7515,"SPEC.DARŽELIS 2024",Taip,0,7,Lie
 92,"Prie pasakų parko","Loretos Asanavičiūtės g. 7",6061370,577417,Karoliniškių,92,"Prie pasakų parko",20,"Nuo 2 iki 6 metų",2,6,5,Lenkų,,3,7535,"SUP LENKŲ 2024",Taip,0,3,Len
 37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,5,8,7545,"Darželis 2-4 m. 2024",,6,2,Lie
@@ -349,9 +349,9 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 52,"Gervelė (Dzūkų g. 32)","Dzūkų g. 32",6059432,582984,Naujininkų,52,"Gervelė (Dzūkų g. 32)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,,22,7247,"LAŠIUKAI 2024",,21,1,Lie
 52,"Gervelė (Dzūkų g. 32)","Dzūkų g. 32",6059432,582984,Naujininkų,52,"Gervelė (Dzūkų g. 32)",4,"Nuo 3 iki 7 metų",3,7,2,Rusų,4,21,765,BURATINO,,20,1,Rus
 53,"Gilužis (Vydūno g. 11A)","Vydūno g. 11A",6063915,576329,Pilaitės,53,"Gilužis (Vydūno g. 11A)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,22,92,828,"NAUJA 2023",,93,-1,Lie
-54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,135,20,834,MEŠKUČIAI,,20,0,Lie
-54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,89,49,7367,"2024 (1) grupė",,48,1,Lie
-54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",14,"Nuo 3 iki 6 metų",3,6,3,Lietuvių,159,19,859,Šypsenėlės,,19,0,Lie
+54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,134,20,834,MEŠKUČIAI,,20,0,Lie
+54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,88,49,7367,"2024 (1) grupė",,48,1,Lie
+54,"Gintarėlis (Didlaukio g. 35)","Didlaukio g. 35",6066821,581859,Verkių,54,"Gintarėlis (Didlaukio g. 35)",14,"Nuo 3 iki 6 metų",3,6,3,Lietuvių,158,19,859,Šypsenėlės,,19,0,Lie
 55,Giraitė,"Erfurto g. 42",6060492,577795,Lazdynų,55,Giraitė,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,1,19,893,Meškiukai,,19,0,Lie
 56,Gudrutis,"Trakų g. 12",6061176,582562,Senamiesčio,56,Gudrutis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,6,25,7614,"Gandriukai 2024",,23,2,Lie
 57,Jovarėlis,"S. Stanevičiaus g. 21",6065903,580841,Fabijoniškių,57,Jovarėlis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,48,969,BITUTĖS,,45,3,Lie
@@ -370,7 +370,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 66,Lakštingala,"Lakštingalų g. 10",6066921,585208,Antakalnio,66,Lakštingala,10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,5,21,1294,Nykštukai,,21,0,Lie
 66,Lakštingala,"Lakštingalų g. 10",6066921,585208,Antakalnio,66,Lakštingala,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,50,1302,Pėledžiukai,,50,0,Lie
 67,Lašelis,"Dzūkų g. 29",6059341,582544,Naujininkų,67,Lašelis,6,"Nuo 3 iki 4 metų",3,4,2,Rusų,1,19,7193,"Nauja 3 2024",,17,2,Rus
-68,Lazdynėlis,"Lazdynų g. 36",6059837,578492,Lazdynų,68,Lazdynėlis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,17,22,1378,ANČIUKAI,,22,0,Lie
+68,Lazdynėlis,"Lazdynų g. 36",6059837,578492,Lazdynų,68,Lazdynėlis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,18,22,1378,ANČIUKAI,,22,0,Lie
 69,Liepsnelė,"Kapsų g. 7",6059010,582319,Naujininkų,69,Liepsnelė,6,"Nuo 3 iki 4 metų",3,4,2,Rusų,2,22,1404,Ramunėlės,,22,0,Rus
 69,Liepsnelė,"Kapsų g. 7",6059010,582319,Naujininkų,69,Liepsnelė,14,"Nuo 3 iki 6 metų",3,6,3,Lietuvių,4,21,1406,Nykštukai,,21,0,Lie
 71,"Lokiuko giraitė","Kovo 11-osios g. 54",6059688,571108,Grigiškių,71,"Lokiuko giraitė",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,55,1450,Bitutės,,50,5,Lie
@@ -387,7 +387,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 81,"Pagrandukas (Mindaugo g.)","Mindaugo g. 15A",6060779,582121,Naujamiesčio,81,"Pagrandukas (Mindaugo g.)",10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,3,3,7586,DARŽELIS_2024,,2,1,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,1,23,7682,"NYKŠTUKAI 2024",,20,3,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,1,22,1911,AITVARELIAI,,20,2,Lie
-86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,22,49,1950,Montesori,,48,1,Lie
+86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,23,49,1950,Montesori,,48,1,Lie
 86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,5,59,7549,"DARŽELIS 2024",,56,3,Lie
 87,Paslaptis,"Darželio g. 7",6062328,591333,"Naujosios Vilnios",87,Paslaptis,4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,,0,2006,"Darželio mišraus amžiaus grupė",,0,0,Lie
 87,Paslaptis,"Darželio g. 7",6062328,591333,"Naujosios Vilnios",87,Paslaptis,10,"Nuo 3 iki 5 metų",3,5,2,Rusų,2,20,2010,FRUTIKI,,20,0,Rus
@@ -427,7 +427,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 113,Strazdelis,"Igno Šimulionio g. 14",6063215,579213,Karoliniškių,113,Strazdelis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,7,73,3129,Bitutės,,70,3,Lie
 114,Sveikuolis,"Dūkštų g. 14",6064720,580125,Šeškinės,114,Sveikuolis,6,"Nuo 3 iki 4 metų",3,4,2,Rusų,,1,3212,"3. DARŽELIS 2022",,1,0,Rus
 115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,6,"Nuo 3 iki 4 metų",3,4,2,Rusų,,20,3225,KRIAUKLELĖS,,18,2,Rus
-115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,69,45,3227,GINTARĖLIAI,,44,1,Lie
+115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,68,45,3227,GINTARĖLIAI,,44,1,Lie
 116,Šypsena,"P. Višinskio g. 23",0,0,Senamiesčio,116,Šypsena,6,"Nuo 3 iki 4 metų",3,4,5,Lenkų,,20,3283,BITUTĖS,,14,6,Len
 117,Šnekutis,"Vytenio g. 41",6060541,581507,Naujamiesčio,117,Šnekutis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,46,7434,"1 DARŽELIS 2024",,44,2,Lie
 118,Užupiukas,"Filaretų g. 19",6061661,584236,Senamiesčio,118,Užupiukas,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,10,71,3334,KAČIUKŲ,,67,4,Lie
@@ -471,8 +471,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 143,Berželis,"Taikos g. 187",6064814,578102,Justiniškių,143,Berželis,6,"Nuo 3 iki 4 metų",3,4,2,Rusų,1,22,7281,"DRUGELIAI 2024",,21,1,Rus
 144,Pelėdžiukas,"Lentvario g. 1A",6060360,569724,Grigiškių,144,Pelėdžiukas,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,,47,4552,Svirpliukai,,42,5,Lie
 145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,10,"Nuo 3 iki 5 metų",3,5,2,Rusų,1,48,4567,Drugeliai,,48,0,Rus
-145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,4,"Nuo 3 iki 7 metų",3,7,5,Lenkų,2,21,7073,"2024 DARŽELIS PL",,20,1,Len
-145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,4,"Nuo 3 iki 7 metų",3,7,2,Rusų,4,23,4594," BORUŽĖLĖS_2021_RU",,22,1,Rus
+145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,4,"Nuo 3 iki 7 metų",3,7,5,Lenkų,3,21,7073,"2024 DARŽELIS PL",,20,1,Len
+145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,4,"Nuo 3 iki 7 metų",3,7,2,Rusų,3,23,4594," BORUŽĖLĖS_2021_RU",,22,1,Rus
 146,Svaja,"Architektų g. 210",6061055,578652,Lazdynų,146,Svaja,6,"Nuo 3 iki 4 metų",3,4,2,Rusų,9,21,4612,"STEBUKLINGAS ŽIBINTAS",,21,0,Rus
 146,Svaja,"Architektų g. 210",6061055,578652,Lazdynų,146,Svaja,10,"Nuo 3 iki 5 metų",3,5,2,Rusų,11,21,4614,"AUKSINĖ ŽUVELĖ",,21,0,Rus
 147,Šilelis,"Sietyno g. 5",6061683,577294,Karoliniškių,147,Šilelis,4,"Nuo 3 iki 7 metų",3,7,5,Lenkų,1,14,4649,SMERFY,,14,0,Len
@@ -507,7 +507,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 171,Žaliakalnio,"Pergalės g. 22",6062066,591084,"Naujosios Vilnios",171,Žaliakalnio,6,"Nuo 3 iki 4 metų",3,4,5,Lenkų,1,50,5677,Bitutė,,48,2,Len
 181,Volungės,"Volungės g. 10",6063736,585009,Antakalnio,181,Volungės,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,4,47,5709,Bitutės,,46,1,Lie
 186,Giliukas,"Minties g. 1",6064058,583842,Žirmūnų,186,Giliukas,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,26,5772,ČIAUŠKUČIAI,,26,0,Lie
-273,Santariškių,"Santariškių g. 27A",6070181,582535,Verkių,273,Santariškių,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,124,58,5836,Giliukai,,57,1,Lie
+273,Santariškių,"Santariškių g. 27A",6070181,582535,Verkių,273,Santariškių,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,123,58,5836,Giliukai,,57,1,Lie
 280,"Vilnios pagrindinė mokykla","Palydovo g. 29A",6063647,591077,"Naujosios Vilnios",280,"Vilnios pagrindinė mokykla",10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,1,19,5867,BORUŽĖLĖS,,19,0,Lie
 283,Atžalyno,"Genių g. 25",6062221,591842,"Naujosios Vilnios",283,Atžalyno,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,3,24,7127,"DARŽELIS_R 2024",,23,1,Lie
 311,"Naujininkų progimnazija","Šaltkalvių g. 32",6058943,581862,Naujininkų,311,"Naujininkų progimnazija",14,"Nuo 3 iki 6 metų",3,6,3,Lietuvių,2,32,7232,"Saulės zuikučiai 2024",,15,17,Lie
@@ -519,19 +519,19 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 377,Gluosnis,"Justiniškių g. 65",6064191,578425,Viršuliškių,377,Gluosnis,10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,6,22,6370,VOVERIUKAI,,22,0,Lie
 388,Žolynas,"Žolyno g. 45A",6064325,586025,Antakalnio,388,Žolynas,10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,3,23,6458,Varpeliai,,23,0,Lie
 388,Žolynas,"Žolyno g. 45A",6064325,586025,Antakalnio,388,Žolynas,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,27,7334,DARŽELIS_2024,,26,1,Lie
-597,"Gintarėlis (Popieriaus g. 46A)","Popieriaus g. 46A",6070424,586127,Verkių,597,"Gintarėlis (Popieriaus g. 46A)",4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,32,43,7376,"2024 (1) grupė",,42,1,Lie
+597,"Gintarėlis (Popieriaus g. 46A)","Popieriaus g. 46A",6070424,586127,Verkių,597,"Gintarėlis (Popieriaus g. 46A)",4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,33,43,7376,"2024 (1) grupė",,42,1,Lie
 597,"Gintarėlis (Popieriaus g. 46A)","Popieriaus g. 46A",6070424,586127,Verkių,597,"Gintarėlis (Popieriaus g. 46A)",4,"Nuo 3 iki 7 metų",3,7,2,Rusų,1,20,6496,"LINKSMASIS AVILYS",,20,0,Rus
 668,"Naminukas (Klinikų g. 5)","Klinikų g. 5",6064324,584673,Antakalnio,668,"Naminukas (Klinikų g. 5)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,2,19,6541,SAULUTĖS,,19,0,Lie
 669,"Gervelė (Stadiono g. 5)","Stadiono g. 5",6059968,583357,Rasų,669,"Gervelė (Stadiono g. 5)",4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,4,9,6559,SPINDULĖLIAI,,9,0,Lie
 669,"Gervelė (Stadiono g. 5)","Stadiono g. 5",6059968,583357,Rasų,669,"Gervelė (Stadiono g. 5)",4,"Nuo 3 iki 7 metų",3,7,2,Rusų,1,16,6560,GĖLYTĖS,,16,0,Rus
 670,"Kūlverstukas (Mindaugo g. 7)","Mindaugo g. 7",6061130,582078,Naujamiesčio,670,"Kūlverstukas (Mindaugo g. 7)",4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,,0,6602,"DARŽELIS 2 2020",,0,0,Lie
-687,Malūnėlis,"Popieriaus g. 7",6071178,585719,Verkių,687,Malūnėlis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,57,19,7354,"Boružėlės 2024",,19,0,Lie
+687,Malūnėlis,"Popieriaus g. 7",6071178,585719,Verkių,687,Malūnėlis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,56,19,7354,"Boružėlės 2024",,19,0,Lie
 688,"Dainorėliai (Goštauto g. 4)","Goštauto g. 4",0,0,Naujamiesčio,688,"Dainorėliai (Goštauto g. 4)",14,"Nuo 3 iki 6 metų",3,6,3,Lietuvių,2,14,6737,PUMPURĖLIAI,,14,0,Lie
 720,"Krivūlė (Vokiečių g. 1)","Vokiečių g. 1",6060985,582957,Senamiesčio,720,"Krivūlė (Vokiečių g. 1)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,3,17,6752,PABIRUČIAI,,17,0,Lie
 721,"Pumpurėlis (Trinapolio g. 11)","Trinapolio g. 11",6066065,583013,Šnipiškių,721,"Pumpurėlis (Trinapolio g. 11)",4,"Nuo 3 iki 7 metų",3,7,3,Lietuvių,7,21,6776,"MIŠRIUKAI 2023",,21,0,Lie
 723,"Pilaitukas (Įsruties g. 27-101)","Įsruties g. 27",6064799,576100,Pilaitės,723,"Pilaitukas (Įsruties g. 27-101)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,19,23,6803,ŽVIRBLIUKAI,,23,0,Lie
 10220,"Vėjelis (Medeinos g.8A)","Medeinos g. 8A",6066703,579031,Pašilaičių,10220,"Vėjelis (Medeinos g.8A)",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,11,29,6891,PELĖDŽIUKAI,,29,0,Lie
-10227,Bajorėlis,"Bajorų kel. 10",6069486,580981,Verkių,10227,Bajorėlis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,109,100,7561,"DARŽELIS 2024",,96,4,Lie
+10227,Bajorėlis,"Bajorų kel. 10",6069486,580981,Verkių,10227,Bajorėlis,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,108,100,7561,"DARŽELIS 2024",,96,4,Lie
 10228,"Pagrandukas (Beržyno g. 7A )","Beržyno g. 7A",6061239,580945,Naujamiesčio,10228,"Pagrandukas (Beržyno g. 7A )",6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,,20,6945,"Darželis_2 ",,17,3,Lie
 720,"Krivūlė (Vokiečių g. 1)","Vokiečių g. 1",6060985,582957,Senamiesčio,720,"Krivūlė (Vokiečių g. 1)",10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,7,18,6988,PABIRUČIAI_2024,,7,11,Lie
 82,Pakalnutė,"Architektų g. 44",6060245,578504,Lazdynų,82,Pakalnutė,6,"Nuo 3 iki 4 metų",3,4,3,Lietuvių,,5,7063,"DARŽELIS 2021",,5,0,Lie
@@ -555,7 +555,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 147,Šilelis,"Sietyno g. 5",6061683,577294,Karoliniškių,147,Šilelis,14,"Nuo 3 iki 6 metų",3,6,5,Lenkų,1,0,7697,"2018-2020 METŲ lenkų 2024",,0,0,Len
 688,"Dainorėliai (Goštauto g. 4)","Goštauto g. 4",0,0,Naujamiesčio,688,"Dainorėliai (Goštauto g. 4)",10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,2,5,7727,"Pumpurėliai 2024",,4,1,Lie
 667,"Pušynėlis (A. Mickevičiaus g. 21)","A. Mickevičiaus g. 21",6062243,580686,Žvėryno,667,"Pušynėlis (A. Mickevičiaus g. 21)",10,"Nuo 3 iki 5 metų",3,5,3,Lietuvių,5,3,7736,Darželis_2024,,0,3,Lie
-31,Aitvaras,"Pašilaičių g. 10",6066674,579323,Pašilaičių,31,Aitvaras,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,4,65,10,KODĖLČIUKAI,,65,0,Lie
+31,Aitvaras,"Pašilaičių g. 10",6066674,579323,Pašilaičių,31,Aitvaras,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,3,65,10,KODĖLČIUKAI,,65,0,Lie
 32,Atžalėlės,"Antakalnio g. 74",6064544,584612,Antakalnio,32,Atžalėlės,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,2,45,7141,DARŽELIS_2024,,45,0,Lie
 32,Atžalėlės,"Antakalnio g. 74",6064544,584612,Antakalnio,32,Atžalėlės,16,"Nuo 4 iki 7 metų",4,7,3,Lietuvių,8,1,56,"VASARAI PERKELIAMI VAIKAI",,1,0,Lie
 33,Aušrelė,"Gerosios Vilties g. 28",6060144,580536,Vilkpėdės,33,Aušrelė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,2,45,103,BORUŽĖLĖS,,45,0,Lie
@@ -607,7 +607,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 82,Pakalnutė,"Architektų g. 44",6060245,578504,Lazdynų,82,Pakalnutė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,5,39,1887,"DARŽELIS 2019",,36,3,Lie
 83,Panerių,"Juodšilių g. 10",6055221,576151,Panerių,83,Panerių,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,1,23,1891,Rūtelė,,23,0,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,,23,7683,"AITVARĖLIAI 2024",,19,4,Lie
-86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,11,79,1993," Boružiukų",,79,0,Lie
+86,Pasaka,"Žirmūnų g. 110",6066164,583842,Žirmūnų,86,Pasaka,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,10,79,1993," Boružiukų",,79,0,Lie
 88,Pasakaitė,"Taikos g. 30",6065569,578964,Justiniškių,88,Pasakaitė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,3,21,2027,Vieversėlių,,21,0,Lie
 89,Pelėda,"Musninkų g. 10",6065012,579870,Šeškinės,89,Pelėda,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,,25,2071,GUDRUČIAI,,20,5,Lie
 90,Pelenė,"Justiniškių g. 84",6065928,578486,Justiniškių,90,Pelenė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,1,24,7357,DARŽ,,20,4,Lie
@@ -679,7 +679,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 136,Žilvinėlio,"Taikos g. 130",6065108,578345,Justiniškių,136,Žilvinėlio,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,2,64,4156,ĄŽUOLIUKAI,,62,2,Lie
 137,Žiogelis,"J. Kolaso g. 15",6060159,587527,"Naujosios Vilnios",137,Žiogelis,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,20,67,7460,"darželis 4-5 2024",,66,1,Lie
 138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,2,34,4251,Avietėlė,Taip,32,2,Lie
-138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,3,0,4273,DARŽELIS_2_2023,,0,0,Lie
+138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,4,0,4273,DARŽELIS_2_2023,,0,0,Lie
 140,Žvangutis,"Rinktinės g. 38A",6063137,582826,Šnipiškių,140,Žvangutis,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,1,21,4317,PELĖDŽIUKŲ,,21,0,Lie
 141,Žirniukas,"Verkių g. 17",6064149,582987,Žirmūnų,141,Žirniukas,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,1,20,7314,"NYKŠTUKAI 2024",,20,0,Lie
 142,Aušros,"Medeinos g. 5",6066482,578753,Pašilaičių,142,Aušros,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,6,22,7499,"GRUPĖ 2024",,22,0,Lie
@@ -704,7 +704,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 161,Lokiukas,"Igno Šimulionio g. 8",6062788,578971,Karoliniškių,161,Lokiukas,7,"Nuo 4 iki 5 metų",4,5,2,Rusų,3,20,5282,BORUŽĖLĖS,,20,0,Rus
 162,Šaltinėlis,"Šaltkalvių g. 13",6059207,581916,Naujininkų,162,Šaltinėlis,13,"Nuo 4 iki 6 metų",4,6,5,Lenkų,,17,5319,Saulutės,,17,0,Len
 162,Šaltinėlis,"Šaltkalvių g. 13",6059207,581916,Naujininkų,162,Šaltinėlis,7,"Nuo 4 iki 5 metų",4,5,5,Lenkų,,25,7467,"Grupė 4-5  2024",,18,7,Len
-163,Gabijėlė,"Gabijos g. 1",6066898,579033,Pašilaičių,163,Gabijėlė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,20,88,5376,BALANDŽIUKŲ,,88,0,Lie
+163,Gabijėlė,"Gabijos g. 1",6066898,579033,Pašilaičių,163,Gabijėlė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,21,88,5376,BALANDŽIUKŲ,,88,0,Lie
 164,Saulėgrąža,"Taikos g. 31",6065577,579285,Justiniškių,164,Saulėgrąža,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,,43,5412,Drugeliai,,43,0,Lie
 165,"Pilaitukas (I. Kanto al. 7A)","I. Kanto al. 7A",6063636,576352,Pilaitės,165,"Pilaitukas (I. Kanto al. 7A)",7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,56,45,5442,BITUTĖS,,45,0,Lie
 166,Vilija,"Taikos g. 15",6065439,579250,Justiniškių,166,Vilija,7,"Nuo 4 iki 5 metų",4,5,5,Lenkų,1,82,5508,ANČIUKAI,,81,1,Len
@@ -774,7 +774,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 47,Eglutė,"Miglos g. 3",6063700,580436,Žvėryno,47,Eglutė,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,5,69,553,EŽIUKAI,,68,1,Lie
 49,Gandriukas,"Fabijoniškių g. 7",6065807,580284,Fabijoniškių,49,Gandriukas,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,3,43,598,Geniukai,,43,0,Lie
 50,"Geniukų kalvė","Muitinės g. 30",6060913,581389,Naujamiesčio,50,"Geniukų kalvė",8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,1,62,645,KIŠKUČIAI,,62,0,Lie
-50,"Geniukų kalvė","Muitinės g. 30",6060913,581389,Naujamiesčio,50,"Geniukų kalvė",11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,1,29,7618,"DARŽELIS ANTRA 2024",,23,6,Lie
+50,"Geniukų kalvė","Muitinės g. 30",6060913,581389,Naujamiesčio,50,"Geniukų kalvė",11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,2,29,7618,"DARŽELIS ANTRA 2024",,23,6,Lie
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,2,32,701,RASELĖS,,25,7,Rus
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,,30,703,PELĖDŽIUKAI,,28,2,Lie
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,,3,758,"LT_DARŽELIS 2023",,2,1,Lie
@@ -919,8 +919,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 136,Žilvinėlio,"Taikos g. 130",6065108,578345,Justiniškių,136,Žilvinėlio,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,1,43,4147,BANGELĖS,,41,2,Lie
 136,Žilvinėlio,"Taikos g. 130",6065108,578345,Justiniškių,136,Žilvinėlio,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,1,15,4150,BERŽELIAI,,15,0,Lie
 137,Žiogelis,"J. Kolaso g. 15",6060159,587527,"Naujosios Vilnios",137,Žiogelis,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,17,47,4194,BITUTĖS,,45,2,Lie
-138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,1,23,4250,Čiobreliai,Taip,18,5,Lie
-138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,1,0,4272,"DARŽELIS_1_ 2023",,0,0,Lie
+138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,7,23,4250,Čiobreliai,Taip,18,5,Lie
+138,Žolynėlis,"Žolyno g. 44",6064324,586286,Antakalnio,138,Žolynėlis,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,2,0,4272,"DARŽELIS_1_ 2023",,0,0,Lie
 139,Žuvėdra,"Parko g. 8A",6062362,591153,"Naujosios Vilnios",139,Žuvėdra,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,2,20,4280,"JŪROS ŽVAIGŽDUTĖS",,20,0,Lie
 139,Žuvėdra,"Parko g. 8A",6062362,591153,"Naujosios Vilnios",139,Žuvėdra,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,1,25,4282,OSMINOŽKI,,20,5,Rus
 140,Žvangutis,"Rinktinės g. 38A",6063137,582826,Šnipiškių,140,Žvangutis,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,,23,4316,ANČIUKŲ,,23,0,Lie
@@ -934,7 +934,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 143,Berželis,"Taikos g. 187",6064814,578102,Justiniškių,143,Berželis,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,1,23,4504,Bitutės,,20,3,Rus
 144,Pelėdžiukas,"Lentvario g. 1A",6060360,569724,Grigiškių,144,Pelėdžiukas,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,,44,7136,"Bitės 2024",,39,5,Lie
 144,Pelėdžiukas,"Lentvario g. 1A",6060360,569724,Grigiškių,144,Pelėdžiukas,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,1,44,7137,"Boružės 2024",,44,0,Lie
-145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,3,49,7074,"2024 DARŽELIS RU B",,48,1,Rus
+145,Saulutė,"Miglos g. 1",6063793,580537,Žvėryno,145,Saulutė,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,2,49,7074,"2024 DARŽELIS RU B",,48,1,Rus
 146,Svaja,"Architektų g. 210",6061055,578652,Lazdynų,146,Svaja,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,2,62,4615,"PRIE ĮLANKOS",,46,16,Rus
 147,Šilelis,"Sietyno g. 5",6061683,577294,Karoliniškių,147,Šilelis,8,"Nuo 5 iki 6 metų",5,6,2,Rusų,2,15,4650,EŽIUKAI,,15,0,Rus
 147,Šilelis,"Sietyno g. 5",6061683,577294,Karoliniškių,147,Šilelis,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,4,20,7696,"2018 METŲ rusų 2024",,18,2,Rus
@@ -1005,7 +1005,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija","Minties g. 3",6064005,583687,Žirmūnų,369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija",11,"Nuo 5 iki 7 metų",5,7,2,Rusų,3,41,6208,"0B (RUSŲ)",,39,2,Rus
 369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija","Minties g. 3",6064005,583687,Žirmūnų,369,"Vilniaus Joachimo Lelevelio inžinerijos gimnazija",11,"Nuo 5 iki 7 metų",5,7,5,Lenkų,1,31,6209,"0A (LENKŲ)",,17,14,Len
 370,"Juzefo Ignacijaus Kraševskio gimnazija","Rugiagėlių g. 15",6063483,591579,"Naujosios Vilnios",370,"Juzefo Ignacijaus Kraševskio gimnazija",11,"Nuo 5 iki 7 metų",5,7,5,Lenkų,1,39,6221,"PRIEŠMOKYKLINĖ 2023",,30,9,Len
-371,"Jono Pauliaus II progimnazija","Rygos g. 10",6065110,578729,Viršuliškių,371,"Jono Pauliaus II progimnazija",11,"Nuo 5 iki 7 metų",5,7,5,Lenkų,9,110,6242,"PRIEŠMOKYKLINĖ 2023",,98,12,Len
+371,"Jono Pauliaus II progimnazija","Rygos g. 10",6065110,578729,Viršuliškių,371,"Jono Pauliaus II progimnazija",11,"Nuo 5 iki 7 metų",5,7,5,Lenkų,10,110,6242,"PRIEŠMOKYKLINĖ 2023",,98,12,Len
 374,"Sausio 13-osios progimnazija","Architektų g. 166",6061530,578374,Lazdynų,374,"Sausio 13-osios progimnazija",11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,7,85,6324,GUDRUČIAI,,78,7,Lie
 375,"Grigiškių gimnazija","Kovo 11-osios g. 21",6059947,570299,Grigiškių,375,"Grigiškių gimnazija",11,"Nuo 5 iki 7 metų",5,7,2,Rusų,6,26,6353,Abėcėlė,,26,0,Rus
 377,Gluosnis,"Justiniškių g. 65",6064191,578425,Viršuliškių,377,Gluosnis,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,2,41,6367,BORUŽĖLĖS,,41,0,Lie
@@ -1054,7 +1054,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 33,Aušrelė,"Gerosios Vilties g. 28",6060144,580536,Vilkpėdės,33,Aušrelė,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,1,34,107,AITVARIUKAI,,34,0,Lie
 40,Čiauškutis,"Sausio 13-osios g. 6",6062138,578557,"Visos seniūnijos",40,Čiauškutis,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,2,18,310,MEŠKUČIAI,Taip,18,0,Lie
 49,Gandriukas,"Fabijoniškių g. 7",6065807,580284,Fabijoniškių,49,Gandriukas,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,3,63,606,"Kregždutės ",,63,0,Lie
-50,"Geniukų kalvė","Muitinės g. 30",6060913,581389,Naujamiesčio,50,"Geniukų kalvė",9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,45,652,BORUŽĖLĖS,,45,0,Lie
+50,"Geniukų kalvė","Muitinės g. 30",6060913,581389,Naujamiesčio,50,"Geniukų kalvė",9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,1,45,652,BORUŽĖLĖS,,45,0,Lie
 51,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,51,Gelvonėlis,9,"Nuo 6 iki 7 metų",6,7,2,Rusų,2,0,716,"NAUJA GRUPĖ",,0,0,Rus
 53,"Gilužis (Vydūno g. 11A)","Vydūno g. 11A",6063915,576329,Pilaitės,53,"Gilužis (Vydūno g. 11A)",9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,16,65,809,Boružėlių,,65,0,Lie
 55,Giraitė,"Erfurto g. 42",6060492,577795,Lazdynų,55,Giraitė,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,1,20,889,LapiukaI,,20,0,Lie
