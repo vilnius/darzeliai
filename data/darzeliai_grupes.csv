@@ -153,6 +153,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 102,Ramunėlė,"Žirmūnų g. 10",6063409,583687,Žirmūnų,102,Ramunėlė,19,"Nuo 2 iki 5 metų",2,5,2,Rusų,,0,2685,NAUJA,,0,0,Rus
 103,Rūta,"Žirmūnų g. 50",6063864,583954,Žirmūnų,103,Rūta,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,1,31,2727,BORUŽĖLĖS,,31,0,Lie
 105,Sakalėlis,"S. Stanevičiaus g. 86",6066416,580734,Fabijoniškių,105,Sakalėlis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,,0,7760,"Laikinai vasarai perkelti vaikai 2024- Gandriukas",,0,0,Lie
+108,Saulėtekis,"Genių g. 12",6062344,591681,"Naujosios Vilnios",108,Saulėtekis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,19,36,7448,Nauja_1_LT,,36,0,Lie
 110,Smalsučiai,"Minties g. 40",6063681,583482,Žirmūnų,110,Smalsučiai,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,,15,7567,"2024 LOPŠELIS (2-3)",,15,0,Lie
 114,Sveikuolis,"Dūkštų g. 14",6064720,580125,Šeškinės,114,Sveikuolis,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,,37,3171,Meškučiai,,34,3,Rus
 115,Šermukšnėlė,"Didlaukio g. 66",6066404,581891,Verkių,115,Šermukšnėlė,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,,17,3261,Darželis_2021,,17,0,Rus
@@ -224,7 +225,6 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,,29,8065,Nauja_2,,18,11,Rus
 156,Obelėlė,"Architektų g. 204",6061258,578692,Lazdynų,156,Obelėlė,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,,0,7427,"PAGRANDUKAI 2024",,0,0,Lie
 42,Delfinukas,"Sietyno g. 9",6062088,577517,Karoliniškių,42,Delfinukas,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,,0,7442,"DARŽELIS 2024-2025",,0,0,Lie
-108,Saulėtekis,"Genių g. 12",6062344,591681,"Naujosios Vilnios",108,Saulėtekis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,19,36,7448,Nauja_1_LT,,36,0,Lie
 108,Saulėtekis,"Genių g. 12",6062344,591681,"Naujosios Vilnios",108,Saulėtekis,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,,21,7449,Nauja_2_RU,,21,0,Rus
 137,Žiogelis,"J. Kolaso g. 15",6060159,587527,"Naujosios Vilnios",137,Žiogelis,19,"Nuo 2 iki 5 metų",2,5,5,Lenkų,1,19,7461,Nauja_2_PL,,19,0,Len
 149,Vaduvos,"Vaduvos g. 14A",6056378,577898,Panerių,149,Vaduvos,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,,23,7470,"Lopšelis II 2024",,16,7,Lie
@@ -939,7 +939,6 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 49,Gandriukas,"Fabijoniškių g. 7",6065807,580284,Fabijoniškių,49,Gandriukas,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,1,21,8359,Nauja_5,,21,0,Lie
 55,Giraitė,"Erfurto g. 42",6060492,577795,Lazdynų,55,Giraitė,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,2,900,Nauja_5,,0,2,Lie
 71,"Lokiuko giraitė","Kovo 11-osios g. 54",6059688,571108,Grigiškių,71,"Lokiuko giraitė",9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,1,0,1499,Nauja_6,,0,0,Lie
-75,Molinukas,"Keramikų g. 34",6066566,588317,Antakalnio,75,Molinukas,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,7,1616,KAČIUKŲ,,1,6,Lie
 78,Nykštukas,"Taikos g. 190",6064340,578266,Justiniškių,78,Nykštukas,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,0,8172,Nauja_5,,0,0,Lie
 79,Ozas,"Gelvonų g. 24",6064973,580945,Šeškinės,79,Ozas,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,59,1714,Aitvarėliai,,59,0,Lie
 80,Pabiručiai,"Brolių g. 18",6059283,581775,Naujininkų,80,Pabiručiai,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,0,8266,Nauja_5,,0,0,Lie
@@ -988,6 +987,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 147,Šilelis,"Sietyno g. 5",6061683,577294,Karoliniškių,147,Šilelis,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,0,4674,Nauja_6_LT,,0,0,Lie
 56,Gudrutis,"Trakų g. 12",6061176,582562,Senamiesčio,56,Gudrutis,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,17,934,Bitutės,,17,0,Lie
 113,Strazdelis,"Igno Šimulionio g. 14",6063215,579213,Karoliniškių,113,Strazdelis,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,22,7863,"nauja 2024 2018",,21,1,Lie
+75,Molinukas,"Keramikų g. 34",6066566,588317,Antakalnio,75,Molinukas,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,3,1616,KAČIUKŲ,,1,2,Lie
 97,Raktelis,"A.P. Kavoliuko g. 12",0,0,Karoliniškių,97,Raktelis,9,"Nuo 6 iki 7 metų",6,7,5,Lenkų,,0,8047,Nauja_7_PL,,0,0,Len
 97,Raktelis,"A.P. Kavoliuko g. 12",0,0,Karoliniškių,97,Raktelis,9,"Nuo 6 iki 7 metų",6,7,2,Rusų,,0,8050,Nauja_10_RU,,0,0,Rus
 99,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,99,Rugelis,9,"Nuo 6 iki 7 metų",6,7,3,Lietuvių,,0,8070,Nauja_7,,0,0,Lie
