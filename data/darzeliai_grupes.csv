@@ -18,7 +18,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 129,Zylutė,"Justiniškių g. 45",6063900,578692,Viršuliškių,129,Zylutė,17,"Nuo 1 iki 2 metų",1,2,5,Lenkų,,9,8695,2025_1-2PL,,4,5,Len
 102,Ramunėlė,"Žirmūnų g. 10",6063409,583687,Žirmūnų,102,Ramunėlė,17,"Nuo 1 iki 2 metų",1,2,3,Lietuvių,5,10,8907,2025_1-2_LT,,10,0,Lie
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,17,"Nuo 1 iki 2 metų",1,2,3,Lietuvių,7,10,8950,2025_1-2,,10,0,Lie
-60,Kaštonas,"Antakalnio g. 108",6065178,584748,Antakalnio,60,Kaštonas,17,"Nuo 1 iki 2 metų",1,2,5,Lenkų,,10,8964,2025_1-2PL,,5,5,Len
+60,Kaštonas,"Antakalnio g. 108",6065178,584748,Antakalnio,60,Kaštonas,17,"Nuo 1 iki 2 metų",1,2,5,Lenkų,1,10,8964,2025_1-2PL,,5,5,Len
 32,Atžalėlės,"Antakalnio g. 74",6064544,584612,Antakalnio,32,Atžalėlės,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,6,41,8790,"2025_1,5-3",,41,0,Lie
 33,Aušrelė,"Gerosios Vilties g. 28",6060144,580536,Vilkpėdės,33,Aušrelė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,35,9017,2025_1.5-3,,31,4,Lie
 37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,57,9271,"2025_1,5-3",,57,0,Lie
@@ -109,7 +109,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 108,Saulėtekis,"Genių g. 12",6062344,591681,"Naujosios Vilnios",108,Saulėtekis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,8,15,9166,"2025_1,5-3_LT",,15,0,Lie
 108,Saulėtekis,"Genių g. 12",6062344,591681,"Naujosios Vilnios",108,Saulėtekis,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,2,0,7450,Nauja_RU,,0,0,Rus
 80,Pabiručiai,"Brolių g. 18",6059283,581775,Naujininkų,80,Pabiručiai,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,24,8766,"2025_1,5-3",,24,0,Lie
-60,Kaštonas,"Antakalnio g. 108",6065178,584748,Antakalnio,60,Kaštonas,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,,2,8975,"2025_1,5-3PL",,2,0,Len
+60,Kaštonas,"Antakalnio g. 108",6065178,584748,Antakalnio,60,Kaštonas,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,1,2,8975,"2025_1,5-3PL",,2,0,Len
 154,Bangelė,"Žemaitės g. 3",6060388,580757,Vilkpėdės,154,Bangelė,3,"Nuo 1.5 iki 3 metų",1.5,3,5,Lenkų,,7,9185,2025_1.5-3PL,,4,3,Len
 154,Bangelė,"Žemaitės g. 3",6060388,580757,Vilkpėdės,154,Bangelė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,,8,9179,"2025_1,5-3RU",,6,2,Rus
 84,Papartis,"Čiobiškio g. 17",6065285,579915,Šeškinės,84,Papartis,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,42,8951,"2025_1,5-3",,41,1,Lie
@@ -536,7 +536,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 32,Atžalėlės,"Antakalnio g. 74",6064544,584612,Antakalnio,32,Atžalėlės,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,2,62,8793,2025_4-5,,62,0,Lie
 33,Aušrelė,"Gerosios Vilties g. 28",6060144,580536,Vilkpėdės,33,Aušrelė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,,25,9024,2025_4-5,,20,5,Lie
 36,Birutės,"Birutės g. 4",6061812,580625,Žvėryno,36,Birutės,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,3,21,192,Boružiukai,,21,0,Lie
-37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,1,43,218,Drugelių,,43,0,Lie
+37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,2,43,218,Drugelių,,43,0,Lie
 37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,,36,216,Boružėlių,,36,0,Lie
 40,Čiauškutis,"Sausio 13-osios g. 6",6062138,578557,"Visos seniūnijos",40,Čiauškutis,13,"Nuo 4 iki 6 metų",4,6,3,Lietuvių,,19,304,Ežiukai,,19,0,Lie
 40,Čiauškutis,"Sausio 13-osios g. 6",6062138,578557,"Visos seniūnijos",40,Čiauškutis,7,"Nuo 4 iki 5 metų",4,5,3,Lietuvių,,23,8664,2025_4-5,Taip,16,7,Lie
@@ -724,8 +724,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 32,Atžalėlės,"Antakalnio g. 74",6064544,584612,Antakalnio,32,Atžalėlės,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,1,43,8794,2025_5-6,,43,0,Lie
 33,Aušrelė,"Gerosios Vilties g. 28",6060144,580536,Vilkpėdės,33,Aušrelė,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,1,37,103,Boružėlės,,37,0,Lie
 36,Birutės,"Birutės g. 4",6061812,580625,Žvėryno,36,Birutės,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,4,22,190,Skruzdėliukai,,22,0,Lie
-37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,1,20,213,Žvirbliukų,,20,0,Lie
-37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,2,40,215,Pelėdžiukai,,40,0,Lie
+37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,2,20,213,Žvirbliukų,,20,0,Lie
+37,Bitutė,"Paberžės g. 20",6065254,580866,Šeškinės,37,Bitutė,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,3,40,215,Pelėdžiukai,,40,0,Lie
 40,Čiauškutis,"Sausio 13-osios g. 6",6062138,578557,"Visos seniūnijos",40,Čiauškutis,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,,18,8666,2025_5-7,Taip,14,4,Lie
 40,Čiauškutis,"Sausio 13-osios g. 6",6062138,578557,"Visos seniūnijos",40,Čiauškutis,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,,34,8665,2025_5-6,Taip,22,12,Lie
 42,Delfinukas,"Sietyno g. 9",6062088,577517,Karoliniškių,42,Delfinukas,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,,20,9263,2025_5-6,,20,0,Lie
