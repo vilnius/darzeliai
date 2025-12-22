@@ -43,7 +43,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 172,Karuselė,"Gedvydžių g. 25A",6067281,579910,Fabijoniškių,172,Karuselė,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,,15,1046,Nykštukas,,14,1,Rus
 172,Karuselė,"Gedvydžių g. 25A",6067281,579910,Fabijoniškių,172,Karuselė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,30,1051,Saulutė,,28,2,Lie
 176,"Kodėlčiukas (Laisvės pr. 59)","Laisvės pr. 59",6065259,579457,Šeškinės,176,"Kodėlčiukas (Laisvės pr. 59)",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,16,1189,Nykštukai,,16,0,Lie
-182,Lakštingala,"Lakštingalų g. 10",6066921,585208,Antakalnio,182,Lakštingala,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,31,1303,Katinėliai,,31,0,Lie
+182,Lakštingala,"Lakštingalų g. 10",6066921,585208,Antakalnio,182,Lakštingala,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,31,1303,Katinėliai,,29,2,Lie
 183,Lašelis,"Dzūkų g. 29",6059341,582544,Naujininkų,183,Lašelis,3,"Nuo 1.5 iki 3 metų",1.5,3,2,Rusų,,14,1344,Skruzdėliukai,,14,0,Rus
 185,Liepsnelė,"Kapsų g. 7",6059010,582319,Naujininkų,185,Liepsnelė,3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,,11,1414,Varpeliai,,11,0,Lie
 187,"Lokiuko giraitė","Kovo 11-osios g. 54",6059688,571108,Grigiškių,187,"Lokiuko giraitė",3,"Nuo 1.5 iki 3 metų",1.5,3,3,Lietuvių,1,16,1463,Boružėlės,,16,0,Lie
@@ -207,7 +207,7 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 217,Rasa,"M. Daukšos g. 15",6060531,583570,Senamiesčio,217,Rasa,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,2,34,2481,Smalsučiai,,34,0,Lie
 217,Rasa,"M. Daukšos g. 15",6060531,583570,Senamiesčio,217,Rasa,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,,15,2484,Ančiukai,,14,1,Lie
 218,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,218,Rugelis,18,"Nuo 2 iki 4 metų",2,4,2,Rusų,,15,2528,Nykštukai,,15,0,Rus
-218,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,218,Rugelis,20,"Nuo 2 iki 6 metų",2,6,5,Lenkų,,17,2532,Bitutės,,17,0,Len
+218,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,218,Rugelis,20,"Nuo 2 iki 6 metų",2,6,5,Lenkų,,16,2532,Bitutės,,16,0,Len
 218,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,218,Rugelis,12,"Nuo 2 iki 3 metų",2,3,3,Lietuvių,,14,2540,Boružėlės,,13,1,Lie
 218,Rugelis,"Kovo 11-osios g. 29A",6059764,570509,Grigiškių,218,Rugelis,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,,16,2568,Pelėdžiukai,,16,0,Lie
 219,Riešutėlis,"Erfurto g. 21",6060722,577783,Lazdynų,219,Riešutėlis,18,"Nuo 2 iki 4 metų",2,4,3,Lietuvių,,14,2598,Riešutėliai,,14,0,Lie
@@ -969,8 +969,8 @@ SCH,LABEL,ADDRESS,GIS_X,GIS_Y,ELDERATE,DARZ_ID,SCHOOL_NAME,TYPE_ID,TYPE_LABEL,AG
 519,Bajorėlis,"Bajorų kelias 10",,,Verkių,519,Bajorėlis,8,"Nuo 5 iki 6 metų",5,6,3,Lietuvių,46,59,6901,Nauja_5-6,,59,0,Lie
 519,Bajorėlis,"Bajorų kelias 10",,,Verkių,519,Bajorėlis,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,66,57,6919,Debesėliai,,57,0,Lie
 520,"Pagrandukas (Beržyno g. 7A )","Beržyno g. 7A",6061238,580945,Naujamiesčio,520,"Pagrandukas (Beržyno g. 7A )",11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,1,20,6939,Pelėdžiukai,,20,0,Lie
-79,"Salininkų gimnazija","Vaikų g. 16",6053400,581401,Naujininkų,79,"Salininkų gimnazija",11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,,37,7086,"PUG A",,32,5,Lie
-15,"Saulėtekio mokykla-daugiafunkcinis centras","Kaminkelio g. 10",6058856,582305,Naujininkų,15,"Saulėtekio mokykla-daugiafunkcinis centras",11,"Nuo 5 iki 7 metų",5,7,2,Rusų,,39,7166,"PRIEŠMOKYKLINĖ 1",,36,3,Rus
+79,"Salininkų gimnazija","Vaikų g. 16",6053400,581401,Naujininkų,79,"Salininkų gimnazija",11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,,37,7086,"PUG A",,31,6,Lie
+15,"Saulėtekio mokykla-daugiafunkcinis centras","Kaminkelio g. 10",6058856,582305,Naujininkų,15,"Saulėtekio mokykla-daugiafunkcinis centras",11,"Nuo 5 iki 7 metų",5,7,2,Rusų,,38,7166,"PRIEŠMOKYKLINĖ 1",,35,3,Rus
 71,"Naujininkų progimnazija","Šaltkalvių g. 32",6058943,581862,Naujininkų,71,"Naujininkų progimnazija",11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,,18,7233,Smalsučiai,,18,0,Lie
 160,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,160,Gelvonėlis,11,"Nuo 5 iki 7 metų",5,7,3,Lietuvių,1,22,7300,Riešutėliai,,22,0,Lie
 160,Gelvonėlis,"Gelvonų g. 1",6065054,581091,Šeškinės,160,Gelvonėlis,11,"Nuo 5 iki 7 metų",5,7,2,Rusų,,20,7301,Raselės,,20,0,Rus
